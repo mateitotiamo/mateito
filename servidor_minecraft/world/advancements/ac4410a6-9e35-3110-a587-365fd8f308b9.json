@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-21 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-06-21 22:26:16 +0000",
+      "mediterranean_forest": "2025-06-21 22:26:42 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2025-06-21 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
