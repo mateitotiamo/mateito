@@ -678,7 +678,8 @@
       "minecraft:spider": "2025-06-21 23:35:15 +0000",
       "minecraft:zombie": "2025-06-21 23:34:20 +0000",
       "minecraft:creeper": "2025-06-24 06:51:23 +0000",
-      "minecraft:drowned": "2025-06-21 23:52:29 +0000"
+      "minecraft:drowned": "2025-06-21 23:52:29 +0000",
+      "minecraft:husk": "2025-06-24 07:13:50 +0000"
     },
     "done": false
   },
@@ -1640,6 +1641,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
@@ -1661,6 +1668,18 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
     },
     "done": true
   },
@@ -1706,6 +1725,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
@@ -1718,9 +1743,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
     },
     "done": true
   },
@@ -1733,6 +1770,12 @@
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-24 06:24:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
     },
     "done": true
   },
@@ -1754,9 +1797,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 05:47:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 07:10:40 +0000"
     },
     "done": true
   },

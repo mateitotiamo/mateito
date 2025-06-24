@@ -15,6 +15,8 @@
       "rocky_shrubland": "2025-06-24 03:36:44 +0000",
       "scrubland": "2025-06-21 23:47:26 +0000",
       "pumpkin_patch": "2025-06-24 03:45:36 +0000",
+      "dune_beach": "2025-06-24 07:13:52 +0000",
+      "gravel_beach": "2025-06-24 07:14:01 +0000",
       "orchard": "2025-06-24 03:37:59 +0000",
       "overgrown_greens": "2025-06-21 23:40:53 +0000",
       "seasonal_forest": "2025-06-24 04:08:52 +0000",
@@ -2346,9 +2348,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-06-24 07:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-24 07:13:36 +0000"
     },
     "done": true
   },
