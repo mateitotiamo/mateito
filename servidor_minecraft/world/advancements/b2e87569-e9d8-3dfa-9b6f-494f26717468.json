@@ -413,6 +413,7 @@
       "minecraft:deep_ocean": "2025-06-24 03:33:04 +0000",
       "minecraft:river": "2025-06-21 23:20:29 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 23:45:23 +0000",
+      "minecraft:meadow": "2025-06-24 05:26:34 +0000",
       "minecraft:stony_shore": "2025-06-21 23:51:29 +0000",
       "minecraft:bamboo_jungle": "2025-06-21 23:45:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 00:16:07 +0000"
@@ -1624,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-06-24 03:49:10 +0000"
@@ -1750,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-24 05:13:52 +0000"
@@ -1864,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:30:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 04:34:08 +0000"
@@ -1939,6 +1958,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-24 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:30:12 +0000"
     },
     "done": true
   },
@@ -2035,6 +2060,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-06-24 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:30:12 +0000"
     },
     "done": true
   },
