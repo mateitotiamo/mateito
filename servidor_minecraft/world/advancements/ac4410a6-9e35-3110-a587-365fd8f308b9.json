@@ -671,6 +671,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-24 07:03:55 +0000",
       "minecraft:skeleton": "2025-06-24 06:22:19 +0000",
       "minecraft:silverfish": "2025-06-21 23:23:04 +0000",
       "minecraft:witch": "2025-06-22 00:08:30 +0000",
