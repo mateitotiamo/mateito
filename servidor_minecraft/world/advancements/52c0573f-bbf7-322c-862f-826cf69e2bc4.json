@@ -426,10 +426,12 @@
       "minecraft:beach": "2025-06-21 23:39:20 +0000",
       "minecraft:dark_forest": "2025-06-21 23:40:48 +0000",
       "minecraft:forest": "2025-06-21 23:40:12 +0000",
+      "minecraft:taiga": "2025-06-24 05:15:32 +0000",
       "minecraft:deep_ocean": "2025-06-22 00:05:24 +0000",
       "minecraft:river": "2025-06-21 23:20:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 23:45:08 +0000",
       "minecraft:stony_shore": "2025-06-21 23:30:38 +0000",
+      "minecraft:deep_dark": "2025-06-24 05:20:02 +0000",
       "minecraft:ocean": "2025-06-21 23:39:35 +0000",
       "minecraft:jungle": "2025-06-21 23:43:50 +0000",
       "minecraft:meadow": "2025-06-24 04:47:39 +0000",
@@ -467,7 +469,8 @@
       "minecraft:spider": "2025-06-21 23:34:53 +0000",
       "minecraft:zombie": "2025-06-24 04:43:36 +0000",
       "minecraft:creeper": "2025-06-21 23:36:11 +0000",
-      "minecraft:drowned": "2025-06-21 23:54:05 +0000"
+      "minecraft:drowned": "2025-06-21 23:54:05 +0000",
+      "minecraft:husk": "2025-06-24 05:24:28 +0000"
     },
     "done": false
   },
@@ -1447,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-24 04:48:32 +0000"
@@ -1462,6 +1471,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-24 04:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1525,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-24 04:51:57 +0000"
@@ -1570,6 +1591,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-06-24 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1627,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-24 05:07:29 +0000"
@@ -1654,6 +1687,18 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-24 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1687,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-24 03:48:32 +0000"
@@ -1708,6 +1759,12 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_planks": "2025-06-24 03:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1780,6 +1837,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-24 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1897,6 +1960,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-24 05:08:00 +0000"
@@ -1906,6 +1981,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-24 03:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1930,6 +2011,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-24 04:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -1999,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-06-24 04:26:47 +0000"
@@ -2044,6 +2137,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-24 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
@@ -2104,6 +2203,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-24 04:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-24 05:15:52 +0000"
     },
     "done": true
   },
