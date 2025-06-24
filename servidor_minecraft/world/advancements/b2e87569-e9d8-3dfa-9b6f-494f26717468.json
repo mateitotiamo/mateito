@@ -1438,9 +1438,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-24 04:14:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
     },
     "done": true
   },
@@ -1480,9 +1498,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-24 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
     },
     "done": true
   },
@@ -1492,9 +1522,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-24 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
     },
     "done": true
   },
@@ -1534,6 +1582,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-06-24 04:13:54 +0000"
@@ -1543,6 +1603,12 @@
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2025-06-24 04:06:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
     },
     "done": true
   },
@@ -1570,6 +1636,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-24 04:06:47 +0000"
@@ -1579,6 +1651,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-24 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
     },
     "done": true
   },
@@ -1630,6 +1708,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-24 04:06:49 +0000"
@@ -1654,6 +1738,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-24 04:00:20 +0000"
@@ -1663,6 +1753,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-06-24 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
     },
     "done": true
   },
@@ -1684,9 +1780,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-06-24 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 04:34:08 +0000"
     },
     "done": true
   },
