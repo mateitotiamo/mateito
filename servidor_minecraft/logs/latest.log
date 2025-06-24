@@ -190,3 +190,14 @@
 [24Jun2025 06:23:21.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
 [24Jun2025 06:23:22.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
 [24Jun2025 06:23:22.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[24Jun2025 06:37:06.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[24Jun2025 06:37:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[24Jun2025 06:37:06.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[24Jun2025 06:43:42.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:60133] logged in with entity id 54440 at (4917.462241122576, 47.0, 2241.021635464509)
+[24Jun2025 06:43:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[24Jun2025 06:43:42.922] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[24Jun2025 06:43:42.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[24Jun2025 06:43:42.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[24Jun2025 06:43:43.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 06:43:44.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 06:43:44.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
