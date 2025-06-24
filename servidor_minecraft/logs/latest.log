@@ -158,3 +158,35 @@
 [24Jun2025 05:47:00.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
 [24Jun2025 05:47:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 1234
 [24Jun2025 05:47:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> 1234
+[24Jun2025 05:57:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzzzzzzzz
+[24Jun2025 05:57:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzz
+[24Jun2025 05:57:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzz
+[24Jun2025 05:57:45.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzz
+[24Jun2025 05:57:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzz
+[24Jun2025 05:57:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzz
+[24Jun2025 05:57:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
+[24Jun2025 05:57:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
+[24Jun2025 05:57:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzz
+[24Jun2025 05:57:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> tay set day
+[24Jun2025 06:00:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[24Jun2025 06:05:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[24Jun2025 06:09:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
+[24Jun2025 06:09:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzz
+[24Jun2025 06:09:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzz
+[24Jun2025 06:09:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24Jun2025 06:10:28.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[24Jun2025 06:10:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[24Jun2025 06:10:28.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[24Jun2025 06:12:26.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved wrongly!
+[24Jun2025 06:22:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Not Today, Thank You]
+[24Jun2025 06:23:06.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[24Jun2025 06:23:06.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[24Jun2025 06:23:06.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[24Jun2025 06:23:21.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:60044] logged in with entity id 48036 at (4830.804828426209, 6.0, 2182.393786091009)
+[24Jun2025 06:23:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[24Jun2025 06:23:21.636] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[24Jun2025 06:23:21.655] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[24Jun2025 06:23:21.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[24Jun2025 06:23:21.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 06:23:22.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 06:23:22.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat

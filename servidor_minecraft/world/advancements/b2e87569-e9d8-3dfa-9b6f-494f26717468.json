@@ -408,6 +408,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-21 23:45:08 +0000",
+      "minecraft:forest": "2025-06-24 05:53:19 +0000",
       "minecraft:taiga": "2025-06-24 04:05:15 +0000",
       "minecraft:ocean": "2025-06-22 00:07:48 +0000",
       "minecraft:deep_ocean": "2025-06-24 03:33:04 +0000",
@@ -1376,6 +1377,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-24 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-24 05:53:19 +0000"
     },
     "done": true
   },
