@@ -9,13 +9,17 @@
     "criteria": {
       "spider_nest": "2025-06-21 23:30:20 +0000",
       "woodland": "2025-06-21 23:16:57 +0000",
-      "floodplain": "2025-06-21 23:42:25 +0000",
       "mystic_grove": "2025-06-22 00:08:10 +0000",
-      "overgrown_greens": "2025-06-21 23:41:44 +0000",
+      "shrubland": "2025-06-24 03:36:35 +0000",
       "old_growth_woodland": "2025-06-21 23:23:34 +0000",
-      "mediterranean_forest": "2025-06-21 23:19:06 +0000",
-      "rainforest": "2025-06-21 23:45:39 +0000",
+      "rocky_shrubland": "2025-06-24 03:36:43 +0000",
       "scrubland": "2025-06-21 23:49:06 +0000",
+      "orchard": "2025-06-24 03:36:57 +0000",
+      "floodplain": "2025-06-21 23:42:25 +0000",
+      "overgrown_greens": "2025-06-21 23:41:44 +0000",
+      "mediterranean_forest": "2025-06-21 23:19:06 +0000",
+      "highland": "2025-06-24 03:38:38 +0000",
+      "rainforest": "2025-06-21 23:45:39 +0000",
       "rocky_rainforest": "2025-06-21 23:42:26 +0000"
     },
     "done": false
@@ -402,6 +406,7 @@
     "criteria": {
       "minecraft:beach": "2025-06-21 23:45:08 +0000",
       "minecraft:ocean": "2025-06-22 00:07:48 +0000",
+      "minecraft:deep_ocean": "2025-06-24 03:33:04 +0000",
       "minecraft:river": "2025-06-21 23:20:29 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 23:45:23 +0000",
       "minecraft:stony_shore": "2025-06-21 23:51:29 +0000",
@@ -1353,6 +1358,60 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_blue_hydrangea": "2025-06-22 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-24 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-24 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-24 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-24 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-24 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-24 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-24 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-24 03:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-24 03:28:42 +0000"
     },
     "done": true
   },

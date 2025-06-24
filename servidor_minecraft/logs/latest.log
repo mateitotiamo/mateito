@@ -121,3 +121,18 @@
 [24Jun2025 03:17:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke was slain by Guardian
 [24Jun2025 03:19:32.491] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
 [24Jun2025 03:21:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Creative Mode]
+[24Jun2025 03:29:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Survival Mode]
+[24Jun2025 03:31:29.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:53842] logged in with entity id 2838 at (2852.4343857251224, 62.110764312744145, 2092.462369606413)
+[24Jun2025 03:31:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[24Jun2025 03:31:29.629] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[24Jun2025 03:31:29.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[24Jun2025 03:31:29.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[24Jun2025 03:31:29.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 03:31:30.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[24Jun2025 03:31:30.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[24Jun2025 03:31:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[24Jun2025 03:37:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> v
+[24Jun2025 03:38:18.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Trying to set block entity net.minecraft.world.level.block.entity.BrushableBlockEntity@6f771fc7 at position BlockPos{x=4658, y=55, z=1745}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[24Jun2025 03:38:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[24Jun2025 03:39:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> si
+[24Jun2025 03:40:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 1234
