@@ -2028,3 +2028,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jun2025 03:40:20.327] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of WooZiMu_: {disabled=false, disconnected=false, uuid=52c0573f-bbf7-322c-862f-826cf69e2bc4, name=WooZiMu_, group=17fc90b3-bfd0-4cf0-a5cb-7fbdcde5d61d}
 [24Jun2025 03:44:36.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jun2025 03:44:37.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 03:49:36.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 03:49:36.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 03:54:36.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 03:54:36.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
