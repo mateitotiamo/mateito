@@ -14,6 +14,7 @@
       "old_growth_woodland": "2025-06-21 23:23:56 +0000",
       "maple_woods": "2025-06-24 06:03:02 +0000",
       "rocky_shrubland": "2025-06-24 05:48:36 +0000",
+      "crystalline_chasm": "2025-06-24 07:52:33 +0000",
       "scrubland": "2025-06-21 23:47:39 +0000",
       "pumpkin_patch": "2025-06-24 05:47:00 +0000",
       "withered_abyss": "2025-06-24 07:45:38 +0000",
@@ -1676,7 +1677,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-24 07:48:17 +0000"
+      "minecraft:nether_wastes": "2025-06-24 07:48:17 +0000",
+      "minecraft:soul_sand_valley": "2025-06-24 07:50:42 +0000"
     },
     "done": false
   },
@@ -1776,6 +1778,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-06-24 07:52:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-24 06:14:43 +0000"
@@ -1785,6 +1793,18 @@
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 07:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-24 07:51:41 +0000"
     },
     "done": true
   },
@@ -2010,9 +2030,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 07:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-06-24 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-24 07:58:49 +0000"
     },
     "done": true
   },

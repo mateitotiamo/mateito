@@ -2379,3 +2379,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jun2025 07:47:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Ol' Betsy]
 [24Jun2025 07:49:40.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jun2025 07:49:40.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 07:54:40.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 07:54:40.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 07:59:40.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 07:59:40.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

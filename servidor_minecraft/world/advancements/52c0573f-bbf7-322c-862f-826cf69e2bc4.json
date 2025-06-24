@@ -13,6 +13,7 @@
       "shrubland": "2025-06-24 03:36:35 +0000",
       "maple_woods": "2025-06-24 04:48:47 +0000",
       "rocky_shrubland": "2025-06-24 03:36:44 +0000",
+      "crystalline_chasm": "2025-06-24 07:52:35 +0000",
       "scrubland": "2025-06-21 23:47:26 +0000",
       "pumpkin_patch": "2025-06-24 03:45:36 +0000",
       "dune_beach": "2025-06-24 07:13:52 +0000",
@@ -2347,7 +2348,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-24 07:48:21 +0000"
+      "minecraft:nether_wastes": "2025-06-24 07:48:21 +0000",
+      "minecraft:soul_sand_valley": "2025-06-24 07:49:44 +0000"
     },
     "done": false
   },
@@ -2378,6 +2380,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-24 07:48:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-06-24 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-24 07:49:46 +0000"
     },
     "done": true
   },
@@ -2555,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-24 07:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-24 07:48:07 +0000"
@@ -2564,6 +2584,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-24 07:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-24 07:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-24 07:54:20 +0000"
     },
     "done": true
   },
