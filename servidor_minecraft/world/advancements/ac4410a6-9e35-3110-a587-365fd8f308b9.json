@@ -16,6 +16,7 @@
       "rocky_shrubland": "2025-06-24 05:48:36 +0000",
       "scrubland": "2025-06-21 23:47:39 +0000",
       "pumpkin_patch": "2025-06-24 05:47:00 +0000",
+      "withered_abyss": "2025-06-24 07:45:38 +0000",
       "orchard": "2025-06-24 05:48:26 +0000",
       "floodplain": "2025-06-21 23:42:56 +0000",
       "overgrown_greens": "2025-06-22 00:09:04 +0000",
@@ -674,8 +675,10 @@
       "minecraft:pillager": "2025-06-24 07:03:55 +0000",
       "minecraft:skeleton": "2025-06-24 06:22:19 +0000",
       "minecraft:silverfish": "2025-06-21 23:23:04 +0000",
+      "minecraft:enderman": "2025-06-24 07:47:19 +0000",
       "minecraft:witch": "2025-06-22 00:08:30 +0000",
       "minecraft:spider": "2025-06-21 23:35:15 +0000",
+      "minecraft:wither_skeleton": "2025-06-24 07:46:26 +0000",
       "minecraft:zombie": "2025-06-21 23:34:20 +0000",
       "minecraft:creeper": "2025-06-24 06:51:23 +0000",
       "minecraft:drowned": "2025-06-21 23:52:29 +0000",
@@ -1659,15 +1662,51 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-24 07:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-24 07:48:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-24 07:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-24 07:48:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1689,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-24 07:48:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
@@ -1704,6 +1749,18 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-06-24 06:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1731,9 +1788,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
     },
     "done": true
   },
@@ -1743,9 +1824,39 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-24 07:47:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-24 07:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1755,9 +1866,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2025-06-24 07:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
     },
     "done": true
   },
@@ -1779,9 +1902,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:48:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 05:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1791,9 +1944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-06-24 06:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-24 07:45:37 +0000"
     },
     "done": true
   },
@@ -1815,9 +1980,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
     "criteria": {
       "has_wildflowers": "2025-06-24 06:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1833,9 +2016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-06-24 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },
@@ -1848,6 +2043,18 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-24 06:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-24 07:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-24 07:46:51 +0000"
     },
     "done": true
   },

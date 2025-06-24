@@ -203,3 +203,7 @@
 [24Jun2025 06:43:44.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
 [24Jun2025 07:21:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [We Need to Go Deeper]
 [24Jun2025 07:21:19.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
+[24Jun2025 07:45:37.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [We Need to Go Deeper]
+[24Jun2025 07:46:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> 606 89 275
+[24Jun2025 07:46:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ withered away
+[24Jun2025 07:47:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Ol' Betsy]
