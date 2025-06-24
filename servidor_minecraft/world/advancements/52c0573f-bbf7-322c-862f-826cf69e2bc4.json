@@ -16,6 +16,7 @@
       "scrubland": "2025-06-21 23:47:26 +0000",
       "pumpkin_patch": "2025-06-24 03:45:36 +0000",
       "dune_beach": "2025-06-24 07:13:52 +0000",
+      "withered_abyss": "2025-06-24 07:21:21 +0000",
       "gravel_beach": "2025-06-24 07:14:01 +0000",
       "orchard": "2025-06-24 03:37:59 +0000",
       "overgrown_greens": "2025-06-21 23:40:53 +0000",
@@ -2330,15 +2331,51 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-24 07:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
     },
     "done": true
   },
@@ -2354,6 +2391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-24 07:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
@@ -2363,6 +2406,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-24 07:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-24 07:21:17 +0000"
     },
     "done": true
   },
@@ -2381,6 +2430,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-24 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-24 07:24:27 +0000"
     },
     "done": true
   },
