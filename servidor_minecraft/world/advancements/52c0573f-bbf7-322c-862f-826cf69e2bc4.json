@@ -468,17 +468,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-21 23:34:07 +0000",
+      "minecraft:witch": "2025-06-24 05:40:30 +0000",
+      "minecraft:wither_skeleton": "2025-06-24 07:45:41 +0000",
+      "minecraft:husk": "2025-06-24 05:24:28 +0000",
+      "minecraft:ghast": "2025-06-24 08:04:14 +0000",
       "minecraft:guardian": "2025-06-21 23:51:46 +0000",
       "minecraft:silverfish": "2025-06-21 23:21:53 +0000",
       "minecraft:enderman": "2025-06-24 07:48:45 +0000",
-      "minecraft:witch": "2025-06-24 05:40:30 +0000",
+      "minecraft:magma_cube": "2025-06-24 08:07:00 +0000",
       "minecraft:spider": "2025-06-21 23:34:53 +0000",
-      "minecraft:wither_skeleton": "2025-06-24 07:45:41 +0000",
       "minecraft:zombie": "2025-06-24 04:43:36 +0000",
       "minecraft:creeper": "2025-06-21 23:36:11 +0000",
       "minecraft:drowned": "2025-06-21 23:54:05 +0000",
-      "minecraft:zombie_villager": "2025-06-24 05:40:41 +0000",
-      "minecraft:husk": "2025-06-24 05:24:28 +0000"
+      "minecraft:zombie_villager": "2025-06-24 05:40:41 +0000"
     },
     "done": false
   },
@@ -2334,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-24 08:07:01 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/warp_scroll": {
     "criteria": {
       "has_ender_pearl": "2025-06-24 07:48:47 +0000"
@@ -2365,6 +2373,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-24 08:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-24 08:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
@@ -2386,6 +2406,12 @@
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-06-24 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 08:02:44 +0000"
     },
     "done": true
   },
@@ -2422,6 +2448,12 @@
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-06-24 06:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-24 08:07:59 +0000"
     },
     "done": true
   },
@@ -2569,6 +2601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 08:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-24 07:58:34 +0000"
@@ -2593,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-24 08:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-24 07:54:20 +0000"
@@ -2602,6 +2646,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-24 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-24 08:07:48 +0000"
     },
     "done": true
   },
