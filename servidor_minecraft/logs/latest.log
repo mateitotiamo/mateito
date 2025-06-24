@@ -147,3 +147,14 @@
 [24Jun2025 05:32:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
 [24Jun2025 05:34:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
 [24Jun2025 05:36:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que pasa manga de amaneraos
+[24Jun2025 05:46:30.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:50853] logged in with entity id 39406 at (3086.7316028197433, 69.0, 1265.2220077499778)
+[24Jun2025 05:46:30.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[24Jun2025 05:46:30.973] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[24Jun2025 05:46:30.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[24Jun2025 05:46:30.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[24Jun2025 05:46:31.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[24Jun2025 05:46:32.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[24Jun2025 05:46:32.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[24Jun2025 05:47:00.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[24Jun2025 05:47:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 1234
+[24Jun2025 05:47:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> 1234
