@@ -214,3 +214,40 @@
 [24Jun2025 08:04:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Take Aim]
 [24Jun2025 08:06:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> 693 922
 [24Jun2025 08:07:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [A Terrible Fortress]
+[24Jun2025 08:11:23.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:60586] logged in with entity id 75975 at (774.9887127026515, 35.0, 445.59145950111895)
+[24Jun2025 08:11:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[24Jun2025 08:11:23.486] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[24Jun2025 08:11:23.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[24Jun2025 08:11:23.486] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[24Jun2025 08:11:23.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[24Jun2025 08:11:24.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[24Jun2025 08:11:24.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[24Jun2025 08:12:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[24Jun2025 08:12:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [A Terrible Fortress]
+[24Jun2025 08:14:11.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Into Fire]
+[24Jun2025 08:20:23.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Take Aim]
+[24Jun2025 08:22:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ was burned to a crisp while fighting Blaze
+[24Jun2025 08:22:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[24Jun2025 08:23:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ tried to swim in lava
+[24Jun2025 08:23:27.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[24Jun2025 08:25:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ withered away
+[24Jun2025 08:25:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[24Jun2025 08:33:51.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[24Jun2025 08:35:19.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[24Jun2025 08:35:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[24Jun2025 08:35:19.953] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[24Jun2025 08:37:08.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[24Jun2025 08:37:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[24Jun2025 08:37:08.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[24Jun2025 08:37:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jun2025 08:37:32.451] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[24Jun2025 08:37:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jun2025 08:37:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jun2025 08:37:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jun2025 08:37:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jun2025 08:37:32.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jun2025 08:37:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
