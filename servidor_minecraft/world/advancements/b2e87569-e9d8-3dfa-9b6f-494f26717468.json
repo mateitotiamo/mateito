@@ -10,12 +10,15 @@
       "spider_nest": "2025-06-21 23:30:20 +0000",
       "woodland": "2025-06-21 23:16:57 +0000",
       "mystic_grove": "2025-06-22 00:08:10 +0000",
+      "cold_desert": "2025-06-28 06:24:33 +0000",
       "shrubland": "2025-06-24 03:36:35 +0000",
       "old_growth_woodland": "2025-06-21 23:23:34 +0000",
       "maple_woods": "2025-06-24 03:45:35 +0000",
       "rocky_shrubland": "2025-06-24 03:36:43 +0000",
       "scrubland": "2025-06-21 23:49:06 +0000",
       "pumpkin_patch": "2025-06-24 03:45:32 +0000",
+      "snowy_coniferous_forest": "2025-06-28 06:26:40 +0000",
+      "tundra": "2025-06-28 06:23:09 +0000",
       "withered_abyss": "2025-06-28 05:15:52 +0000",
       "orchard": "2025-06-24 03:36:57 +0000",
       "floodplain": "2025-06-21 23:42:25 +0000",
@@ -411,14 +414,17 @@
       "minecraft:beach": "2025-06-21 23:45:08 +0000",
       "minecraft:forest": "2025-06-24 05:53:19 +0000",
       "minecraft:taiga": "2025-06-24 04:05:15 +0000",
-      "minecraft:deep_dark": "2025-06-28 05:27:15 +0000",
-      "minecraft:ocean": "2025-06-22 00:07:48 +0000",
       "minecraft:deep_ocean": "2025-06-24 03:33:04 +0000",
       "minecraft:river": "2025-06-21 23:20:29 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 23:45:23 +0000",
-      "minecraft:meadow": "2025-06-24 05:26:34 +0000",
       "minecraft:stony_shore": "2025-06-21 23:51:29 +0000",
+      "minecraft:snowy_plains": "2025-06-28 06:23:08 +0000",
+      "minecraft:frozen_river": "2025-06-28 06:23:22 +0000",
+      "minecraft:deep_dark": "2025-06-28 05:27:15 +0000",
+      "minecraft:ocean": "2025-06-22 00:07:48 +0000",
+      "minecraft:meadow": "2025-06-24 05:26:34 +0000",
       "minecraft:bamboo_jungle": "2025-06-21 23:45:07 +0000",
+      "minecraft:plains": "2025-06-28 06:21:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 00:16:07 +0000"
     },
     "done": false
@@ -2383,6 +2389,54 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-28 06:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-28 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-28 06:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-28 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-28 06:24:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:26:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 06:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 06:24:55 +0000"
     },
     "done": true
   },

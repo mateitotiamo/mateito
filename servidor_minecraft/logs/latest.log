@@ -237,3 +237,11 @@
 [28Jun2025 06:17:54.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
 [28Jun2025 06:17:55.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [28Jun2025 06:17:55.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[28Jun2025 06:20:00.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> tp toto
+[28Jun2025 06:20:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:20:22.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> tpa toto
+[28Jun2025 06:22:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Best Friends Forever]
+[28Jun2025 06:22:33.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Diamonds!]
+[28Jun2025 06:22:55.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:24:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Ice Bucket Challenge]
+[28Jun2025 06:24:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
