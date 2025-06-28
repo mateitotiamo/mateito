@@ -201,3 +201,39 @@
 [28Jun2025 06:08:12.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> silensiar
 [28Jun2025 06:08:19.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> apeguen audio
 [28Jun2025 06:08:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> siri quitar audifono
+[28Jun2025 06:10:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> resetar server
+[28Jun2025 06:10:10.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[28Jun2025 06:10:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[28Jun2025 06:10:10.913] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[28Jun2025 06:10:19.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:58740] logged in with entity id 20020 at (4625.499375168778, -59.0, 2282.3603104072304)
+[28Jun2025 06:10:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[28Jun2025 06:10:20.214] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[28Jun2025 06:10:20.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[28Jun2025 06:10:20.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[28Jun2025 06:10:20.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 06:10:21.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 06:10:21.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[28Jun2025 06:10:41.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> sisisisisi
+[28Jun2025 06:10:46.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r was slain by Enderman
+[28Jun2025 06:10:54.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> fleto
+[28Jun2025 06:11:04.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> FLETO
+[28Jun2025 06:11:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> eestas ene l sur :8
+[28Jun2025 06:11:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> :(
+[28Jun2025 06:11:29.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> tp seba
+[28Jun2025 06:11:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ok
+[28Jun2025 06:11:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ;(
+[28Jun2025 06:11:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ff
+[28Jun2025 06:11:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> gg
+[28Jun2025 06:12:03.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> pipipipipipipipi
+[28Jun2025 06:16:47.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[28Jun2025 06:16:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[28Jun2025 06:16:47.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[28Jun2025 06:17:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ceva
+[28Jun2025 06:17:53.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:61248] logged in with entity id 23286 at (4869.440247903643, 103.0, 2217.925497951678)
+[28Jun2025 06:17:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[28Jun2025 06:17:53.927] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[28Jun2025 06:17:53.928] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[28Jun2025 06:17:53.928] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[28Jun2025 06:17:54.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[28Jun2025 06:17:55.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[28Jun2025 06:17:55.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
