@@ -2745,27 +2745,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_planks": "2025-06-28 07:46:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:46:29 +0000"
+      "has_logs": "2025-06-28 07:25:05 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-06-28 07:43:07 +0000"
     },
     "done": true
   },
@@ -2781,9 +2769,93 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+  "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
-      "has_logs": "2025-06-28 07:25:05 +0000"
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-28 07:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:46:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:46:29 +0000"
     },
     "done": true
   },
@@ -2799,51 +2871,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-28 07:29:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/pine_sign": {
     "criteria": {
       "has_planks": "2025-06-28 07:46:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
     },
     "done": true
   },
@@ -2853,27 +2883,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 07:29:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/pine_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 07:46:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:27:16 +0000"
     },
     "done": true
   },
@@ -2886,18 +2898,6 @@
   "biomesoplenty:recipes/decorations/pine_fence": {
     "criteria": {
       "has_planks": "2025-06-28 07:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-28 07:33:04 +0000"
     },
     "done": true
   },
