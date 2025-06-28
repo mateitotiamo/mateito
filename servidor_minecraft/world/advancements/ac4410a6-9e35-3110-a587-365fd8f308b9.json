@@ -3151,5 +3151,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-06-28 09:42:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
