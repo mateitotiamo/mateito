@@ -167,3 +167,15 @@
 [28Jun2025 05:38:53.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
 [28Jun2025 05:38:54.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
 [28Jun2025 05:38:54.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[28Jun2025 05:53:47.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[28Jun2025 05:53:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[28Jun2025 05:53:47.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[28Jun2025 05:55:06.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:56309] logged in with entity id 13373 at (4930.476303581035, -59.74787599857897, 2278.467656889002)
+[28Jun2025 05:55:06.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[28Jun2025 05:55:06.740] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[28Jun2025 05:55:06.740] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[28Jun2025 05:55:06.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[28Jun2025 05:55:06.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:55:07.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported WooZiMu_ to ShallanDav4r]
+[28Jun2025 05:55:07.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:55:07.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
