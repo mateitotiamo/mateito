@@ -2495,3 +2495,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Jun2025 06:24:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
 [28Jun2025 06:29:00.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 06:29:00.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:30:26.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:30:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:34:00.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:34:00.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:37:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:38:04.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:39:00.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:39:00.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:43:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> ?
+[28Jun2025 06:43:46.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:44:00.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:44:00.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:44:00.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:45:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:45:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Local Brewery]
+[28Jun2025 06:49:00.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:49:00.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:49:04.898] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=7, y=-56, z=83}
+[28Jun2025 06:50:26.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:51:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzzzzz
+[28Jun2025 06:51:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
+[28Jun2025 06:51:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[28Jun2025 06:51:13.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> zzzzzzz
+[28Jun2025 06:53:17.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Cover Me with Diamonds]
+[28Jun2025 06:54:00.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:54:00.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:54:07.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Cover Me with Diamonds]
+[28Jun2025 06:54:56.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 06:55:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Best Friends Forever]
+[28Jun2025 06:56:11.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 06:59:00.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 06:59:00.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 06:59:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[28Jun2025 07:00:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[28Jun2025 07:03:00.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[28Jun2025 07:03:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[28Jun2025 07:03:00.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ShallanDav4r
+[28Jun2025 07:03:00.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[28Jun2025 07:03:46.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[28Jun2025 07:03:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[28Jun2025 07:03:46.356] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of nazcke
+[28Jun2025 07:03:46.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[28Jun2025 07:03:48.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[28Jun2025 07:03:48.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[28Jun2025 07:03:48.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of WooZiMu_
+[28Jun2025 07:03:48.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[28Jun2025 07:04:00.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 07:04:00.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 07:04:48.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[28Jun2025 07:04:48.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 07:04:48.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

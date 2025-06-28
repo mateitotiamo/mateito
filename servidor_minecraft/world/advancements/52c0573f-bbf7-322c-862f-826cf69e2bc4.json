@@ -7,29 +7,37 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "hot_springs": "2025-06-28 06:39:59 +0000",
+      "muskeg": "2025-06-28 06:31:48 +0000",
       "woodland": "2025-06-21 23:16:08 +0000",
+      "shrubland": "2025-06-24 03:36:35 +0000",
+      "snowblossom_grove": "2025-06-28 06:35:27 +0000",
+      "rocky_shrubland": "2025-06-24 03:36:44 +0000",
+      "scrubland": "2025-06-21 23:47:26 +0000",
+      "dune_beach": "2025-06-24 07:13:52 +0000",
+      "erupting_inferno": "2025-06-24 08:21:11 +0000",
+      "seasonal_forest": "2025-06-24 04:08:52 +0000",
+      "highland": "2025-06-24 03:38:37 +0000",
+      "rocky_rainforest": "2025-06-21 23:42:30 +0000",
       "mystic_grove": "2025-06-22 00:08:08 +0000",
       "cold_desert": "2025-06-28 06:24:34 +0000",
       "lavender_field": "2025-06-21 23:29:19 +0000",
-      "shrubland": "2025-06-24 03:36:35 +0000",
       "maple_woods": "2025-06-24 04:48:47 +0000",
-      "rocky_shrubland": "2025-06-24 03:36:44 +0000",
       "crystalline_chasm": "2025-06-24 07:52:35 +0000",
-      "scrubland": "2025-06-21 23:47:26 +0000",
       "pumpkin_patch": "2025-06-24 03:45:36 +0000",
       "snowy_coniferous_forest": "2025-06-28 06:26:51 +0000",
+      "snowy_fir_clearing": "2025-06-28 06:47:52 +0000",
       "tundra": "2025-06-28 06:23:08 +0000",
-      "dune_beach": "2025-06-24 07:13:52 +0000",
-      "erupting_inferno": "2025-06-24 08:21:11 +0000",
       "withered_abyss": "2025-06-24 07:21:21 +0000",
       "gravel_beach": "2025-06-24 07:14:01 +0000",
       "orchard": "2025-06-24 03:37:59 +0000",
+      "field": "2025-06-28 06:55:59 +0000",
       "overgrown_greens": "2025-06-21 23:40:53 +0000",
-      "seasonal_forest": "2025-06-24 04:08:52 +0000",
       "mediterranean_forest": "2025-06-21 23:16:45 +0000",
-      "highland": "2025-06-24 03:38:37 +0000",
       "rainforest": "2025-06-21 23:45:39 +0000",
-      "rocky_rainforest": "2025-06-21 23:42:30 +0000"
+      "crag": "2025-06-28 06:54:50 +0000",
+      "coniferous_forest": "2025-06-28 06:53:41 +0000",
+      "ominous_woods": "2025-06-28 06:53:19 +0000"
     },
     "done": false
   },
@@ -440,6 +448,7 @@
       "minecraft:lukewarm_ocean": "2025-06-21 23:45:08 +0000",
       "minecraft:stony_shore": "2025-06-21 23:30:38 +0000",
       "minecraft:snowy_plains": "2025-06-28 06:23:07 +0000",
+      "minecraft:snowy_taiga": "2025-06-28 06:47:44 +0000",
       "minecraft:frozen_river": "2025-06-28 06:23:22 +0000",
       "minecraft:deep_dark": "2025-06-24 05:20:02 +0000",
       "minecraft:ocean": "2025-06-21 23:39:35 +0000",
@@ -2981,15 +2990,153 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-06-28 06:19:04 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 06:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-06-28 06:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-28 06:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-28 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:41:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 06:32:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:32:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-28 06:53:09 +0000"
     },
     "done": true
   },
@@ -3005,9 +3152,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-28 06:53:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:40:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-06-28 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:40:34 +0000"
     },
     "done": true
   },

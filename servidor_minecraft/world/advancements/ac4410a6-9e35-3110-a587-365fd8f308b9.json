@@ -7,28 +7,36 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "hot_springs": "2025-06-28 06:40:09 +0000",
+      "muskeg": "2025-06-28 06:31:53 +0000",
       "woodland": "2025-06-21 22:26:16 +0000",
+      "shrubland": "2025-06-24 06:33:13 +0000",
+      "snowblossom_grove": "2025-06-28 06:35:13 +0000",
+      "rocky_shrubland": "2025-06-24 05:48:36 +0000",
+      "scrubland": "2025-06-21 23:47:39 +0000",
+      "erupting_inferno": "2025-06-24 08:22:04 +0000",
+      "floodplain": "2025-06-21 23:42:56 +0000",
+      "seasonal_forest": "2025-06-24 06:32:19 +0000",
+      "rocky_rainforest": "2025-06-21 23:42:36 +0000",
       "mystic_grove": "2025-06-22 00:08:09 +0000",
       "cold_desert": "2025-06-28 06:24:57 +0000",
       "lavender_field": "2025-06-21 23:32:40 +0000",
-      "shrubland": "2025-06-24 06:33:13 +0000",
       "old_growth_woodland": "2025-06-21 23:23:56 +0000",
       "maple_woods": "2025-06-24 06:03:02 +0000",
-      "rocky_shrubland": "2025-06-24 05:48:36 +0000",
       "crystalline_chasm": "2025-06-24 07:52:33 +0000",
-      "scrubland": "2025-06-21 23:47:39 +0000",
+      "fir_clearing": "2025-06-28 06:52:32 +0000",
       "pumpkin_patch": "2025-06-24 05:47:00 +0000",
       "snowy_coniferous_forest": "2025-06-28 06:27:34 +0000",
+      "snowy_fir_clearing": "2025-06-28 06:35:28 +0000",
       "tundra": "2025-06-28 06:25:24 +0000",
-      "erupting_inferno": "2025-06-24 08:22:04 +0000",
       "withered_abyss": "2025-06-24 07:45:38 +0000",
       "orchard": "2025-06-24 05:48:26 +0000",
-      "floodplain": "2025-06-21 23:42:56 +0000",
       "overgrown_greens": "2025-06-22 00:09:04 +0000",
-      "seasonal_forest": "2025-06-24 06:32:19 +0000",
       "mediterranean_forest": "2025-06-21 22:26:42 +0000",
       "rainforest": "2025-06-21 23:45:42 +0000",
-      "rocky_rainforest": "2025-06-21 23:42:36 +0000"
+      "crag": "2025-06-28 06:54:57 +0000",
+      "coniferous_forest": "2025-06-28 06:53:15 +0000",
+      "ominous_woods": "2025-06-28 06:53:39 +0000"
     },
     "done": false
   },
@@ -654,6 +662,7 @@
       "minecraft:lukewarm_ocean": "2025-06-21 23:51:37 +0000",
       "minecraft:stony_shore": "2025-06-21 23:51:32 +0000",
       "minecraft:snowy_plains": "2025-06-28 06:25:27 +0000",
+      "minecraft:snowy_taiga": "2025-06-28 06:47:53 +0000",
       "minecraft:frozen_river": "2025-06-28 06:25:32 +0000",
       "minecraft:ocean": "2025-06-22 00:05:48 +0000",
       "minecraft:jungle": "2025-06-21 23:45:13 +0000",
@@ -691,7 +700,8 @@
       "minecraft:spider": "2025-06-21 23:35:15 +0000",
       "minecraft:zombie": "2025-06-21 23:34:20 +0000",
       "minecraft:creeper": "2025-06-24 06:51:23 +0000",
-      "minecraft:drowned": "2025-06-21 23:52:29 +0000"
+      "minecraft:drowned": "2025-06-21 23:52:29 +0000",
+      "minecraft:zombie_villager": "2025-06-28 06:37:12 +0000"
     },
     "done": false
   },
@@ -749,6 +759,7 @@
       "bread": "2025-06-21 23:51:02 +0000",
       "cooked_beef": "2025-06-21 23:42:18 +0000",
       "cod": "2025-06-21 23:54:00 +0000",
+      "baked_potato": "2025-06-28 06:46:54 +0000",
       "melon_slice": "2025-06-22 00:10:51 +0000"
     },
     "done": false
@@ -2422,11 +2433,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-28 06:59:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 06:23:29 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:black": "2025-06-28 06:55:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
@@ -2482,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 06:23:29 +0000"
@@ -2494,15 +2535,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 06:40:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 06:27:38 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-28 06:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-28 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-28 06:22:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 06:35:24 +0000"
     },
     "done": true
   },
@@ -2515,6 +2610,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-06-28 06:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:35:24 +0000"
     },
     "done": true
   },
@@ -2542,9 +2643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 06:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 06:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
     },
     "done": true
   },
@@ -2554,9 +2667,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-28 06:46:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-28 06:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
     },
     "done": true
   },
@@ -2566,15 +2697,87 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-28 06:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-28 06:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-28 06:22:33 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 06:32:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 06:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 06:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
     },
     "done": true
   },
@@ -2596,9 +2799,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-28 06:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 06:58:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
     },
     "done": true
   },
@@ -2608,9 +2835,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 06:23:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 06:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-28 06:57:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 06:45:19 +0000"
     },
     "done": true
   },
@@ -2629,6 +2892,24 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-28 06:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-28 06:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 06:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-28 06:53:20 +0000"
     },
     "done": true
   },
