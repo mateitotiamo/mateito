@@ -2093,6 +2093,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-24 08:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-24 08:20:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2025-06-24 08:22:06 +0000"
@@ -2114,12 +2126,6 @@
   "minecraft:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-24 08:22:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-06-24 08:20:23 +0000"
     },
     "done": true
   },
@@ -2162,12 +2168,6 @@
   "minecraft:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-24 08:22:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-24 08:12:03 +0000"
     },
     "done": true
   },

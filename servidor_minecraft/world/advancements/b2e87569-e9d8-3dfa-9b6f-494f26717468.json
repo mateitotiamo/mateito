@@ -16,6 +16,7 @@
       "rocky_shrubland": "2025-06-24 03:36:43 +0000",
       "scrubland": "2025-06-21 23:49:06 +0000",
       "pumpkin_patch": "2025-06-24 03:45:32 +0000",
+      "withered_abyss": "2025-06-28 05:15:52 +0000",
       "orchard": "2025-06-24 03:36:57 +0000",
       "floodplain": "2025-06-21 23:42:25 +0000",
       "overgrown_greens": "2025-06-21 23:41:44 +0000",
@@ -410,6 +411,7 @@
       "minecraft:beach": "2025-06-21 23:45:08 +0000",
       "minecraft:forest": "2025-06-24 05:53:19 +0000",
       "minecraft:taiga": "2025-06-24 04:05:15 +0000",
+      "minecraft:deep_dark": "2025-06-28 05:27:15 +0000",
       "minecraft:ocean": "2025-06-22 00:07:48 +0000",
       "minecraft:deep_ocean": "2025-06-24 03:33:04 +0000",
       "minecraft:river": "2025-06-21 23:20:29 +0000",
@@ -459,6 +461,7 @@
       "minecraft:silverfish": "2025-06-21 23:21:13 +0000",
       "minecraft:witch": "2025-06-22 00:08:24 +0000",
       "minecraft:spider": "2025-06-21 23:33:39 +0000",
+      "minecraft:wither_skeleton": "2025-06-28 05:19:19 +0000",
       "minecraft:zombie": "2025-06-21 23:31:38 +0000",
       "minecraft:zombie_villager": "2025-06-24 03:48:55 +0000",
       "minecraft:husk": "2025-06-21 23:31:41 +0000"
@@ -2283,6 +2286,103 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-24 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-28 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-28 05:17:01 +0000",
+      "minecraft:soul_sand_valley": "2025-06-28 05:18:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-28 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-28 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-28 05:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-28 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-28 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-28 05:16:19 +0000"
     },
     "done": true
   },

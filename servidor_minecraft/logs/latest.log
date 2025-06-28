@@ -136,3 +136,26 @@
 [28Jun2025 05:10:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
 [28Jun2025 05:10:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
 [28Jun2025 05:15:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [We Need to Go Deeper]
+[28Jun2025 05:20:28.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> wwwwwwwwww
+[28Jun2025 05:22:49.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:59398] logged in with entity id 3742 at (4866.962624109096, 98.0, 2204.346642391338)
+[28Jun2025 05:22:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[28Jun2025 05:22:49.541] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[28Jun2025 05:22:49.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[28Jun2025 05:22:49.571] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[28Jun2025 05:22:50.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[28Jun2025 05:22:51.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[28Jun2025 05:22:51.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[28Jun2025 05:37:18.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[28Jun2025 05:37:18.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[28Jun2025 05:37:18.611] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[28Jun2025 05:37:19.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[28Jun2025 05:37:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[28Jun2025 05:37:19.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[28Jun2025 05:38:06.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:58492] logged in with entity id 7965 at (4806.957713986875, -59.0, 2282.4097389826134)
+[28Jun2025 05:38:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[28Jun2025 05:38:06.862] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[28Jun2025 05:38:06.862] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[28Jun2025 05:38:06.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[28Jun2025 05:38:07.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 05:38:08.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 05:38:08.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
