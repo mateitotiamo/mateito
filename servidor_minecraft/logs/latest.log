@@ -1,253 +1,138 @@
-[24Jun2025 03:07:22.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[24Jun2025 03:07:22.704] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
-[24Jun2025 03:07:22.704] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24Jun2025 03:07:22.967] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[24Jun2025 03:07:23.132] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[24Jun2025 03:07:23.299] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[24Jun2025 03:07:23.484] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[24Jun2025 03:07:24.742] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jun2025 03:07:24.751] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[24Jun2025 03:07:24.832] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[24Jun2025 03:07:24.866] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.867] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.869] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.870] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.871] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.872] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.875] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.877] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.877] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.880] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.882] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.885] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.886] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.888] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.888] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.890] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.891] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.892] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.893] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.894] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.898] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.900] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jun2025 03:07:24.999] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
-[24Jun2025 03:07:24.999] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
-[24Jun2025 03:07:31.166] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
-[24Jun2025 03:07:31.211] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
-[24Jun2025 03:07:31.213] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[24Jun2025 03:07:31.224] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[24Jun2025 03:07:31.226] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[24Jun2025 03:07:31.235] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[24Jun2025 03:07:31.373] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
-[24Jun2025 03:07:31.373] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
-[24Jun2025 03:07:31.376] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
-[24Jun2025 03:07:31.378] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
-[24Jun2025 03:07:31.404] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[24Jun2025 03:07:32.091] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[24Jun2025 03:07:32.131] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[24Jun2025 03:07:32.142] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[24Jun2025 03:07:32.142] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[24Jun2025 03:07:32.148] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[24Jun2025 03:07:32.148] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[24Jun2025 03:07:32.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[24Jun2025 03:07:32.181] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[24Jun2025 03:07:32.181] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[24Jun2025 03:07:32.182] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[24Jun2025 03:07:32.182] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[24Jun2025 03:07:32.182] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[24Jun2025 03:07:32.182] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[24Jun2025 03:07:32.182] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[24Jun2025 03:07:32.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[24Jun2025 03:07:33.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.31
-[24Jun2025 03:07:33.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[24Jun2025 03:07:33.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
-[24Jun2025 03:07:33.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
-[24Jun2025 03:07:33.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
-[24Jun2025 03:07:33.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
-[24Jun2025 03:07:33.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
-[24Jun2025 03:07:33.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
-[24Jun2025 03:07:33.650] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[24Jun2025 03:07:33.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
-[24Jun2025 03:07:33.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jun2025 03:07:33.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
-[24Jun2025 03:07:36.252] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1731 recipes
-[24Jun2025 03:07:36.271] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1843 advancements
-[24Jun2025 03:07:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
-[24Jun2025 03:07:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jun2025 03:07:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jun2025 03:07:36.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jun2025 03:07:36.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jun2025 03:07:36.615] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jun2025 03:07:36.667] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jun2025 03:07:36.667] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jun2025 03:07:36.668] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jun2025 03:07:36.668] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jun2025 03:07:36.903] [Server thread/INFO] [spark/]: Starting background profiler...
-[24Jun2025 03:07:37.179] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[24Jun2025 03:07:37.689] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[24Jun2025 03:07:37.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jun2025 03:07:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jun2025 03:07:43.958] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.959] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.959] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.960] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.960] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.961] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.961] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.962] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.962] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.963] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.963] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:43.964] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jun2025 03:07:44.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[24Jun2025 03:07:44.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[24Jun2025 03:07:44.847] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6764 ms
-[24Jun2025 03:07:44.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.168s)! For help, type "help"
-[24Jun2025 03:07:44.864] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jun2025 03:07:44.886] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[24Jun2025 03:07:44.887] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[24Jun2025 03:07:44.888] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[24Jun2025 03:07:44.889] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[24Jun2025 03:07:44.896] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[24Jun2025 03:08:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[24Jun2025 03:14:37.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:60317] logged in with entity id 1 at (2852.4343857251224, 62.110764312744145, 2092.462369606413)
-[24Jun2025 03:14:37.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
-[24Jun2025 03:14:37.859] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
-[24Jun2025 03:14:37.860] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
-[24Jun2025 03:14:37.861] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
-[24Jun2025 03:14:38.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
-[24Jun2025 03:14:40.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
-[24Jun2025 03:14:40.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
-[24Jun2025 03:17:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke was slain by Guardian
-[24Jun2025 03:19:32.491] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
-[24Jun2025 03:21:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Creative Mode]
-[24Jun2025 03:29:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Survival Mode]
-[24Jun2025 03:31:29.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:53842] logged in with entity id 2838 at (2852.4343857251224, 62.110764312744145, 2092.462369606413)
-[24Jun2025 03:31:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
-[24Jun2025 03:31:29.629] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
-[24Jun2025 03:31:29.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
-[24Jun2025 03:31:29.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
-[24Jun2025 03:31:29.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 03:31:30.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 03:31:30.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
-[24Jun2025 03:31:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
-[24Jun2025 03:37:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> v
-[24Jun2025 03:38:18.762] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Trying to set block entity net.minecraft.world.level.block.entity.BrushableBlockEntity@6f771fc7 at position BlockPos{x=4658, y=55, z=1745}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
-[24Jun2025 03:38:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
-[24Jun2025 03:39:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> si
-[24Jun2025 03:40:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 1234
-[24Jun2025 04:17:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [A Seedy Place]
-[24Jun2025 04:50:54.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Isn't It Iron Pick]
-[24Jun2025 04:51:57.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Diamonds!]
-[24Jun2025 05:12:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:17:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Diamonds!]
-[24Jun2025 05:22:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:30:10.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:32:14.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:32:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:34:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4743.500000, 84.000000, 2209.500000]
-[24Jun2025 05:36:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que pasa manga de amaneraos
-[24Jun2025 05:46:30.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:50853] logged in with entity id 39406 at (3086.7316028197433, 69.0, 1265.2220077499778)
-[24Jun2025 05:46:30.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[24Jun2025 05:46:30.973] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[24Jun2025 05:46:30.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
-[24Jun2025 05:46:30.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
-[24Jun2025 05:46:31.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
-[24Jun2025 05:46:32.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
-[24Jun2025 05:46:32.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
-[24Jun2025 05:47:00.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
-[24Jun2025 05:47:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 1234
-[24Jun2025 05:47:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> 1234
-[24Jun2025 05:57:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzzzzzzzz
-[24Jun2025 05:57:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzz
-[24Jun2025 05:57:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzz
-[24Jun2025 05:57:45.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzzz
-[24Jun2025 05:57:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> zzzzzzzzzzz
-[24Jun2025 05:57:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzz
-[24Jun2025 05:57:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
-[24Jun2025 05:57:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
-[24Jun2025 05:57:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzz
-[24Jun2025 05:57:59.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> tay set day
-[24Jun2025 06:00:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
-[24Jun2025 06:05:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
-[24Jun2025 06:09:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzz
-[24Jun2025 06:09:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzz
-[24Jun2025 06:09:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzz
-[24Jun2025 06:09:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> zzzzzzzzzzzzzzzzzzzzzzzzzzz
-[24Jun2025 06:10:28.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
-[24Jun2025 06:10:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
-[24Jun2025 06:10:28.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
-[24Jun2025 06:12:26.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved wrongly!
-[24Jun2025 06:22:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Not Today, Thank You]
-[24Jun2025 06:23:06.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
-[24Jun2025 06:23:06.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
-[24Jun2025 06:23:06.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
-[24Jun2025 06:23:21.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:60044] logged in with entity id 48036 at (4830.804828426209, 6.0, 2182.393786091009)
-[24Jun2025 06:23:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
-[24Jun2025 06:23:21.636] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
-[24Jun2025 06:23:21.655] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
-[24Jun2025 06:23:21.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
-[24Jun2025 06:23:21.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 06:23:22.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 06:23:22.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
-[24Jun2025 06:37:06.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
-[24Jun2025 06:37:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
-[24Jun2025 06:37:06.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
-[24Jun2025 06:43:42.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:60133] logged in with entity id 54440 at (4917.462241122576, 47.0, 2241.021635464509)
-[24Jun2025 06:43:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
-[24Jun2025 06:43:42.922] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
-[24Jun2025 06:43:42.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
-[24Jun2025 06:43:42.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
-[24Jun2025 06:43:43.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 06:43:44.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[24Jun2025 06:43:44.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
-[24Jun2025 07:21:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [We Need to Go Deeper]
-[24Jun2025 07:21:19.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
-[24Jun2025 07:45:37.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [We Need to Go Deeper]
-[24Jun2025 07:46:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> 606 89 275
-[24Jun2025 07:46:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ withered away
-[24Jun2025 07:47:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Ol' Betsy]
-[24Jun2025 08:00:25.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[24Jun2025 08:00:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[24Jun2025 08:00:25.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
-[24Jun2025 08:02:41.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Those Were the Days]
-[24Jun2025 08:04:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Take Aim]
-[24Jun2025 08:06:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> 693 922
-[24Jun2025 08:07:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [A Terrible Fortress]
-[24Jun2025 08:11:23.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:60586] logged in with entity id 75975 at (774.9887127026515, 35.0, 445.59145950111895)
-[24Jun2025 08:11:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[24Jun2025 08:11:23.486] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[24Jun2025 08:11:23.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
-[24Jun2025 08:11:23.486] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
-[24Jun2025 08:11:23.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
-[24Jun2025 08:11:24.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
-[24Jun2025 08:11:24.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
-[24Jun2025 08:12:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
-[24Jun2025 08:12:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [A Terrible Fortress]
-[24Jun2025 08:14:11.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Into Fire]
-[24Jun2025 08:20:23.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Take Aim]
-[24Jun2025 08:22:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ was burned to a crisp while fighting Blaze
-[24Jun2025 08:22:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
-[24Jun2025 08:23:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ tried to swim in lava
-[24Jun2025 08:23:27.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
-[24Jun2025 08:25:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ withered away
-[24Jun2025 08:25:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
-[24Jun2025 08:33:51.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
-[24Jun2025 08:35:19.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
-[24Jun2025 08:35:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
-[24Jun2025 08:35:19.953] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
-[24Jun2025 08:37:08.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[24Jun2025 08:37:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[24Jun2025 08:37:08.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
-[24Jun2025 08:37:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[24Jun2025 08:37:32.451] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
-[24Jun2025 08:37:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24Jun2025 08:37:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24Jun2025 08:37:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24Jun2025 08:37:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24Jun2025 08:37:32.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24Jun2025 08:37:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24Jun2025 08:37:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 05:08:28.145] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[28Jun2025 05:08:28.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
+[28Jun2025 05:08:28.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[28Jun2025 05:08:29.044] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[28Jun2025 05:08:29.205] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[28Jun2025 05:08:29.420] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[28Jun2025 05:08:29.620] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[28Jun2025 05:08:31.401] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Jun2025 05:08:31.417] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[28Jun2025 05:08:31.534] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[28Jun2025 05:08:31.589] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.591] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.593] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.594] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.594] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.596] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.597] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.601] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.602] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.607] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.607] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.611] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.616] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.618] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.618] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.619] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.620] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.621] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.621] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.623] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.628] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.630] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jun2025 05:08:31.788] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[28Jun2025 05:08:31.788] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
+[28Jun2025 05:08:40.975] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
+[28Jun2025 05:08:41.039] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[28Jun2025 05:08:41.046] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[28Jun2025 05:08:41.052] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[28Jun2025 05:08:41.056] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[28Jun2025 05:08:41.067] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[28Jun2025 05:08:41.209] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[28Jun2025 05:08:41.210] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[28Jun2025 05:08:41.243] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
+[28Jun2025 05:08:41.243] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
+[28Jun2025 05:08:41.348] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[28Jun2025 05:08:42.204] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[28Jun2025 05:08:42.291] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[28Jun2025 05:08:42.297] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[28Jun2025 05:08:42.299] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[28Jun2025 05:08:42.306] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[28Jun2025 05:08:42.307] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[28Jun2025 05:08:42.309] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[28Jun2025 05:08:42.409] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[28Jun2025 05:08:42.409] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[28Jun2025 05:08:42.409] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[28Jun2025 05:08:42.409] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[28Jun2025 05:08:42.410] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[28Jun2025 05:08:42.410] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[28Jun2025 05:08:42.410] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[28Jun2025 05:08:42.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[28Jun2025 05:08:43.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.32
+[28Jun2025 05:08:43.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[28Jun2025 05:08:43.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
+[28Jun2025 05:08:43.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
+[28Jun2025 05:08:44.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
+[28Jun2025 05:08:44.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
+[28Jun2025 05:08:44.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[28Jun2025 05:08:44.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
+[28Jun2025 05:08:44.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
+[28Jun2025 05:08:44.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Jun2025 05:08:44.491] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[28Jun2025 05:08:44.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
+[28Jun2025 05:08:48.350] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1731 recipes
+[28Jun2025 05:08:48.375] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1843 advancements
+[28Jun2025 05:08:48.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[28Jun2025 05:08:48.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Jun2025 05:08:48.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Jun2025 05:08:48.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Jun2025 05:08:48.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Jun2025 05:08:48.774] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Jun2025 05:08:48.827] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Jun2025 05:08:48.828] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Jun2025 05:08:48.828] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Jun2025 05:08:48.828] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Jun2025 05:08:49.153] [Server thread/INFO] [spark/]: Starting background profiler...
+[28Jun2025 05:08:49.752] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.111.149.13:58263] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[28Jun2025 05:08:49.850] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[28Jun2025 05:08:50.323] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[28Jun2025 05:08:50.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Jun2025 05:08:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Jun2025 05:08:51.487] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.111.149.13:58267] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[28Jun2025 05:08:56.832] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.111.149.13:58269] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[28Jun2025 05:08:58.766] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.769] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.770] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.771] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.773] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.773] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.774] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.775] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.776] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.779] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.780] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.782] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.782] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.782] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:08:58.832] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jun2025 05:09:00.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[28Jun2025 05:09:00.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[28Jun2025 05:09:00.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[28Jun2025 05:09:00.808] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9978 ms
+[28Jun2025 05:09:00.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.967s)! For help, type "help"
+[28Jun2025 05:09:00.849] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Jun2025 05:09:00.876] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[28Jun2025 05:09:00.877] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[28Jun2025 05:09:00.881] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[28Jun2025 05:09:00.882] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[28Jun2025 05:09:00.894] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[28Jun2025 05:09:27.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:58284] logged in with entity id 3 at (4743.5, 84.0, 2211.5)
+[28Jun2025 05:09:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[28Jun2025 05:09:27.846] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[28Jun2025 05:09:27.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[28Jun2025 05:09:27.851] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[28Jun2025 05:09:28.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 05:09:29.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[28Jun2025 05:09:29.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[28Jun2025 05:09:43.465] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[28Jun2025 05:10:04.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:56084] logged in with entity id 666 at (4810.885222974881, 80.0, 2170.462987043146)
+[28Jun2025 05:10:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[28Jun2025 05:10:04.816] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[28Jun2025 05:10:04.838] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[28Jun2025 05:10:04.839] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[28Jun2025 05:10:05.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:10:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:10:06.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[28Jun2025 05:15:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [We Need to Go Deeper]
