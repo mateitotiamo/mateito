@@ -159,3 +159,11 @@
 [28Jun2025 05:38:07.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [28Jun2025 05:38:08.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [28Jun2025 05:38:08.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[28Jun2025 05:38:53.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:56216] logged in with entity id 8205 at (4822.293997563616, -59.0, 2278.695948214526)
+[28Jun2025 05:38:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[28Jun2025 05:38:53.238] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[28Jun2025 05:38:53.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[28Jun2025 05:38:53.239] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[28Jun2025 05:38:53.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:38:54.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[28Jun2025 05:38:54.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
