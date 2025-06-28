@@ -246,3 +246,12 @@
 [28Jun2025 10:02:41.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
 [28Jun2025 10:02:42.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [28Jun2025 10:02:42.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[28Jun2025 10:19:30.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elputa616[/100.113.103.104:60927] logged in with entity id 15880 at (4894.947912270168, 104.0, 2222.699999988079)
+[28Jun2025 10:19:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 joined the game
+[28Jun2025 10:19:30.819] [Server thread/INFO] [ping-wheel/]: Channel update: Elputa616 -> default
+[28Jun2025 10:19:30.819] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elputa616 (18)
+[28Jun2025 10:19:30.820] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elputa616
+[28Jun2025 10:19:30.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:19:31.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:19:31.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elputa616 (bc074349-6d31-3bb6-94f6-0bbd4af8bdce) successfully connected to voice chat
+[28Jun2025 10:21:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 has made the advancement [Isn't It Iron Pick]

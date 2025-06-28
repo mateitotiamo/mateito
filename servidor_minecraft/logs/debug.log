@@ -2703,3 +2703,76 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Jun2025 10:06:40.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jun2025 10:11:40.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 10:11:40.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 10:16:40.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 10:16:40.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 10:19:26.436] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancementscreenshot, balm, biomesoplenty, borderlesswindow, bottledair, cherishedworlds, chunky, clienttweaks, clumps, collective, configlibtxf, controlling, craftingtweaks, cyclepaintings, deathbackup, defaultoptions, entityculling, fastipping, forge, glitchcore, grabbymobs, guiclock, guicompass, huskspawn, kuma_api, make_bubbles_pop, minecraft, mousetweaks, multimine, myserveriscompatible, netherportalfix, notes, philipsruins, pingwheel, portablecraftingtable, replantingcrops, searchables, sereneseasons, shulkerbox, skinlayers3d, sound_physics_remastered, spark, stackrefill, stickyenchantinglapis, terrablender, voicechat, walljump, waystones]
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [balm:network, craftingtweaks:network, forge:channel_registration, forge:handshake, forge:login, glitchcore:main, minecraft:as_mm, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, stickyenchantinglapis:to_client_receive_lapis_count_packet, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state, walljump:network, waystones:network]
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stickyenchantinglapis:to_client_receive_lapis_count_packet' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of 'PRESENT 2' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:as_mm' : Version test of 'PRESENT 1' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.572] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[28Jun2025 10:19:26.573] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[28Jun2025 10:19:26.711] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[28Jun2025 10:19:26.846] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[28Jun2025 10:19:26.981] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[28Jun2025 10:19:27.254] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[28Jun2025 10:19:27.390] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[28Jun2025 10:19:27.525] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[28Jun2025 10:19:27.665] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[28Jun2025 10:19:27.800] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[28Jun2025 10:19:27.935] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[28Jun2025 10:19:28.070] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[28Jun2025 10:19:28.205] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[28Jun2025 10:19:28.340] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[28Jun2025 10:19:28.477] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[28Jun2025 10:19:28.612] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[28Jun2025 10:19:28.747] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[28Jun2025 10:19:28.882] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[28Jun2025 10:19:29.017] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[28Jun2025 10:19:29.152] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[28Jun2025 10:19:29.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[28Jun2025 10:19:29.975] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[28Jun2025 10:19:30.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elputa616[/100.113.103.104:60927] logged in with entity id 15880 at (4894.947912270168, 104.0, 2222.699999988079)
+[28Jun2025 10:19:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 joined the game
+[28Jun2025 10:19:30.648] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Elputa616: {disabled=false, disconnected=true, uuid=bc074349-6d31-3bb6-94f6-0bbd4af8bdce, name=Elputa616, group=null}
+[28Jun2025 10:19:30.819] [Server thread/INFO] [ping-wheel/]: Channel update: Elputa616 -> default
+[28Jun2025 10:19:30.819] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elputa616 (18)
+[28Jun2025 10:19:30.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Elputa616
+[28Jun2025 10:19:30.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Elputa616
+[28Jun2025 10:19:30.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Elputa616
+[28Jun2025 10:19:30.820] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elputa616
+[28Jun2025 10:19:30.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:19:31.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:19:31.968] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Elputa616 to connected: {disabled=false, disconnected=false, uuid=bc074349-6d31-3bb6-94f6-0bbd4af8bdce, name=Elputa616, group=null}
+[28Jun2025 10:19:31.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elputa616 (bc074349-6d31-3bb6-94f6-0bbd4af8bdce) successfully connected to voice chat
+[28Jun2025 10:19:32.105] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elputa616: {disabled=false, disconnected=false, uuid=bc074349-6d31-3bb6-94f6-0bbd4af8bdce, name=Elputa616, group=null}
+[28Jun2025 10:21:40.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 10:21:40.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 10:21:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 has made the advancement [Isn't It Iron Pick]
+[28Jun2025 10:26:40.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 10:26:40.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 10:31:40.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 10:31:40.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
