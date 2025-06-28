@@ -258,3 +258,21 @@
 [28Jun2025 10:36:03.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set the time to 0]
 [28Jun2025 10:47:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set the time to 0]
 [28Jun2025 10:52:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set the time to 18000]
+[28Jun2025 10:55:40.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elputa616 lost connection: Disconnected
+[28Jun2025 10:55:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 left the game
+[28Jun2025 10:55:40.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elputa616
+[28Jun2025 10:56:21.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[28Jun2025 10:56:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[28Jun2025 10:56:21.062] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[28Jun2025 10:56:23.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elputa616[/100.113.103.104:61074] logged in with entity id 26912 at (4871.174750533583, 103.0, 2205.928694810054)
+[28Jun2025 10:56:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 joined the game
+[28Jun2025 10:56:23.621] [Server thread/INFO] [ping-wheel/]: Channel update: Elputa616 -> default
+[28Jun2025 10:56:23.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elputa616 (18)
+[28Jun2025 10:56:23.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elputa616
+[28Jun2025 10:56:23.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:56:24.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc074349-6d31-3bb6-94f6-0bbd4af8bdce
+[28Jun2025 10:56:24.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elputa616 (bc074349-6d31-3bb6-94f6-0bbd4af8bdce) successfully connected to voice chat
+[28Jun2025 10:59:06.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elputa616 lost connection: Disconnected
+[28Jun2025 10:59:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elputa616 left the game
+[28Jun2025 10:59:06.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elputa616
+[28Jun2025 11:00:06.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
