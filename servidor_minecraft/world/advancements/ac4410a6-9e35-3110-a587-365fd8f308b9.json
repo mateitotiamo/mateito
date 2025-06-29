@@ -3585,6 +3585,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-29 05:08:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2025-06-29 03:52:31 +0000"

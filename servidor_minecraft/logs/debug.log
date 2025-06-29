@@ -2228,3 +2228,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 04:59:08.277] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=605, y=89, z=276} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [29Jun2025 05:01:45.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 05:01:45.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 05:06:45.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 05:06:45.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 05:08:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Voluntary Exile]
+[29Jun2025 05:11:45.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 05:11:45.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

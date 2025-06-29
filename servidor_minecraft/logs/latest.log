@@ -151,3 +151,4 @@
 [29Jun2025 04:21:13.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r was doomed to fall by Ghast
 [29Jun2025 04:25:03.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:warped_forest took 6 ms
 [29Jun2025 04:27:32.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=466, y=90, z=280}
+[29Jun2025 05:08:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Voluntary Exile]
