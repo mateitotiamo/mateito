@@ -137,3 +137,11 @@
 [29Jun2025 01:51:41.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 01:51:42.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 01:51:42.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[29Jun2025 03:06:21.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[29Jun2025 03:13:09.414] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element biomesoplenty:volcano took 1838 ms
+[29Jun2025 03:13:17.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to 2740.500000, 130.000000, 2993.500000]
+[29Jun2025 03:13:17.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4223ms or 84 ticks behind
+[29Jun2025 03:16:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to 2500.500000, 129.976537, 1200.500000]
+[29Jun2025 03:16:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to 4500.500000, 129.976537, 2200.500000]
+[29Jun2025 03:17:16.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved too quickly! 25.238864131202718,0.0,1.775347517577302
+[29Jun2025 03:17:58.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
