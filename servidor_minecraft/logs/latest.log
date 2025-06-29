@@ -152,3 +152,31 @@
 [29Jun2025 04:25:03.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:warped_forest took 6 ms
 [29Jun2025 04:27:32.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=466, y=90, z=280}
 [29Jun2025 05:08:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Voluntary Exile]
+[29Jun2025 05:32:27.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[29Jun2025 05:32:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[29Jun2025 05:32:27.796] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[29Jun2025 05:32:50.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:61695] logged in with entity id 74236 at (4874.649208907588, 107.0, 2212.800067340787)
+[29Jun2025 05:32:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[29Jun2025 05:32:50.517] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[29Jun2025 05:32:50.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[29Jun2025 05:32:50.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[29Jun2025 05:32:50.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[29Jun2025 05:32:51.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[29Jun2025 05:32:51.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[29Jun2025 05:32:55.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[29Jun2025 05:34:01.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[29Jun2025 05:34:07.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[29Jun2025 05:34:07.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[29Jun2025 05:34:07.896] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[29Jun2025 05:34:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jun2025 05:34:12.392] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[29Jun2025 05:34:12.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 05:34:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 05:34:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 05:34:12.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 05:34:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 05:34:12.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 05:34:12.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 05:34:12.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 05:34:12.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 05:34:12.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
