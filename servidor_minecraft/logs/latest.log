@@ -124,3 +124,4 @@
 [29Jun2025 00:03:45.941] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 00:03:46.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 00:03:46.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[29Jun2025 00:26:19.477] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2

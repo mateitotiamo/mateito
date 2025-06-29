@@ -3266,15 +3266,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_dead_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-29 00:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_pine_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:26:20 +0000"
     },
     "done": true
   },
@@ -3290,15 +3320,69 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:26:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:26:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-29 00:26:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-29 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
     },
     "done": true
   },
@@ -3311,6 +3395,36 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-29 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-29 00:26:30 +0000"
     },
     "done": true
   },
