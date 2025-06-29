@@ -3939,5 +3939,425 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/red_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/orange_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_paths": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_fir_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/pale_oak": {
+    "criteria": {
+      "has_pale_oak": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/cherry": {
+    "criteria": {
+      "has_cherry": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/deepslate": {
+    "criteria": {
+      "has_planks": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-06-29 11:32:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
