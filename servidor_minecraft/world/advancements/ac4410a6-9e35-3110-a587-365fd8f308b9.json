@@ -36,6 +36,7 @@
       "tundra": "2025-06-28 06:25:24 +0000",
       "withered_abyss": "2025-06-24 07:45:38 +0000",
       "orchard": "2025-06-24 05:48:26 +0000",
+      "undergrowth": "2025-06-29 04:09:08 +0000",
       "overgrown_greens": "2025-06-22 00:09:04 +0000",
       "mediterranean_forest": "2025-06-21 22:26:42 +0000",
       "rainforest": "2025-06-21 23:45:42 +0000",
@@ -3509,6 +3510,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 04:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
@@ -3791,6 +3798,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 04:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
@@ -3806,6 +3819,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-06-29 04:10:43 +0000"
     },
     "done": true
   },
