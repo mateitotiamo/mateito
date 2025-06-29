@@ -145,3 +145,5 @@
 [29Jun2025 03:16:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to 4500.500000, 129.976537, 2200.500000]
 [29Jun2025 03:17:16.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved too quickly! 25.238864131202718,0.0,1.775347517577302
 [29Jun2025 03:17:58.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[29Jun2025 03:51:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[29Jun2025 03:55:38.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
