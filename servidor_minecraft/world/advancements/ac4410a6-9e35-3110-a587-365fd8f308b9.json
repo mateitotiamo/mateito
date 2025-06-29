@@ -4359,5 +4359,54 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/milkbottle": {
+    "criteria": {
+      "has_base_item": "2025-06-29 12:16:47 +0000",
+      "has_the_recipe": "2025-06-29 12:16:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_smelting_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/milkbottle": {
+    "criteria": {
+      "has_base_item": "2025-06-29 12:16:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle": {
+    "criteria": {
+      "has_base_item": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_smoking_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_campfire_cooking_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/chocolatebar": {
+    "criteria": {
+      "has_base_item": "2025-06-29 12:16:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/cookedsquidtentacle": {
+    "criteria": {
+      "has_base_item": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
