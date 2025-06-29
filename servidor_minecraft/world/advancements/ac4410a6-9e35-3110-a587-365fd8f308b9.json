@@ -2031,7 +2031,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-24 07:48:17 +0000",
-      "minecraft:soul_sand_valley": "2025-06-24 07:50:42 +0000"
+      "minecraft:soul_sand_valley": "2025-06-24 07:50:42 +0000",
+      "minecraft:warped_forest": "2025-06-29 04:38:58 +0000"
     },
     "done": false
   },
@@ -3451,6 +3452,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
@@ -3499,6 +3506,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-29 02:11:48 +0000"
@@ -3523,6 +3536,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-29 03:52:31 +0000"
@@ -3532,6 +3551,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
     },
     "done": true
   },
@@ -3715,6 +3740,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
@@ -3736,6 +3767,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-29 03:59:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
     },
     "done": true
   },
@@ -3769,6 +3806,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-29 02:11:48 +0000"
@@ -3799,6 +3842,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/hellbark_wood": {
     "criteria": {
       "has_log": "2025-06-29 04:09:26 +0000"
@@ -3814,6 +3863,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-29 03:43:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 04:22:32 +0000"
     },
     "done": true
   },
