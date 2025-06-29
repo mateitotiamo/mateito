@@ -4438,5 +4438,131 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/frenchfries_from_smoking_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries_from_smelting_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries": {
+    "criteria": {
+      "has_base_item": "2025-06-29 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries_from_campfire_cooking_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/frenchfries": {
+    "criteria": {
+      "has_base_item": "2025-06-29 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:23:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_paths": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_hellbark_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:23:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

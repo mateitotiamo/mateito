@@ -3213,6 +3213,126 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 07:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 07:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 07:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-28 07:41:53 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-06-28 07:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-28 07:41:53 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-06-28 07:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-28 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-28 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-28 07:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-28 07:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
@@ -3225,27 +3345,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-28 07:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-28 07:41:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/return_scroll": {
-    "criteria": {
-      "has_paper": "2025-06-28 07:41:53 +0000"
     },
     "done": true
   },
@@ -3258,12 +3360,6 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
     },
     "done": true
   },
@@ -3285,51 +3381,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-28 07:41:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-28 07:41:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-06-28 07:25:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-28 07:41:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
     },
     "done": true
   },
@@ -3351,33 +3405,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-28 07:29:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
     },
     "done": true
   },
@@ -3393,27 +3423,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 07:29:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-28 07:49:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-28 07:25:37 +0000"
     },
     "done": true
   },
@@ -3429,15 +3441,537 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "mcwbiomesoplenty:recipes/red_maple_hedge": {
     "criteria": {
-      "has_paper": "2025-06-28 07:41:53 +0000"
+      "has_birch": "2025-06-29 22:31:53 +0000"
     },
     "done": true
   },
-  "waystones:recipes/decorations/blank_scroll": {
+  "mcwfences:recipes/stone": {
     "criteria": {
-      "has_paper": "2025-06-28 07:41:53 +0000"
+      "has_stone": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries_from_smoking_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries_from_smelting_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/orange_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries": {
+    "criteria": {
+      "has_base_item": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/frenchfries_from_campfire_cooking_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/frenchfries": {
+    "criteria": {
+      "has_base_item": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_paths": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/pale_oak": {
+    "criteria": {
+      "has_pale_oak": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_paths": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/cherry": {
+    "criteria": {
+      "has_cherry": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_maple_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_hellbark_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:31:53 +0000"
     },
     "done": true
   },

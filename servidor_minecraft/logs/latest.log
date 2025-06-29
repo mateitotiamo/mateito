@@ -141,3 +141,31 @@
 [29Jun2025 22:05:37.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 22:05:37.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
 [29Jun2025 22:19:57.277] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[29Jun2025 22:31:45.258] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[29Jun2025 22:31:53.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:63595] logged in with entity id 6308 at (4811.252492976235, 80.0, 2173.251442162835)
+[29Jun2025 22:31:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[29Jun2025 22:31:53.815] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[29Jun2025 22:31:53.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[29Jun2025 22:31:53.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[29Jun2025 22:31:54.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[29Jun2025 22:31:55.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[29Jun2025 22:31:55.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[29Jun2025 22:32:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[29Jun2025 22:34:51.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[29Jun2025 22:34:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[29Jun2025 22:34:51.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[29Jun2025 22:34:58.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[29Jun2025 22:34:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[29Jun2025 22:34:58.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[29Jun2025 22:35:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jun2025 22:35:13.207] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[29Jun2025 22:35:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 22:35:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 22:35:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 22:35:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 22:35:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 22:35:13.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 22:35:13.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
