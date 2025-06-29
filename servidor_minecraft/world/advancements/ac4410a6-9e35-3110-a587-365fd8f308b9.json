@@ -15,6 +15,7 @@
       "rocky_shrubland": "2025-06-24 05:48:36 +0000",
       "redwood_forest": "2025-06-28 07:32:31 +0000",
       "scrubland": "2025-06-21 23:47:39 +0000",
+      "visceral_heap": "2025-06-29 04:47:04 +0000",
       "bayou": "2025-06-29 03:15:02 +0000",
       "dune_beach": "2025-06-28 07:18:51 +0000",
       "erupting_inferno": "2025-06-24 08:22:04 +0000",
@@ -3608,6 +3609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-29 04:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-29 02:11:48 +0000"
@@ -3833,6 +3840,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-29 02:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 04:43:02 +0000"
     },
     "done": true
   },
