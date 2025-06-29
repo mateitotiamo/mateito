@@ -4378,9 +4378,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/crimson_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 12:22:53 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/cookedsquidtentacle": {
     "criteria": {
       "has_base_item": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 12:25:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 12:25:24 +0000"
     },
     "done": true
   },
@@ -4390,9 +4408,21 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 12:21:53 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/cookedsquidtentacle_from_campfire_cooking_squidrtentacle": {
     "criteria": {
       "has_squidrtentacle": "2025-06-29 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-29 12:25:24 +0000"
     },
     "done": true
   },
