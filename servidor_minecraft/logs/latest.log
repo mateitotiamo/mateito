@@ -1,318 +1,142 @@
-[29Jun2025 12:14:53.020] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[29Jun2025 12:14:53.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
-[29Jun2025 12:14:53.024] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[29Jun2025 12:14:53.348] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[29Jun2025 12:14:53.457] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[29Jun2025 12:14:53.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[29Jun2025 12:14:53.852] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[29Jun2025 12:14:55.273] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jun2025 12:14:55.310] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[29Jun2025 12:14:55.364] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[29Jun2025 12:14:55.405] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[29Jun2025 12:14:55.439] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.442] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.444] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.446] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.449] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.452] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.455] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.456] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.458] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.459] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.461] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.463] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.494] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.496] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.497] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.498] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.499] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.500] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.501] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.503] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.504] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.506] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.507] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 12:14:55.860] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
-[29Jun2025 12:14:55.860] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
-[29Jun2025 12:15:01.662] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[29Jun2025 12:15:01.677] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
-[29Jun2025 12:15:01.689] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[29Jun2025 12:15:01.690] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[29Jun2025 12:15:01.698] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[29Jun2025 12:15:01.869] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
-[29Jun2025 12:15:01.869] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
-[29Jun2025 12:15:01.962] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
-[29Jun2025 12:15:01.963] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
-[29Jun2025 12:15:01.982] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[29Jun2025 12:15:02.152] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
-[29Jun2025 12:15:02.181] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[29Jun2025 12:15:02.182] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
-[29Jun2025 12:15:02.296] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
-[29Jun2025 12:15:02.301] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
-[29Jun2025 12:15:03.927] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[29Jun2025 12:15:03.930] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Jun2025 12:15:03.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[29Jun2025 12:15:03.991] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Jun2025 12:15:03.998] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[29Jun2025 12:15:03.998] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Jun2025 12:15:04.004] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[29Jun2025 12:15:04.004] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[29Jun2025 12:15:04.008] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[29Jun2025 12:15:04.164] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29Jun2025 12:15:04.165] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29Jun2025 12:15:04.165] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[29Jun2025 12:15:04.166] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[29Jun2025 12:15:04.166] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[29Jun2025 12:15:04.166] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[29Jun2025 12:15:04.167] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[29Jun2025 12:15:04.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
-[29Jun2025 12:15:04.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
-[29Jun2025 12:15:05.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
-[29Jun2025 12:15:05.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[29Jun2025 12:15:05.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[29Jun2025 12:15:05.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
-[29Jun2025 12:15:05.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
-[29Jun2025 12:15:05.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jun2025 12:15:05.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
-[29Jun2025 12:15:05.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[29Jun2025 12:15:05.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[29Jun2025 12:15:05.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[29Jun2025 12:15:05.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[29Jun2025 12:15:05.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Jun2025 12:15:05.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.32
-[29Jun2025 12:15:05.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Jun2025 12:15:05.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
-[29Jun2025 12:15:05.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[29Jun2025 12:15:05.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[29Jun2025 12:15:05.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
-[29Jun2025 12:15:05.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
-[29Jun2025 12:15:05.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[29Jun2025 12:15:05.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[29Jun2025 12:15:06.909] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[29Jun2025 12:15:07.094] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:applecake Expected: 4467 Got: 4610
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_candle_cake Expected: 4468 Got: 4611
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_yellow_candle_cake Expected: 4469 Got: 4612
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_lime_candle_cake Expected: 4470 Got: 4613
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_pink_candle_cake Expected: 4471 Got: 4614
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_gray_candle_cake Expected: 4472 Got: 4615
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_light_gray_candle_cake Expected: 4473 Got: 4616
-[29Jun2025 12:15:07.095] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_cyan_candle_cake Expected: 4474 Got: 4617
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_purple_candle_cake Expected: 4475 Got: 4618
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_blue_candle_cake Expected: 4476 Got: 4619
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_brown_candle_cake Expected: 4477 Got: 4620
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_green_candle_cake Expected: 4478 Got: 4621
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_red_candle_cake Expected: 4479 Got: 4622
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_black_candle_cake Expected: 4480 Got: 4623
-[29Jun2025 12:15:07.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_white_candle_cake Expected: 4481 Got: 4624
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_orange_candle_cake Expected: 4482 Got: 4625
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_magenta_candle_cake Expected: 4483 Got: 4626
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:apple_light_blue_candle_cake Expected: 4484 Got: 4627
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolatecake Expected: 4485 Got: 4628
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_candle_cake Expected: 4486 Got: 4629
-[29Jun2025 12:15:07.097] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_yellow_candle_cake Expected: 4487 Got: 4630
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_lime_candle_cake Expected: 4488 Got: 4631
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_pink_candle_cake Expected: 4489 Got: 4632
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_gray_candle_cake Expected: 4490 Got: 4633
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_light_gray_candle_cake Expected: 4491 Got: 4634
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_cyan_candle_cake Expected: 4492 Got: 4635
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_purple_candle_cake Expected: 4493 Got: 4636
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_blue_candle_cake Expected: 4494 Got: 4637
-[29Jun2025 12:15:07.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_brown_candle_cake Expected: 4495 Got: 4638
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_green_candle_cake Expected: 4496 Got: 4639
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_red_candle_cake Expected: 4497 Got: 4640
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_black_candle_cake Expected: 4498 Got: 4641
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_white_candle_cake Expected: 4499 Got: 4642
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_orange_candle_cake Expected: 4500 Got: 4643
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_magenta_candle_cake Expected: 4501 Got: 4644
-[29Jun2025 12:15:07.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:chocolate_light_blue_candle_cake Expected: 4502 Got: 4645
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magiccake Expected: 4503 Got: 4646
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_candle_cake Expected: 4504 Got: 4647
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_yellow_candle_cake Expected: 4505 Got: 4648
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_lime_candle_cake Expected: 4506 Got: 4649
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_pink_candle_cake Expected: 4507 Got: 4650
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_gray_candle_cake Expected: 4508 Got: 4651
-[29Jun2025 12:15:07.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_light_gray_candle_cake Expected: 4509 Got: 4652
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_cyan_candle_cake Expected: 4510 Got: 4653
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_purple_candle_cake Expected: 4511 Got: 4654
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_blue_candle_cake Expected: 4512 Got: 4655
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_brown_candle_cake Expected: 4513 Got: 4656
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_green_candle_cake Expected: 4514 Got: 4657
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_red_candle_cake Expected: 4515 Got: 4658
-[29Jun2025 12:15:07.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_black_candle_cake Expected: 4516 Got: 4659
-[29Jun2025 12:15:07.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_white_candle_cake Expected: 4517 Got: 4660
-[29Jun2025 12:15:07.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_orange_candle_cake Expected: 4518 Got: 4661
-[29Jun2025 12:15:07.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_magenta_candle_cake Expected: 4519 Got: 4662
-[29Jun2025 12:15:07.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:magic_light_blue_candle_cake Expected: 4520 Got: 4663
-[29Jun2025 12:15:07.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramelcake Expected: 4521 Got: 4664
-[29Jun2025 12:15:07.103] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_candle_cake Expected: 4522 Got: 4665
-[29Jun2025 12:15:07.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_yellow_candle_cake Expected: 4523 Got: 4666
-[29Jun2025 12:15:07.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_lime_candle_cake Expected: 4524 Got: 4667
-[29Jun2025 12:15:07.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_pink_candle_cake Expected: 4525 Got: 4668
-[29Jun2025 12:15:07.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_gray_candle_cake Expected: 4526 Got: 4669
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_light_gray_candle_cake Expected: 4527 Got: 4670
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_cyan_candle_cake Expected: 4528 Got: 4671
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_purple_candle_cake Expected: 4529 Got: 4672
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_blue_candle_cake Expected: 4530 Got: 4673
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_brown_candle_cake Expected: 4531 Got: 4674
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_green_candle_cake Expected: 4532 Got: 4675
-[29Jun2025 12:15:07.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_red_candle_cake Expected: 4533 Got: 4676
-[29Jun2025 12:15:07.106] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_black_candle_cake Expected: 4534 Got: 4677
-[29Jun2025 12:15:07.106] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_white_candle_cake Expected: 4535 Got: 4678
-[29Jun2025 12:15:07.106] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_orange_candle_cake Expected: 4536 Got: 4679
-[29Jun2025 12:15:07.106] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_magenta_candle_cake Expected: 4537 Got: 4680
-[29Jun2025 12:15:07.106] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: usefulfood:caramel_light_blue_candle_cake Expected: 4538 Got: 4681
-[29Jun2025 12:15:07.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:milkbottle Expected: 4777 Got: 4922
-[29Jun2025 12:15:07.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatemilkbottle Expected: 4778 Got: 4923
-[29Jun2025 12:15:07.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cheese Expected: 4779 Got: 4924
-[29Jun2025 12:15:07.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatebar Expected: 4780 Got: 4925
-[29Jun2025 12:15:07.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:fruitsalad Expected: 4781 Got: 4926
-[29Jun2025 12:15:07.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:magicfruitsalad Expected: 4782 Got: 4927
-[29Jun2025 12:15:07.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sugarcube Expected: 4783 Got: 4928
-[29Jun2025 12:15:07.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramel Expected: 4784 Got: 4929
-[29Jun2025 12:15:07.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramelapple Expected: 4785 Got: 4930
-[29Jun2025 12:15:07.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:roastedseeds Expected: 4786 Got: 4931
-[29Jun2025 12:15:07.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:friedegg Expected: 4787 Got: 4932
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:pumpkinsoup Expected: 4788 Got: 4933
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:salad Expected: 4789 Got: 4934
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:oatmeal Expected: 4790 Got: 4935
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:jelly Expected: 4791 Got: 4936
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:rawmarshmallow Expected: 4792 Got: 4937
-[29Jun2025 12:15:07.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cookedmarshmallow Expected: 4793 Got: 4938
-[29Jun2025 12:15:07.113] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:vanillaicecream Expected: 4794 Got: 4939
-[29Jun2025 12:15:07.113] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:breadslice Expected: 4795 Got: 4940
-[29Jun2025 12:15:07.113] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:porkchopsandwich Expected: 4796 Got: 4941
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:steaksandwich Expected: 4797 Got: 4942
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:fishsandwich Expected: 4798 Got: 4943
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chickensandwich Expected: 4799 Got: 4944
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:eggsandwich Expected: 4800 Got: 4945
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:biscuit Expected: 4801 Got: 4946
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:trailmix Expected: 4802 Got: 4947
-[29Jun2025 12:15:07.114] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:muttonsandwich Expected: 4803 Got: 4948
-[29Jun2025 12:15:07.115] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sushi Expected: 4804 Got: 4949
-[29Jun2025 12:15:07.115] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:squidrtentacle Expected: 4805 Got: 4950
-[29Jun2025 12:15:07.115] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cookedsquidtentacle Expected: 4806 Got: 4951
-[29Jun2025 12:15:07.116] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:squidsandwich Expected: 4807 Got: 4952
-[29Jun2025 12:15:07.116] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:magicapplejuice Expected: 4808 Got: 4953
-[29Jun2025 12:15:07.116] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjuice Expected: 4809 Got: 4954
-[29Jun2025 12:15:07.116] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejuice Expected: 4810 Got: 4955
-[29Jun2025 12:15:07.116] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:carrotjuice Expected: 4811 Got: 4956
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:carrotsoup Expected: 4812 Got: 4957
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:pumpkinbread Expected: 4813 Got: 4958
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:fishnchips Expected: 4814 Got: 4959
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sugarbiscuit Expected: 4815 Got: 4960
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejambiscuit Expected: 4816 Got: 4961
-[29Jun2025 12:15:07.117] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatebiscuit Expected: 4817 Got: 4962
-[29Jun2025 12:15:07.118] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:carrotpie Expected: 4818 Got: 4963
-[29Jun2025 12:15:07.118] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:hotchocolatemilkbottle Expected: 4819 Got: 4964
-[29Jun2025 12:15:07.118] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolateicecream Expected: 4820 Got: 4965
-[29Jun2025 12:15:07.118] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:magicicecream Expected: 4821 Got: 4966
-[29Jun2025 12:15:07.119] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:squidsushi Expected: 4822 Got: 4967
-[29Jun2025 12:15:07.119] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cactusjuice Expected: 4823 Got: 4968
-[29Jun2025 12:15:07.119] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:spaghetti Expected: 4824 Got: 4969
-[29Jun2025 12:15:07.119] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:appleicecream Expected: 4825 Got: 4970
-[29Jun2025 12:15:07.119] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonicecream Expected: 4826 Got: 4971
-[29Jun2025 12:15:07.120] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolateapple Expected: 4827 Got: 4972
-[29Jun2025 12:15:07.120] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramelbiscuit Expected: 4828 Got: 4973
-[29Jun2025 12:15:07.120] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:fishsoup Expected: 4829 Got: 4974
-[29Jun2025 12:15:07.120] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:tea Expected: 4830 Got: 4975
-[29Jun2025 12:15:07.121] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:hotmilkbottle Expected: 4831 Got: 4976
-[29Jun2025 12:15:07.121] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cheesesandwich Expected: 4832 Got: 4977
-[29Jun2025 12:15:07.121] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramelicecream Expected: 4833 Got: 4978
-[29Jun2025 12:15:07.121] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:cereal Expected: 4834 Got: 4979
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatecereal Expected: 4835 Got: 4980
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:frenchfries Expected: 4836 Got: 4981
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejelly Expected: 4837 Got: 4982
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjelly Expected: 4838 Got: 4983
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:donut Expected: 4839 Got: 4984
-[29Jun2025 12:15:07.122] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:oreo Expected: 4840 Got: 4985
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:carameltoast Expected: 4841 Got: 4986
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatetoast Expected: 4842 Got: 4987
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sugartoast Expected: 4843 Got: 4988
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sugarpancake Expected: 4844 Got: 4989
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejampancake Expected: 4845 Got: 4990
-[29Jun2025 12:15:07.123] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejamtoast Expected: 4846 Got: 4991
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applejam Expected: 4847 Got: 4992
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramelpancake Expected: 4848 Got: 4993
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatepancake Expected: 4849 Got: 4994
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjampancake Expected: 4850 Got: 4995
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjamtoast Expected: 4851 Got: 4996
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjambiscuit Expected: 4852 Got: 4997
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:melonjam Expected: 4853 Got: 4998
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:pancakedough Expected: 4854 Got: 4999
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:pancake Expected: 4855 Got: 5000
-[29Jun2025 12:15:07.124] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sweet_berries_juice Expected: 4856 Got: 5001
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:glow_berries_juice Expected: 4857 Got: 5002
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chorus_juice Expected: 4858 Got: 5003
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chorus_jelly Expected: 4859 Got: 5004
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:glow_berries_jelly Expected: 4860 Got: 5005
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sweet_berries_jelly Expected: 4861 Got: 5006
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chorus_ice_cream Expected: 4862 Got: 5007
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:sweet_berries_ice_cream Expected: 4863 Got: 5008
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:glow_berries_ice_cream Expected: 4864 Got: 5009
-[29Jun2025 12:15:07.125] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:applecake Expected: 4865 Got: 5010
-[29Jun2025 12:15:07.126] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:chocolatecake Expected: 4866 Got: 5011
-[29Jun2025 12:15:07.126] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:magiccake Expected: 4867 Got: 5012
-[29Jun2025 12:15:07.126] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: usefulfood:caramelcake Expected: 4868 Got: 5013
-[29Jun2025 12:15:10.982] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3365 recipes
-[29Jun2025 12:15:11.006] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2415 advancements
-[29Jun2025 12:15:11.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
-[29Jun2025 12:15:11.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jun2025 12:15:11.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jun2025 12:15:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jun2025 12:15:11.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jun2025 12:15:11.332] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jun2025 12:15:11.372] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jun2025 12:15:11.373] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jun2025 12:15:11.373] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jun2025 12:15:11.373] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jun2025 12:15:11.566] [Server thread/INFO] [spark/]: Starting background profiler...
-[29Jun2025 12:15:12.203] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29Jun2025 12:15:12.206] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29Jun2025 12:15:12.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jun2025 12:15:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jun2025 12:15:18.379] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:18.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:19.215] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:19.216] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 12:15:19.265] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6730 ms
-[29Jun2025 12:15:19.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.882s)! For help, type "help"
-[29Jun2025 12:15:19.279] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jun2025 12:15:19.296] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[29Jun2025 12:15:19.297] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[29Jun2025 12:15:19.298] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[29Jun2025 12:15:19.301] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Jun2025 12:15:19.307] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[29Jun2025 12:15:37.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:54032] logged in with entity id 3 at (4891.198197021054, 103.0, 2197.031405322181)
-[29Jun2025 12:15:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[29Jun2025 12:15:37.486] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[29Jun2025 12:15:37.511] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
-[29Jun2025 12:15:37.514] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
-[29Jun2025 12:15:38.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
-[29Jun2025 12:15:39.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
-[29Jun2025 12:15:39.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
-[29Jun2025 12:28:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
-[29Jun2025 12:28:57.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[29Jun2025 12:28:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[29Jun2025 12:28:57.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
-[29Jun2025 12:29:09.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[29Jun2025 12:29:09.509] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
-[29Jun2025 12:29:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Jun2025 12:29:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Jun2025 12:29:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Jun2025 12:29:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Jun2025 12:29:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Jun2025 12:29:09.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Jun2025 12:29:09.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Jun2025 12:29:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Jun2025 12:29:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Jun2025 12:29:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jun2025 22:03:40.186] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[29Jun2025 22:03:40.188] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
+[29Jun2025 22:03:40.188] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[29Jun2025 22:03:41.015] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[29Jun2025 22:03:41.147] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[29Jun2025 22:03:41.410] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[29Jun2025 22:03:41.621] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[29Jun2025 22:03:43.691] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Jun2025 22:03:43.737] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[29Jun2025 22:03:43.788] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[29Jun2025 22:03:43.835] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[29Jun2025 22:03:43.881] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.884] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.889] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.891] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.893] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.896] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.899] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.901] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.903] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.905] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.906] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.908] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.912] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.915] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.916] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.918] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.918] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.920] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.921] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.924] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.927] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.928] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:43.929] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:03:44.346] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[29Jun2025 22:03:44.346] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
+[29Jun2025 22:03:53.115] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[29Jun2025 22:03:53.120] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[29Jun2025 22:03:53.137] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[29Jun2025 22:03:53.139] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[29Jun2025 22:03:53.142] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[29Jun2025 22:03:53.345] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[29Jun2025 22:03:53.346] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[29Jun2025 22:03:53.414] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
+[29Jun2025 22:03:53.415] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
+[29Jun2025 22:03:53.459] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[29Jun2025 22:03:53.577] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
+[29Jun2025 22:03:53.648] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[29Jun2025 22:03:53.704] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[29Jun2025 22:03:53.838] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[29Jun2025 22:03:53.855] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
+[29Jun2025 22:03:55.952] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[29Jun2025 22:03:55.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[29Jun2025 22:03:55.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[29Jun2025 22:03:56.040] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[29Jun2025 22:03:56.050] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[29Jun2025 22:03:56.050] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[29Jun2025 22:03:56.060] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[29Jun2025 22:03:56.061] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[29Jun2025 22:03:56.062] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[29Jun2025 22:03:56.225] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[29Jun2025 22:03:56.226] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[29Jun2025 22:03:56.226] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[29Jun2025 22:03:56.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
+[29Jun2025 22:03:56.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
+[29Jun2025 22:03:56.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
+[29Jun2025 22:03:56.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[29Jun2025 22:03:56.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[29Jun2025 22:03:56.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
+[29Jun2025 22:03:57.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
+[29Jun2025 22:03:57.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jun2025 22:03:57.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
+[29Jun2025 22:03:57.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[29Jun2025 22:03:57.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[29Jun2025 22:03:57.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[29Jun2025 22:03:57.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[29Jun2025 22:03:57.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[29Jun2025 22:03:57.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.32
+[29Jun2025 22:03:57.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[29Jun2025 22:03:57.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
+[29Jun2025 22:03:57.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[29Jun2025 22:03:57.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[29Jun2025 22:03:57.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
+[29Jun2025 22:03:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[29Jun2025 22:03:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[29Jun2025 22:03:57.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[29Jun2025 22:03:59.520] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[29Jun2025 22:04:05.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3365 recipes
+[29Jun2025 22:04:05.529] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2415 advancements
+[29Jun2025 22:04:05.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jun2025 22:04:05.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jun2025 22:04:06.103] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jun2025 22:04:06.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jun2025 22:04:06.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jun2025 22:04:06.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jun2025 22:04:06.166] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jun2025 22:04:06.493] [Server thread/INFO] [spark/]: Starting background profiler...
+[29Jun2025 22:04:08.284] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[29Jun2025 22:04:08.285] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[29Jun2025 22:04:08.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jun2025 22:04:08.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jun2025 22:04:15.650] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 22:04:15.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[29Jun2025 22:04:17.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[29Jun2025 22:04:17.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[29Jun2025 22:04:17.289] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8500 ms
+[29Jun2025 22:04:17.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.112s)! For help, type "help"
+[29Jun2025 22:04:17.315] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jun2025 22:04:17.337] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[29Jun2025 22:04:17.338] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[29Jun2025 22:04:17.342] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[29Jun2025 22:04:17.346] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[29Jun2025 22:04:17.355] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[29Jun2025 22:05:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[29Jun2025 22:05:35.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:53548] logged in with entity id 3 at (4857.844622722785, 98.0, 2207.707048706632)
+[29Jun2025 22:05:35.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[29Jun2025 22:05:36.202] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[29Jun2025 22:05:36.209] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[29Jun2025 22:05:36.212] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[29Jun2025 22:05:36.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[29Jun2025 22:05:37.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[29Jun2025 22:05:37.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
