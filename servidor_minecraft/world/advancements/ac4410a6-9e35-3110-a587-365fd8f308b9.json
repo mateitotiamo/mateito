@@ -3260,6 +3260,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 00:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 00:18:05 +0000"
@@ -3293,6 +3299,12 @@
   "biomesoplenty:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-29 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 00:35:12 +0000"
     },
     "done": true
   },
