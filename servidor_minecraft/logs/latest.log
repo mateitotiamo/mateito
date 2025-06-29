@@ -125,3 +125,7 @@
 [29Jun2025 00:03:46.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [29Jun2025 00:03:46.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
 [29Jun2025 00:26:19.477] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[29Jun2025 00:47:45.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[29Jun2025 00:47:45.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[29Jun2025 00:47:45.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[29Jun2025 00:48:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
