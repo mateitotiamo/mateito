@@ -199,3 +199,18 @@
 [30Jun2025 03:22:08.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [30Jun2025 03:22:09.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [30Jun2025 03:22:09.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[30Jun2025 04:35:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Enchanter]
+[30Jun2025 04:35:22.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[30Jun2025 04:35:22.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[30Jun2025 04:35:22.065] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[30Jun2025 04:35:22.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[30Jun2025 04:35:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[30Jun2025 04:35:22.117] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[30Jun2025 04:35:37.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:51436] logged in with entity id 113707 at (4820.167010132742, 78.0, 2219.699999988079)
+[30Jun2025 04:35:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[30Jun2025 04:35:37.430] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[30Jun2025 04:35:37.431] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[30Jun2025 04:35:37.431] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[30Jun2025 04:35:37.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 04:35:38.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 04:35:38.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
