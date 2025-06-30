@@ -2902,6 +2902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 02:16:17 +0000"
@@ -2911,6 +2917,12 @@
   "mcwbiomesoplenty:recipes/red_maple_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-30 02:23:58 +0000"
     },
     "done": true
   },
@@ -3197,6 +3209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-06-30 00:37:49 +0000"
@@ -3206,6 +3224,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -3329,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/dead_paths": {
     "criteria": {
       "has_wood": "2025-06-30 01:02:34 +0000"
@@ -3425,6 +3455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:54 +0000"
@@ -3434,6 +3470,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -3447,6 +3489,12 @@
   "mcwbiomesoplenty:recipes/rope_umbran_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -3471,6 +3519,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 01:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -3528,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-30 02:23:58 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
     "criteria": {
       "has_base_item": "2025-06-30 01:14:06 +0000"
@@ -3579,6 +3639,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2025-06-30 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-30 02:23:58 +0000"
     },
     "done": true
   },
@@ -3715,6 +3781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 01:39:11 +0000"
@@ -3748,6 +3820,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 01:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -3850,6 +3928,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -4007,6 +4091,12 @@
   "mcwbiomesoplenty:recipes/umbran_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -4206,6 +4296,12 @@
   "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },
@@ -4544,6 +4640,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-30 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-30 02:23:26 +0000"
     },
     "done": true
   },

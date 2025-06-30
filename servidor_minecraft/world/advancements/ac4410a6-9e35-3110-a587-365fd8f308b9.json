@@ -4573,6 +4573,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/pine_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -4591,9 +4597,21 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:05 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:27:11 +0000"
     },
     "done": true
   },
@@ -4616,6 +4634,18 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:00 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/sugartoast": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
@@ -4625,6 +4655,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:00 +0000"
     },
     "done": true
   },
@@ -4640,6 +4676,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -4649,6 +4691,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-30 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:34:20 +0000"
     },
     "done": true
   },
@@ -4683,6 +4731,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
@@ -4704,6 +4758,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-06-30 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:31:30 +0000"
     },
     "done": true
   },
@@ -4732,15 +4792,33 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/dead_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:27:06 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/sugarbiscuit": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:04 +0000"
     },
     "done": true
   },
@@ -4765,6 +4843,18 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_pine_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:31:30 +0000"
     },
     "done": true
   },
@@ -4799,6 +4889,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_umbran_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
@@ -4817,6 +4913,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:28:19 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-30 02:29:39 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
@@ -4829,9 +4937,33 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:00 +0000"
     },
     "done": true
   },
@@ -4850,6 +4982,12 @@
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:00 +0000"
     },
     "done": true
   },
@@ -4895,6 +5033,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 02:31:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/warped_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 00:42:00 +0000"
@@ -4914,6 +5058,18 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/blackstone": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-06-30 02:04:36 +0000"
@@ -4929,6 +5085,12 @@
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-30 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:06 +0000"
     },
     "done": true
   },
@@ -4980,6 +5142,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/dead_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:48:34 +0000"
@@ -5004,6 +5172,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -5022,6 +5196,24 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_dead_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_tiles_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:34:20 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-06-30 02:13:17 +0000"
@@ -5037,6 +5229,18 @@
   "usefulfood:recipes/food/friedegg": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:27:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:02 +0000"
     },
     "done": true
   },
@@ -5059,9 +5263,21 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/mahogany_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:06 +0000"
     },
     "done": true
   },
@@ -5084,9 +5300,27 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-30 02:29:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:10 +0000"
     },
     "done": true
   },
@@ -5099,6 +5333,12 @@
   "usefulfood:recipes/usefulfood.test_group/pancakedough": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:31:30 +0000"
     },
     "done": true
   },
@@ -5158,6 +5398,24 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:28:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:28:19 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/carrotpie": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
@@ -5170,9 +5428,27 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/pine_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:10 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 02:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:04 +0000"
     },
     "done": true
   },
@@ -5194,6 +5470,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
@@ -5206,9 +5488,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:27:04 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_maple_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 01:04:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:04 +0000"
     },
     "done": true
   },
@@ -5249,6 +5549,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-30 02:29:39 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/melonjam": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000",
@@ -5268,6 +5574,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-30 02:29:39 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-06-30 00:41:57 +0000"
@@ -5280,6 +5598,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:29:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
@@ -5289,6 +5613,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-30 02:04:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:27:16 +0000"
     },
     "done": true
   },
@@ -5308,6 +5638,12 @@
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000",
       "has_the_recipe": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 02:31:29 +0000"
     },
     "done": true
   },
