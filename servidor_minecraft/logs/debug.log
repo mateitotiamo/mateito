@@ -3057,3 +3057,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 05:57:32.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jun2025 05:57:32.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 06:00:08.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113914, l='ServerLevel[world]', x=4625.50, y=81.50, z=2232.80] died, message: 'Villager was burned to a crisp while fighting Zombie'
+[30Jun2025 06:02:32.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 06:02:32.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 06:07:32.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 06:07:32.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
