@@ -166,3 +166,36 @@
 [30Jun2025 02:58:11.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [30Jun2025 02:58:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [30Jun2025 03:07:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Ice Bucket Challenge]
+[30Jun2025 03:21:02.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[30Jun2025 03:21:02.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[30Jun2025 03:21:02.869] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[30Jun2025 03:21:03.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[30Jun2025 03:21:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[30Jun2025 03:21:03.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[30Jun2025 03:21:16.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:57668] logged in with entity id 81486 at (4820.145361753264, 78.0, 2219.2099597668284)
+[30Jun2025 03:21:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[30Jun2025 03:21:16.241] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[30Jun2025 03:21:16.241] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[30Jun2025 03:21:16.242] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[30Jun2025 03:21:16.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 03:21:17.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 03:21:17.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[30Jun2025 03:21:24.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[30Jun2025 03:21:24.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[30Jun2025 03:21:24.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[30Jun2025 03:21:35.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:57687] logged in with entity id 81857 at (4820.145361753264, 78.0, 2219.2099597668284)
+[30Jun2025 03:21:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[30Jun2025 03:21:35.934] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[30Jun2025 03:21:35.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[30Jun2025 03:21:35.985] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[30Jun2025 03:21:36.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 03:21:37.334] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 03:21:37.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[30Jun2025 03:22:08.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:51096] logged in with entity id 82275 at (4813.940079677412, 91.0, 2216.582779694189)
+[30Jun2025 03:22:08.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[30Jun2025 03:22:08.290] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[30Jun2025 03:22:08.290] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[30Jun2025 03:22:08.291] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[30Jun2025 03:22:08.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 03:22:09.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 03:22:09.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
