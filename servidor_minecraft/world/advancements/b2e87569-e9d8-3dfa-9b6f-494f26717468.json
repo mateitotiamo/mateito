@@ -4758,6 +4758,18 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 04:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-06-30 04:08:52 +0000"
@@ -4782,6 +4794,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 04:24:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 04:16:13 +0000"
@@ -4797,6 +4815,12 @@
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-06-30 04:24:08 +0000"
     },
     "done": true
   },
