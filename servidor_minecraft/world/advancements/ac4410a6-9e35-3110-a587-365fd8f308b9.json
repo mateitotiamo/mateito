@@ -6050,6 +6050,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/applejam": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 03:22:18 +0000"
@@ -6110,6 +6116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-30 03:56:39 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 03:23:18 +0000"
@@ -6125,6 +6137,12 @@
   "biomesoplenty:recipes/building_blocks/magic_slab": {
     "criteria": {
       "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/red_maple_leaf_litter": {
+    "criteria": {
+      "has_red_maple_leaves": "2025-06-30 03:43:49 +0000"
     },
     "done": true
   },
@@ -6152,6 +6170,13 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/applejam": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000",
+      "has_the_recipe": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 03:27:20 +0000"
@@ -6164,9 +6189,35 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/appleicecream": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/applejuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/chocolateapple": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000",
+      "has_the_recipe": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/appleicecream": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000",
+      "has_the_recipe": "2025-06-30 03:52:03 +0000"
     },
     "done": true
   },
@@ -6188,6 +6239,19 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/applejuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000",
+      "has_the_recipe": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/applecake": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 03:31:55 +0000"
@@ -6200,9 +6264,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-30 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-30 03:56:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/magic_fence": {
     "criteria": {
       "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/chocolateapple": {
+    "criteria": {
+      "has_base_item": "2025-06-30 03:52:03 +0000"
     },
     "done": true
   },
