@@ -6325,9 +6325,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:09:00 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 04:54:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-30 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:09:00 +0000"
     },
     "done": true
   },
