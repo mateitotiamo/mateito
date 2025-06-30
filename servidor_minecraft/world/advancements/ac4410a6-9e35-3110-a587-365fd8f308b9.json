@@ -4604,6 +4604,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 01:04:14 +0000"
@@ -4619,6 +4625,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -4665,6 +4677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
@@ -4674,6 +4692,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-06-30 01:04:34 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -4717,6 +4741,18 @@
   "usefulfood:recipes/usefulfood.test_group/sugarbiscuit": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -4775,6 +4811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
@@ -4784,6 +4826,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-30 02:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -4860,6 +4908,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-06-30 02:04:36 +0000"
@@ -4908,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_paths": {
     "criteria": {
       "has_wood": "2025-06-30 01:04:14 +0000"
@@ -4950,9 +5010,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -4981,6 +5053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
@@ -5000,6 +5078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -5015,6 +5099,12 @@
   "usefulfood:recipes/usefulfood.test_group/pancakedough": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },
@@ -5169,6 +5259,12 @@
   "usefulfood:recipes/usefulfood.test_group/magiccake": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 02:13:17 +0000"
     },
     "done": true
   },

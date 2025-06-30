@@ -2902,6 +2902,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/red_maple_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
@@ -2941,6 +2947,12 @@
   "mcwbiomesoplenty:recipes/dead_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:16:17 +0000"
     },
     "done": true
   },
@@ -3064,6 +3076,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/glow_berries_juice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 02:08:28 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/snowblossom_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
@@ -3103,6 +3121,12 @@
   "mcwbiomesoplenty:recipes/origin_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
     },
     "done": true
   },
@@ -3209,6 +3233,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/fir_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 00:52:03 +0000"
@@ -3227,6 +3257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-06-30 01:19:18 +0000"
@@ -3236,6 +3272,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:08:28 +0000"
     },
     "done": true
   },
@@ -3299,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 01:19:18 +0000"
@@ -3332,6 +3380,18 @@
   "mcwbiomesoplenty:recipes/rope_pine_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/glow_berries_ice_cream": {
+    "criteria": {
+      "has_base_item": "2025-06-30 02:08:28 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:08:28 +0000"
     },
     "done": true
   },
@@ -3450,6 +3510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-30 02:12:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-06-30 00:50:57 +0000"
@@ -3483,6 +3549,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-30 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:08:28 +0000"
     },
     "done": true
   },
@@ -3555,6 +3627,12 @@
   "mcwbiomesoplenty:recipes/hellbark_fences": {
     "criteria": {
       "has_acacia": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
     },
     "done": true
   },
@@ -3724,6 +3802,18 @@
   "mcwbiomesoplenty:recipes/magic_fences": {
     "criteria": {
       "has_acacia": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
     },
     "done": true
   },
@@ -3974,6 +4064,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/dead_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 01:02:34 +0000"
@@ -3998,6 +4094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-06-30 01:24:11 +0000"
@@ -4007,6 +4109,12 @@
   "biomesoplenty:recipes/decorations/hellbark_fence": {
     "criteria": {
       "has_planks": "2025-06-30 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-30 02:12:12 +0000"
     },
     "done": true
   },
@@ -4052,9 +4160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/dead_fences": {
     "criteria": {
       "has_acacia": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_melon_seeds": {
+    "criteria": {
+      "has_melon_seeds": "2025-06-30 02:08:28 +0000"
     },
     "done": true
   },
@@ -4233,6 +4353,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 02:16:17 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-06-30 01:15:46 +0000"
@@ -4388,6 +4526,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_wood": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:16:17 +0000"
     },
     "done": true
   },
