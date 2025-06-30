@@ -226,3 +226,7 @@
 [30Jun2025 04:51:48.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
 [30Jun2025 05:27:15.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> taim set naigt
 [30Jun2025 05:27:37.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set the time to 13000]
+[30Jun2025 05:50:23.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[30Jun2025 05:50:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4753.500000, 84.000000, 2215.500000]
+[30Jun2025 05:50:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[30Jun2025 06:00:08.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113914, l='ServerLevel[world]', x=4625.50, y=81.50, z=2232.80] died, message: 'Villager was burned to a crisp while fighting Zombie'

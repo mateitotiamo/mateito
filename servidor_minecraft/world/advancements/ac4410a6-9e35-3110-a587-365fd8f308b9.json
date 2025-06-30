@@ -6337,6 +6337,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:48:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 05:09:00 +0000"
@@ -6352,6 +6358,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:48:31 +0000"
     },
     "done": true
   },
