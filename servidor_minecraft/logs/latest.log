@@ -1,171 +1,156 @@
-[29Jun2025 22:03:40.186] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[29Jun2025 22:03:40.188] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
-[29Jun2025 22:03:40.188] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[29Jun2025 22:03:41.015] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[29Jun2025 22:03:41.147] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[29Jun2025 22:03:41.410] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[29Jun2025 22:03:41.621] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[29Jun2025 22:03:43.691] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jun2025 22:03:43.737] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[29Jun2025 22:03:43.788] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[29Jun2025 22:03:43.835] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[29Jun2025 22:03:43.881] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.884] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.889] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.891] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.893] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.896] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.899] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.901] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.903] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.905] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.906] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.908] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.912] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.915] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.916] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.918] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.918] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.920] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.921] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.924] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.927] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.928] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:43.929] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 22:03:44.346] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
-[29Jun2025 22:03:44.346] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
-[29Jun2025 22:03:53.115] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[29Jun2025 22:03:53.120] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
-[29Jun2025 22:03:53.137] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[29Jun2025 22:03:53.139] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[29Jun2025 22:03:53.142] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[29Jun2025 22:03:53.345] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
-[29Jun2025 22:03:53.346] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
-[29Jun2025 22:03:53.414] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
-[29Jun2025 22:03:53.415] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
-[29Jun2025 22:03:53.459] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[29Jun2025 22:03:53.577] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
-[29Jun2025 22:03:53.648] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
-[29Jun2025 22:03:53.704] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[29Jun2025 22:03:53.838] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
-[29Jun2025 22:03:53.855] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
-[29Jun2025 22:03:55.952] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[29Jun2025 22:03:55.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Jun2025 22:03:55.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[29Jun2025 22:03:56.040] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Jun2025 22:03:56.050] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[29Jun2025 22:03:56.050] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Jun2025 22:03:56.060] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[29Jun2025 22:03:56.061] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[29Jun2025 22:03:56.062] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[29Jun2025 22:03:56.225] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29Jun2025 22:03:56.226] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29Jun2025 22:03:56.226] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[29Jun2025 22:03:56.228] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[29Jun2025 22:03:56.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
-[29Jun2025 22:03:56.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
-[29Jun2025 22:03:56.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
-[29Jun2025 22:03:56.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[29Jun2025 22:03:56.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[29Jun2025 22:03:56.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
-[29Jun2025 22:03:57.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
-[29Jun2025 22:03:57.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jun2025 22:03:57.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
-[29Jun2025 22:03:57.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[29Jun2025 22:03:57.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[29Jun2025 22:03:57.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[29Jun2025 22:03:57.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[29Jun2025 22:03:57.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Jun2025 22:03:57.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.32
-[29Jun2025 22:03:57.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Jun2025 22:03:57.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
-[29Jun2025 22:03:57.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[29Jun2025 22:03:57.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[29Jun2025 22:03:57.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
-[29Jun2025 22:03:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
-[29Jun2025 22:03:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[29Jun2025 22:03:57.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[29Jun2025 22:03:59.520] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[29Jun2025 22:04:05.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3365 recipes
-[29Jun2025 22:04:05.529] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2415 advancements
-[29Jun2025 22:04:05.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
-[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jun2025 22:04:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jun2025 22:04:05.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jun2025 22:04:06.103] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jun2025 22:04:06.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jun2025 22:04:06.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jun2025 22:04:06.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jun2025 22:04:06.166] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jun2025 22:04:06.493] [Server thread/INFO] [spark/]: Starting background profiler...
-[29Jun2025 22:04:08.284] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29Jun2025 22:04:08.285] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29Jun2025 22:04:08.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jun2025 22:04:08.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jun2025 22:04:15.650] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 22:04:15.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[29Jun2025 22:04:17.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[29Jun2025 22:04:17.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[29Jun2025 22:04:17.289] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8500 ms
-[29Jun2025 22:04:17.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.112s)! For help, type "help"
-[29Jun2025 22:04:17.315] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jun2025 22:04:17.337] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[29Jun2025 22:04:17.338] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[29Jun2025 22:04:17.342] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[29Jun2025 22:04:17.346] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Jun2025 22:04:17.355] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[29Jun2025 22:05:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[29Jun2025 22:05:35.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:53548] logged in with entity id 3 at (4857.844622722785, 98.0, 2207.707048706632)
-[29Jun2025 22:05:35.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[29Jun2025 22:05:36.202] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[29Jun2025 22:05:36.209] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
-[29Jun2025 22:05:36.212] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
-[29Jun2025 22:05:36.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
-[29Jun2025 22:05:37.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
-[29Jun2025 22:05:37.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
-[29Jun2025 22:19:57.277] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
-[29Jun2025 22:31:45.258] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[29Jun2025 22:31:53.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:63595] logged in with entity id 6308 at (4811.252492976235, 80.0, 2173.251442162835)
-[29Jun2025 22:31:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
-[29Jun2025 22:31:53.815] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
-[29Jun2025 22:31:53.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
-[29Jun2025 22:31:53.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
-[29Jun2025 22:31:54.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[29Jun2025 22:31:55.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
-[29Jun2025 22:31:55.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
-[29Jun2025 22:32:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
-[29Jun2025 22:34:51.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
-[29Jun2025 22:34:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
-[29Jun2025 22:34:51.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
-[29Jun2025 22:34:58.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[29Jun2025 22:34:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[29Jun2025 22:34:58.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
-[29Jun2025 22:35:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[29Jun2025 22:35:13.207] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
-[29Jun2025 22:35:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Jun2025 22:35:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Jun2025 22:35:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Jun2025 22:35:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Jun2025 22:35:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Jun2025 22:35:13.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Jun2025 22:35:13.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Jun2025 22:35:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jun2025 00:36:55.706] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[30Jun2025 00:36:55.710] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
+[30Jun2025 00:36:55.711] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30Jun2025 00:36:56.430] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[30Jun2025 00:36:56.700] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[30Jun2025 00:36:56.986] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[30Jun2025 00:36:57.178] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[30Jun2025 00:36:58.815] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Jun2025 00:36:58.854] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[30Jun2025 00:36:58.908] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[30Jun2025 00:36:58.962] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[30Jun2025 00:36:59.257] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.262] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.292] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.294] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.297] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.299] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.302] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.303] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.305] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.306] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.306] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.308] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.312] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.314] [main/WARN] [mixin/]: Reference map 'voicechat.refmap.json' for voicechat.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.315] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.316] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.317] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.319] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.319] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.322] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.323] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.324] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:36:59.326] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 00:37:00.231] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[30Jun2025 00:37:00.232] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
+[30Jun2025 00:37:08.681] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[30Jun2025 00:37:08.696] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[30Jun2025 00:37:08.702] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[30Jun2025 00:37:08.704] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[30Jun2025 00:37:08.712] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[30Jun2025 00:37:08.881] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[30Jun2025 00:37:08.881] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[30Jun2025 00:37:08.986] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
+[30Jun2025 00:37:08.988] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
+[30Jun2025 00:37:09.027] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[30Jun2025 00:37:09.163] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
+[30Jun2025 00:37:09.250] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[30Jun2025 00:37:09.282] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[30Jun2025 00:37:09.396] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[30Jun2025 00:37:09.403] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
+[30Jun2025 00:37:11.808] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[30Jun2025 00:37:11.812] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[30Jun2025 00:37:11.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[30Jun2025 00:37:11.879] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[30Jun2025 00:37:11.885] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[30Jun2025 00:37:11.886] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[30Jun2025 00:37:11.894] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[30Jun2025 00:37:11.894] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[30Jun2025 00:37:11.896] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[30Jun2025 00:37:12.048] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[30Jun2025 00:37:12.050] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[30Jun2025 00:37:12.050] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[30Jun2025 00:37:12.051] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[30Jun2025 00:37:12.053] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[30Jun2025 00:37:12.055] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[30Jun2025 00:37:12.055] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[30Jun2025 00:37:12.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
+[30Jun2025 00:37:12.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
+[30Jun2025 00:37:13.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
+[30Jun2025 00:37:13.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[30Jun2025 00:37:13.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[30Jun2025 00:37:13.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
+[30Jun2025 00:37:13.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
+[30Jun2025 00:37:13.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Jun2025 00:37:13.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
+[30Jun2025 00:37:13.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[30Jun2025 00:37:13.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[30Jun2025 00:37:13.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[30Jun2025 00:37:13.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[30Jun2025 00:37:13.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[30Jun2025 00:37:13.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.5-2.5.30 Target: 1.21.5-2.5.32
+[30Jun2025 00:37:13.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[30Jun2025 00:37:13.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
+[30Jun2025 00:37:13.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[30Jun2025 00:37:13.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[30Jun2025 00:37:13.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
+[30Jun2025 00:37:13.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[30Jun2025 00:37:13.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[30Jun2025 00:37:13.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[30Jun2025 00:37:15.726] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[30Jun2025 00:37:22.015] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3365 recipes
+[30Jun2025 00:37:22.049] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2415 advancements
+[30Jun2025 00:37:22.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[30Jun2025 00:37:22.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Jun2025 00:37:22.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Jun2025 00:37:22.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Jun2025 00:37:22.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Jun2025 00:37:22.608] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Jun2025 00:37:22.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Jun2025 00:37:22.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Jun2025 00:37:22.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Jun2025 00:37:22.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Jun2025 00:37:23.436] [Server thread/INFO] [spark/]: Starting background profiler...
+[30Jun2025 00:37:24.411] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[30Jun2025 00:37:24.412] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[30Jun2025 00:37:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Jun2025 00:37:24.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Jun2025 00:37:27.083] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.120.23.82:51865] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[30Jun2025 00:37:31.512] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.513] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.516] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.516] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.517] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.517] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:31.556] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.120.23.82:51867] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[30Jun2025 00:37:32.636] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:32.637] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 00:37:32.730] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7827 ms
+[30Jun2025 00:37:32.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.035s)! For help, type "help"
+[30Jun2025 00:37:32.752] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Jun2025 00:37:32.933] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[30Jun2025 00:37:32.934] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[30Jun2025 00:37:32.937] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[30Jun2025 00:37:32.940] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[30Jun2025 00:37:32.954] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[30Jun2025 00:37:49.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:50119] logged in with entity id 3 at (4828.0186513095505, 80.0, 2247.6749098320133)
+[30Jun2025 00:37:49.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[30Jun2025 00:37:50.407] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[30Jun2025 00:37:50.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[30Jun2025 00:37:50.410] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[30Jun2025 00:37:50.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 00:37:51.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:51907] logged in with entity id 50 at (4860.873951896536, 98.0, 2206.832626866209)
+[30Jun2025 00:37:51.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[30Jun2025 00:37:51.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[30Jun2025 00:37:51.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[30Jun2025 00:37:51.967] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[30Jun2025 00:37:51.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[30Jun2025 00:37:51.969] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[30Jun2025 00:37:52.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 00:37:53.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 00:37:53.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[30Jun2025 00:37:58.425] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[30Jun2025 00:39:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[30Jun2025 00:41:36.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Cover Me with Diamonds]
+[30Jun2025 01:01:31.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r was killed by Witch using magic
+[30Jun2025 01:11:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4753.500000, 84.000000, 2215.500000]
+[30Jun2025 01:14:13.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [A Seedy Place]
