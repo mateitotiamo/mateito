@@ -4781,6 +4781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
@@ -4851,6 +4857,12 @@
     "criteria": {
       "has_base_item": "2025-06-30 01:14:04 +0000",
       "has_the_recipe": "2025-06-30 01:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:04:36 +0000"
     },
     "done": true
   },
@@ -4962,6 +4974,13 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/magicapplejuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 02:04:38 +0000",
+      "has_the_recipe": "2025-06-30 02:04:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
@@ -5028,6 +5047,12 @@
   "usefulfood:recipes/usefulfood.test_group/sugarcube": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/magicapplejuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 02:04:38 +0000"
     },
     "done": true
   },
@@ -5162,6 +5187,12 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:04:36 +0000"
     },
     "done": true
   },

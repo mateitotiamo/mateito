@@ -3179,6 +3179,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-30 01:19:18 +0000"
@@ -3212,6 +3218,12 @@
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-30 01:48:24 +0000"
     },
     "done": true
   },
@@ -3402,6 +3414,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/empyreal_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
@@ -3462,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 01:45:22 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/cherry": {
     "criteria": {
       "has_planks": "2025-06-30 01:10:16 +0000"
@@ -3510,6 +3534,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:37:49 +0000"
@@ -3552,6 +3582,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 01:14:54 +0000"
@@ -3573,6 +3609,12 @@
   "mcwbiomesoplenty:recipes/mahogany_hedge": {
     "criteria": {
       "has_birch": "2025-06-30 00:37:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:59:38 +0000"
     },
     "done": true
   },
@@ -3634,6 +3676,12 @@
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_planks": "2025-06-30 00:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 01:45:22 +0000"
     },
     "done": true
   },
@@ -3727,6 +3775,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:05:42 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/chocolateapple": {
     "criteria": {
       "has_base_item": "2025-06-30 00:37:49 +0000"
@@ -3766,6 +3820,12 @@
   "mcwbiomesoplenty:recipes/dead_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:05:42 +0000"
     },
     "done": true
   },
@@ -4222,6 +4282,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 01:39:11 +0000"
@@ -4328,6 +4394,12 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-06-30 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 01:45:22 +0000"
     },
     "done": true
   },
