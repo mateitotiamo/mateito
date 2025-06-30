@@ -4670,6 +4670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-30 02:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
@@ -5534,6 +5540,12 @@
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000",
       "has_the_recipe": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-30 02:44:17 +0000"
     },
     "done": true
   },
