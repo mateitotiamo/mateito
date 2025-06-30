@@ -6134,6 +6134,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:00:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_slab": {
     "criteria": {
       "has_planks": "2025-06-30 03:31:12 +0000"

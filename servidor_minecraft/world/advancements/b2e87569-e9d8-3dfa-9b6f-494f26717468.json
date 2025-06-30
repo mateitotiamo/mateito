@@ -4746,9 +4746,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/red_maple_leaf_litter": {
+    "criteria": {
+      "has_red_maple_leaves": "2025-06-30 04:08:58 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 03:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-06-30 04:08:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:16:13 +0000"
     },
     "done": true
   },
@@ -4764,9 +4782,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:16:13 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-06-30 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:16:13 +0000"
     },
     "done": true
   },
