@@ -4585,6 +4585,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/warped": {
     "criteria": {
       "has_wood": "2025-06-30 00:42:00 +0000"
@@ -4634,9 +4640,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -4664,6 +4682,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/light_blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 02:13:17 +0000"
@@ -4688,6 +4712,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/light_gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -4697,6 +4727,12 @@
   "mcwbiomesoplenty:recipes/fir_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 02:48:06 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -4734,6 +4770,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-06-30 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -4798,6 +4840,24 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/orange_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 01:14:55 +0000"
@@ -4825,6 +4885,12 @@
   "usefulfood:recipes/usefulfood.test_group/sugarbiscuit": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -4870,15 +4936,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/lime_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
+  "waystones:recipes/decorations/blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/white_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5003,6 +5087,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/end_stone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/caramel": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:50 +0000"
@@ -5039,6 +5129,18 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/red_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
@@ -5070,6 +5172,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 02:13:17 +0000"
@@ -5082,9 +5190,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/blackstone": {
     "criteria": {
       "has_planks": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5100,6 +5220,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-06-30 00:41:57 +0000"
@@ -5109,6 +5235,18 @@
   "mcwbiomesoplenty:recipes/dead_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5178,6 +5316,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
@@ -5199,6 +5343,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5244,6 +5394,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/friedegg": {
     "criteria": {
       "has_base_item": "2025-06-30 01:28:50 +0000"
@@ -5278,6 +5434,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-30 02:13:17 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5354,9 +5516,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/roastedseeds_from_smelting_melon_seeds": {
     "criteria": {
       "has_melon_seeds": "2025-06-30 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5428,6 +5614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-30 03:07:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 02:28:19 +0000"
@@ -5464,6 +5656,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 02:27:04 +0000"
@@ -5473,6 +5671,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5567,6 +5771,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/breadslice": {
     "criteria": {
       "has_base_item": "2025-06-30 01:14:04 +0000"
@@ -5610,9 +5820,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-06-30 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
@@ -5625,6 +5847,12 @@
   "mcwlights:recipes/shroomlight_slab": {
     "criteria": {
       "has_wood": "2025-06-30 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-06-30 03:04:32 +0000"
     },
     "done": true
   },
