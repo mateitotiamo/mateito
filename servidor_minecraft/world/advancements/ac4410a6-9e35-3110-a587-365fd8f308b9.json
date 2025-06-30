@@ -4694,6 +4694,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:48:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-30 01:02:14 +0000"
@@ -5036,6 +5042,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:48:06 +0000"
     },
     "done": true
   },

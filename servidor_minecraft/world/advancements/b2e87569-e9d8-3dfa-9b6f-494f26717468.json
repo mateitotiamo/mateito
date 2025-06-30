@@ -3576,6 +3576,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:51:17 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-06-30 01:14:06 +0000"
@@ -3826,6 +3832,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-30 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-06-30 02:57:17 +0000"
     },
     "done": true
   },
@@ -4323,6 +4335,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:51:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/hellbark_sign": {
     "criteria": {
       "has_planks": "2025-06-30 00:40:25 +0000"
@@ -4344,6 +4362,12 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-30 01:15:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 02:51:17 +0000"
     },
     "done": true
   },
