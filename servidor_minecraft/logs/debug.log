@@ -3088,3 +3088,36 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 06:37:32.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 06:37:39.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [30Jun2025 06:38:00.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[30Jun2025 06:41:46.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[30Jun2025 06:41:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[30Jun2025 06:41:46.815] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ShallanDav4r
+[30Jun2025 06:41:46.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[30Jun2025 06:42:32.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 06:42:32.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 06:46:45.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[30Jun2025 06:46:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[30Jun2025 06:46:45.014] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of nazcke
+[30Jun2025 06:46:45.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[30Jun2025 06:46:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jun2025 06:46:52.308] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[30Jun2025 06:46:52.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jun2025 06:46:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jun2025 06:46:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jun2025 06:46:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jun2025 06:46:52.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jun2025 06:46:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jun2025 06:46:52.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 06:46:52.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 06:46:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jun2025 06:46:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jun2025 06:46:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jun2025 06:46:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jun2025 06:46:52.532] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[30Jun2025 06:46:52.532] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[SERVER]
+[30Jun2025 06:46:52.533] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type COMMON
+[30Jun2025 06:46:52.536] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[COMMON]
+[30Jun2025 06:46:53.033] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[30Jun2025 06:46:53.033] [pool-5-thread-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[30Jun2025 06:46:53.034] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file waystones-common.toml changed, sending notifies
+[30Jun2025 06:46:53.035] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file balm-common.toml changed, sending notifies
+[30Jun2025 06:46:53.036] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file craftingtweaks-common.toml changed, sending notifies
