@@ -6014,6 +6014,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:55 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 03:22:10 +0000"
@@ -6050,15 +6056,51 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-30 03:23:02 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 03:24:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
     },
     "done": true
   },
@@ -6080,9 +6122,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 03:24:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
     },
     "done": true
   },
@@ -6092,9 +6146,27 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 03:27:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:55 +0000"
     },
     "done": true
   },
@@ -6107,6 +6179,36 @@
   "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 03:27:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:31:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 03:31:55 +0000"
     },
     "done": true
   },

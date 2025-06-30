@@ -4722,6 +4722,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:30:53 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 03:23:24 +0000"
@@ -4743,6 +4749,24 @@
   "mcwbiomesoplenty:recipes/magic_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 03:26:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-30 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-06-30 03:30:53 +0000"
     },
     "done": true
   },
