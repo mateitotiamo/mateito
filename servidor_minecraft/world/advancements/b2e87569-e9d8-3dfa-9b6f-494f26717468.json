@@ -4830,5 +4830,11 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:50:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

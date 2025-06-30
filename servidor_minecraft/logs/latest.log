@@ -214,3 +214,13 @@
 [30Jun2025 04:35:37.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [30Jun2025 04:35:38.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [30Jun2025 04:35:38.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[30Jun2025 04:46:53.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Creative Mode]
+[30Jun2025 04:47:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Survival Mode]
+[30Jun2025 04:51:47.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:61594] logged in with entity id 117885 at (4846.366338635025, 90.0, 2193.5458918907584)
+[30Jun2025 04:51:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[30Jun2025 04:51:47.307] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[30Jun2025 04:51:47.308] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[30Jun2025 04:51:47.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[30Jun2025 04:51:47.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 04:51:48.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[30Jun2025 04:51:48.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
