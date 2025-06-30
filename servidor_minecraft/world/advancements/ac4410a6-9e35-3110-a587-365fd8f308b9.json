@@ -4573,9 +4573,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/warped": {
     "criteria": {
       "has_wood": "2025-06-30 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
@@ -4585,9 +4597,40 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/sugarcube": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 01:04:14 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/sugartoast": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
@@ -4597,9 +4640,22 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/donut": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-06-30 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
@@ -4627,9 +4683,40 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/melonjam": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_warped_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/sugarpancake": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/sugarbiscuit": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
     },
     "done": true
   },
@@ -4639,9 +4726,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
     },
     "done": true
   },
@@ -4652,15 +4757,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
     },
     "done": true
   },
@@ -4676,15 +4799,39 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/caramel": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/caramelcake": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:14:55 +0000"
     },
     "done": true
   },
@@ -4697,6 +4844,13 @@
   "mcwbridges:recipes/warped_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-30 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/breadslice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:14:04 +0000",
+      "has_the_recipe": "2025-06-30 01:14:04 +0000"
     },
     "done": true
   },
@@ -4730,9 +4884,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/friedegg": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_paths": {
     "criteria": {
       "has_wood": "2025-06-30 01:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
     },
     "done": true
   },
@@ -4742,9 +4914,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-30 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_smoking_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-06-30 01:28:50 +0000"
     },
     "done": true
   },
@@ -4754,9 +4968,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/sugarbiscuit": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/pancakedough": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotpie": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/sugartoast": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/fishsoup": {
     "criteria": {
       "has_base_item": "2025-06-30 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/sugarpancake": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/sugarcube": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
     },
     "done": true
   },
@@ -4766,9 +5037,57 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/donut": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/carrotpie": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/usefulfood.test_group/spaghetti": {
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_smelting_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-06-30 01:32:57 +0000"
     },
     "done": true
   },
@@ -4778,9 +5097,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-30 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/caramel": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:50 +0000"
     },
     "done": true
   },
@@ -4788,6 +5119,25 @@
     "criteria": {
       "has_base_item": "2025-06-30 00:43:52 +0000",
       "has_the_recipe": "2025-06-30 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_campfire_cooking_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-06-30 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/breadslice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:14:04 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/melonjam": {
+    "criteria": {
+      "has_base_item": "2025-06-30 01:28:16 +0000",
+      "has_the_recipe": "2025-06-30 01:28:16 +0000"
     },
     "done": true
   },
@@ -4800,6 +5150,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-06-30 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-30 01:14:55 +0000"
     },
     "done": true
   },
