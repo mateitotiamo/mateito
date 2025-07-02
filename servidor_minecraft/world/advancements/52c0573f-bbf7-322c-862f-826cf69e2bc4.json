@@ -4504,6 +4504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 02:24:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 02:18:13 +0000"
@@ -4576,6 +4582,18 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/cherry": {
     "criteria": {
       "has_planks": "2025-07-02 01:57:17 +0000"
@@ -4639,6 +4657,18 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
     },
     "done": true
   },
@@ -4732,6 +4762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-07-02 02:08:46 +0000"
@@ -4774,6 +4810,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
@@ -4792,6 +4834,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_fir_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:06 +0000"
@@ -4804,9 +4858,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-07-02 02:29:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
     },
     "done": true
   },
@@ -4864,6 +4930,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
@@ -4873,6 +4957,18 @@
   "mcwbiomesoplenty:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
     },
     "done": true
   },
