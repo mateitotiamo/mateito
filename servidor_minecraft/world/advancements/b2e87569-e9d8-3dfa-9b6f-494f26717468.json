@@ -4975,15 +4975,39 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/jacaranda_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:01:02 +0000"
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
     },
     "done": true
   },
@@ -4996,6 +5020,30 @@
   "mcwbiomesoplenty:recipes/maple_paths": {
     "criteria": {
       "has_wood": "2025-07-02 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:16:00 +0000"
     },
     "done": true
   },
