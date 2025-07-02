@@ -4402,6 +4402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_button": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
@@ -4420,9 +4426,21 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -4510,6 +4528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 02:18:13 +0000"
@@ -4591,6 +4615,12 @@
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -4684,6 +4714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/fir_paths": {
     "criteria": {
       "has_wood": "2025-07-02 02:16:06 +0000"
@@ -4708,6 +4744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
@@ -4720,9 +4762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -4762,9 +4816,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -4807,6 +4873,12 @@
   "mcwbiomesoplenty:recipes/umbran_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:34:15 +0000"
     },
     "done": true
   },
@@ -4900,6 +4972,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:34:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:06 +0000"
@@ -4936,6 +5014,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 02:24:48 +0000"
@@ -4963,6 +5047,12 @@
   "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_wheat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
