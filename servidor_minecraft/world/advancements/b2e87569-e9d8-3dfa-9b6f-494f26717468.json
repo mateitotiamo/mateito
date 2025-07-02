@@ -4830,6 +4830,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-30 05:22:37 +0000"
@@ -4845,12 +4851,6 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-30 05:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-30 05:50:42 +0000"
     },
     "done": true
   },
@@ -4884,28 +4884,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/stone_brick_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-30 04:50:31 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/carrotjuice": {
-    "criteria": {
-      "has_base_item": "2025-06-30 05:54:47 +0000",
-      "has_the_recipe": "2025-06-30 05:54:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-30 05:22:37 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/fishsoup": {
-    "criteria": {
-      "has_base_item": "2025-06-30 05:55:21 +0000"
     },
     "done": true
   },
@@ -4939,21 +4920,40 @@
     },
     "done": true
   },
-  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
-    "criteria": {
-      "has_base_item": "2025-06-30 05:54:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-30 05:22:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-30 05:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-30 05:50:42 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 05:54:47 +0000",
+      "has_the_recipe": "2025-06-30 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-06-30 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/fishsoup": {
+    "criteria": {
+      "has_base_item": "2025-06-30 05:55:21 +0000"
     },
     "done": true
   },

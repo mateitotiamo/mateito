@@ -140,3 +140,21 @@
 [02Jul2025 00:46:54.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
 [02Jul2025 00:48:05.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ moved wrongly!
 [02Jul2025 00:49:09.309] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[02Jul2025 01:00:58.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:56874] logged in with entity id 3142 at (4739.993258180606, 90.0, 2213.5139393240843)
+[02Jul2025 01:00:58.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[02Jul2025 01:00:58.871] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[02Jul2025 01:00:58.871] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[02Jul2025 01:00:58.872] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[02Jul2025 01:00:59.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:01:00.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:01:00.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[02Jul2025 01:01:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ola
+[02Jul2025 01:01:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> ola carambola
+[02Jul2025 01:01:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> perdi 30 level
+[02Jul2025 01:01:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> toy abriendo ds
+[02Jul2025 01:01:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> txiuuu
+[02Jul2025 01:01:29.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> yo no e encantado niuna wea xD
+[02Jul2025 01:01:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> yo tampoco
+[02Jul2025 01:01:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> si los perdi
+[02Jul2025 01:01:53.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> y como los perdiste
+[02Jul2025 01:01:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> ds
