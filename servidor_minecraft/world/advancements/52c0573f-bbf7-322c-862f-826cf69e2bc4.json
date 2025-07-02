@@ -3994,6 +3994,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 00:49:15 +0000"
@@ -4033,6 +4039,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
     },
     "done": true
   },
@@ -4150,6 +4162,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/blackstone": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/soil": {
     "criteria": {
       "has_wood": "2025-07-02 00:52:41 +0000"
@@ -4189,6 +4207,12 @@
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
     },
     "done": true
   },
@@ -4297,6 +4321,12 @@
   "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 00:55:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
     },
     "done": true
   },
