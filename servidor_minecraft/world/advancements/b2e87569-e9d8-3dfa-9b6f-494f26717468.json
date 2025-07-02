@@ -4975,5 +4975,29 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

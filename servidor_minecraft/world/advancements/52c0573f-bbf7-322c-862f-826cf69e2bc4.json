@@ -4378,6 +4378,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-02 01:43:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
       "has_log": "2025-07-02 01:40:56 +0000"
@@ -4390,9 +4414,81 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/magic_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:49:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_umbran_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-02 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:49:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:44:34 +0000"
     },
     "done": true
   },
@@ -4405,6 +4501,12 @@
   "mcwbiomesoplenty:recipes/umbran_stairs": {
     "criteria": {
       "has_planks": "2025-07-02 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-02 01:43:16 +0000"
     },
     "done": true
   },
