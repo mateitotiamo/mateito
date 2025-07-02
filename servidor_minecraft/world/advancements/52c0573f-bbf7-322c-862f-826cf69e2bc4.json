@@ -4558,6 +4558,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/pumpkinbread": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
@@ -4579,6 +4585,13 @@
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/biscuit": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000",
+      "has_the_recipe": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -4609,6 +4622,12 @@
   "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -4681,6 +4700,12 @@
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/caramelcake": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -4822,6 +4847,13 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:50 +0000",
+      "has_the_recipe": "2025-07-02 02:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-02 02:24:48 +0000"
@@ -4954,6 +4986,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/fishsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:51:35 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 02:08:21 +0000"
@@ -4981,6 +5019,12 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/spaghetti": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -5038,6 +5082,13 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/pumpkinbread": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000",
+      "has_the_recipe": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_paths": {
     "criteria": {
       "has_wood": "2025-07-02 02:08:21 +0000"
@@ -5056,9 +5107,21 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/magiccake": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
   "usefulfood:recipes/food/roastedseeds_from_smoking_wheat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:50 +0000"
     },
     "done": true
   },
@@ -5077,6 +5140,19 @@
   "mcwbiomesoplenty:recipes/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-07-02 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/biscuit": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/spaghetti": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000",
+      "has_the_recipe": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
