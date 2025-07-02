@@ -3976,75 +3976,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/dead_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:02:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/jacaranda_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/blackstone": {
-    "criteria": {
-      "has_wood": "2025-07-02 01:27:52 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:49:15 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_spruce_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/food/cookedsquidtentacle_from_smelting_squidrtentacle": {
     "criteria": {
       "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-07-02 00:58:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:27:52 +0000"
     },
     "done": true
   },
@@ -4054,33 +3988,69 @@
     },
     "done": true
   },
-  "mcwlights:recipes/lava_lamp": {
+  "usefulfood:recipes/food/cookedsquidtentacle_from_smoking_squidrtentacle": {
     "criteria": {
-      "has_wood": "2025-07-02 01:09:12 +0000"
+      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_campfire_cooking_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/cookedsquidtentacle": {
+    "criteria": {
+      "has_base_item": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:52:49 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/dead_paths": {
-    "criteria": {
-      "has_wood": "2025-07-02 01:02:10 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:55:00 +0000"
     },
     "done": true
   },
@@ -4096,12 +4066,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/asian_red_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 00:49:55 +0000"
@@ -4114,39 +4078,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:09:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_oak_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:52:49 +0000"
     },
     "done": true
   },
@@ -4156,135 +4090,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/blackstone": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:27:52 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/soil": {
-    "criteria": {
-      "has_wood": "2025-07-02 00:52:41 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/iron_stuff": {
-    "criteria": {
-      "has_wood": "2025-07-02 01:09:12 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/dead_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:02:10 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/cookedsquidtentacle_from_smoking_squidrtentacle": {
-    "criteria": {
-      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-07-02 00:49:15 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/dead_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:02:08 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:58:17 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/blackstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:27:52 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/cookedsquidtentacle_from_campfire_cooking_squidrtentacle": {
-    "criteria": {
-      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_dead_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:02:10 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:49:15 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/jacaranda_paths": {
-    "criteria": {
-      "has_wood": "2025-07-02 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/dead_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:02:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 00:49:55 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 00:52:49 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-07-02 00:58:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 00:49:55 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/cookedsquidtentacle": {
-    "criteria": {
-      "has_base_item": "2025-07-02 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:09:12 +0000"
     },
     "done": true
   },
@@ -4312,21 +4126,69 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:52:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:52:49 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_paths": {
     "criteria": {
       "has_wood": "2025-07-02 00:52:49 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
+  "mcwbiomesoplenty:recipes/jacaranda_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 00:55:00 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/blackstone_bridge_pier": {
+  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
     "criteria": {
-      "has_planks": "2025-07-02 01:27:52 +0000"
+      "has_planks": "2025-07-02 00:55:00 +0000"
     },
     "done": true
   },
@@ -4342,15 +4204,123 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-02 00:58:05 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:58:17 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:02:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:02:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:02:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:02:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_dead_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:02:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:02:10 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/iron_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:09:12 +0000"
     },
     "done": true
   },
@@ -4363,6 +4333,78 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-07-02 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/blackstone": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-02 01:36:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:39:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:40:56 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/deepslate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:39:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:40:56 +0000"
     },
     "done": true
   },

@@ -163,3 +163,29 @@
 [02Jul2025 01:26:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 606 94 277
 [02Jul2025 01:30:35.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4746.500000, 84.000000, 2209.500000]
 [02Jul2025 01:30:46.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4746.500000, 84.000000, 2209.500000]
+[02Jul2025 01:36:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Enchanter]
+[02Jul2025 01:36:14.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[02Jul2025 01:36:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[02Jul2025 01:36:14.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[02Jul2025 01:36:18.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke was kicked for floating too long!
+[02Jul2025 01:36:18.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Flying is not enabled on this server
+[02Jul2025 01:36:18.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[02Jul2025 01:36:18.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[02Jul2025 01:36:18.481] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2025 01:36:24.496] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02Jul2025 01:36:32.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:56143] logged in with entity id 16394 at (4819.886364479204, 78.061875, 2219.560440179768)
+[02Jul2025 01:36:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[02Jul2025 01:36:32.345] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[02Jul2025 01:36:32.345] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[02Jul2025 01:36:32.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[02Jul2025 01:36:32.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[02Jul2025 01:36:33.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[02Jul2025 01:36:33.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[02Jul2025 01:37:06.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:56997] logged in with entity id 16965 at (4771.010215469407, 80.53584062504456, 2229.573431655776)
+[02Jul2025 01:37:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[02Jul2025 01:37:06.874] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[02Jul2025 01:37:06.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[02Jul2025 01:37:06.877] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[02Jul2025 01:37:07.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:37:08.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:37:08.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat

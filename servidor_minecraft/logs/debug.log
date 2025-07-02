@@ -2587,3 +2587,285 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 01:30:46.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4746.500000, 84.000000, 2209.500000]
 [02Jul2025 01:31:52.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 01:31:52.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:35:19.070] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=605, y=89, z=277} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[02Jul2025 01:36:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Enchanter]
+[02Jul2025 01:36:14.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[02Jul2025 01:36:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[02Jul2025 01:36:14.858] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of WooZiMu_
+[02Jul2025 01:36:14.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[02Jul2025 01:36:14.945] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 52c0573f-bbf7-322c-862f-826cf69e2bc4 does not have a secret
+[02Jul2025 01:36:18.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke was kicked for floating too long!
+[02Jul2025 01:36:18.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Flying is not enabled on this server
+[02Jul2025 01:36:18.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[02Jul2025 01:36:18.406] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of nazcke
+[02Jul2025 01:36:18.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[02Jul2025 01:36:18.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.481] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2025 01:36:18.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.503] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.545] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.562] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.584] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.624] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.646] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.663] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.686] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.725] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.743] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.766] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.782] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.804] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.826] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.843] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.866] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.883] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.905] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.941] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.965] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:18.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.006] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.023] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.064] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.085] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.102] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.125] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.142] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.165] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.186] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.204] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.226] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.243] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.265] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.326] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.344] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.362] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.383] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.446] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.482] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.522] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.561] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.584] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.686] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.687] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.703] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.726] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.743] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.767] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.784] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.827] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.843] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.867] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.885] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.925] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.942] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.965] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:19.983] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.006] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.022] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.064] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.085] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.102] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.127] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.162] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.187] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.204] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.221] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.253] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.263] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.303] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.326] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.366] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.383] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.422] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.446] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.524] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.584] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.602] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.627] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.644] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.662] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.687] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.728] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.745] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.787] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.822] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.845] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.863] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.885] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.926] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.943] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.964] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:20.982] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:21.005] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:21.039] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:21.057] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:21.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:21.085] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b2e87569-e9d8-3dfa-9b6f-494f26717468 does not have a secret
+[02Jul2025 01:36:24.397] [ForkJoinPool.commonPool-worker-6/DEBUG] [SkinRestorer/]: Fetching WooZiMu_'s skin
+[02Jul2025 01:36:24.496] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02Jul2025 01:36:24.847] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [addonslib, advancementscreenshot, balm, biomesoplenty, borderlesswindow, bottledair, cherishedworlds, chunky, clienttweaks, clumps, collective, configlibtxf, controlling, craftingtweaks, cyclepaintings, deathbackup, defaultoptions, entityculling, fastipping, forge, freefbible, glitchcore, grabbymobs, guiclock, guicompass, huskspawn, kuma_api, make_bubbles_pop, mcwbiomesoplenty, mcwbridges, mcwfences, mcwlights, mcwpaths, mcwstairs, minecraft, mousetweaks, multimine, myserveriscompatible, netherportalfix, notes, philipsruins, pingwheel, portablecraftingtable, replantingcrops, searchables, sereneseasons, shulkerbox, skinlayers3d, sound_physics_remastered, spark, stackrefill, stickyenchantinglapis, terrablender, toomanypaintings, usefulfood, voicechat, walljump, waystones]
+[02Jul2025 01:36:25.017] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [balm:network, craftingtweaks:network, forge:channel_registration, forge:handshake, forge:login, glitchcore:main, minecraft:as_mm, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, stickyenchantinglapis:to_client_receive_lapis_count_packet, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state, walljump:network, waystones:network]
+[02Jul2025 01:36:25.017] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stickyenchantinglapis:to_client_receive_lapis_count_packet' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of 'PRESENT 2' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Version test of 'MISSING 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:as_mm' : Version test of 'PRESENT 1' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:25.018] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:25.019] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[02Jul2025 01:36:25.197] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[02Jul2025 01:36:25.368] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[02Jul2025 01:36:25.538] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[02Jul2025 01:36:25.887] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[02Jul2025 01:36:26.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[02Jul2025 01:36:26.228] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[02Jul2025 01:36:26.583] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[02Jul2025 01:36:26.753] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[02Jul2025 01:36:26.923] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[02Jul2025 01:36:27.093] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[02Jul2025 01:36:27.264] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[02Jul2025 01:36:27.434] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[02Jul2025 01:36:27.618] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[02Jul2025 01:36:27.788] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[02Jul2025 01:36:27.958] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[02Jul2025 01:36:28.128] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[02Jul2025 01:36:28.299] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[02Jul2025 01:36:28.469] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[02Jul2025 01:36:28.639] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[02Jul2025 01:36:31.217] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[02Jul2025 01:36:32.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:56143] logged in with entity id 16394 at (4819.886364479204, 78.061875, 2219.560440179768)
+[02Jul2025 01:36:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[02Jul2025 01:36:32.134] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of WooZiMu_: {disabled=false, disconnected=true, uuid=52c0573f-bbf7-322c-862f-826cf69e2bc4, name=WooZiMu_, group=null}
+[02Jul2025 01:36:32.345] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[02Jul2025 01:36:32.345] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[02Jul2025 01:36:32.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to WooZiMu_
+[02Jul2025 01:36:32.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with WooZiMu_
+[02Jul2025 01:36:32.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with WooZiMu_
+[02Jul2025 01:36:32.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[02Jul2025 01:36:32.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[02Jul2025 01:36:33.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[02Jul2025 01:36:33.660] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of WooZiMu_ to connected: {disabled=false, disconnected=false, uuid=52c0573f-bbf7-322c-862f-826cf69e2bc4, name=WooZiMu_, group=null}
+[02Jul2025 01:36:33.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[02Jul2025 01:36:33.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of WooZiMu_: {disabled=true, disconnected=false, uuid=52c0573f-bbf7-322c-862f-826cf69e2bc4, name=WooZiMu_, group=null}
+[02Jul2025 01:36:52.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:36:52.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:36:59.253] [ForkJoinPool.commonPool-worker-6/DEBUG] [SkinRestorer/]: Fetching nazcke's skin
+[02Jul2025 01:36:59.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [addonslib, advancementscreenshot, balm, biomesoplenty, borderlesswindow, bottledair, cherishedworlds, chunky, clienttweaks, clumps, collective, configlibtxf, controlling, craftingtweaks, cyclepaintings, deathbackup, defaultoptions, entityculling, fastipping, forge, freefbible, glitchcore, grabbymobs, guiclock, guicompass, huskspawn, kuma_api, make_bubbles_pop, mcwbiomesoplenty, mcwbridges, mcwfences, mcwlights, mcwpaths, mcwstairs, minecraft, mousetweaks, multimine, myserveriscompatible, netherportalfix, notes, philipsruins, pingwheel, portablecraftingtable, replantingcrops, searchables, sereneseasons, shulkerbox, skinlayers3d, sound_physics_remastered, spark, stackrefill, stickyenchantinglapis, terrablender, toomanypaintings, usefulfood, voicechat, walljump, waystones]
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [balm:network, craftingtweaks:network, forge:channel_registration, forge:handshake, forge:login, glitchcore:main, minecraft:as_mm, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, stickyenchantinglapis:to_client_receive_lapis_count_packet, voicechat:add_category, voicechat:add_group, voicechat:create_group, voicechat:joined_group, voicechat:leave_group, voicechat:player_state, voicechat:player_states, voicechat:remove_category, voicechat:remove_group, voicechat:request_secret, voicechat:secret, voicechat:set_group, voicechat:update_state, walljump:network, waystones:network]
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stickyenchantinglapis:to_client_receive_lapis_count_packet' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of 'PRESENT 2' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinrestorer:skin_shuffle_compat' : Version test of 'MISSING 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:as_mm' : Version test of 'PRESENT 1' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.926] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'PRESENT 18' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[02Jul2025 01:36:59.927] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[02Jul2025 01:37:00.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[02Jul2025 01:37:00.311] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[02Jul2025 01:37:00.499] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[02Jul2025 01:37:00.882] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[02Jul2025 01:37:01.071] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[02Jul2025 01:37:01.259] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[02Jul2025 01:37:01.647] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[02Jul2025 01:37:01.836] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[02Jul2025 01:37:02.025] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[02Jul2025 01:37:02.213] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[02Jul2025 01:37:02.401] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[02Jul2025 01:37:02.589] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[02Jul2025 01:37:02.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[02Jul2025 01:37:02.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[02Jul2025 01:37:03.166] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[02Jul2025 01:37:03.354] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[02Jul2025 01:37:03.542] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[02Jul2025 01:37:03.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[02Jul2025 01:37:03.919] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[02Jul2025 01:37:05.647] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[02Jul2025 01:37:06.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:56997] logged in with entity id 16965 at (4771.010215469407, 80.53584062504456, 2229.573431655776)
+[02Jul2025 01:37:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[02Jul2025 01:37:06.667] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of nazcke: {disabled=false, disconnected=true, uuid=b2e87569-e9d8-3dfa-9b6f-494f26717468, name=nazcke, group=null}
+[02Jul2025 01:37:06.874] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[02Jul2025 01:37:06.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nazcke (18)
+[02Jul2025 01:37:06.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to nazcke
+[02Jul2025 01:37:06.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with nazcke
+[02Jul2025 01:37:06.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with nazcke
+[02Jul2025 01:37:06.877] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nazcke
+[02Jul2025 01:37:07.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:37:08.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
+[02Jul2025 01:37:08.254] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of nazcke to connected: {disabled=false, disconnected=false, uuid=b2e87569-e9d8-3dfa-9b6f-494f26717468, name=nazcke, group=null}
+[02Jul2025 01:37:08.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[02Jul2025 01:37:08.446] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of nazcke: {disabled=false, disconnected=false, uuid=b2e87569-e9d8-3dfa-9b6f-494f26717468, name=nazcke, group=null}
+[02Jul2025 01:41:52.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:41:52.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
