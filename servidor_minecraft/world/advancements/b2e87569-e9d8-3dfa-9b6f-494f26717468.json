@@ -4957,5 +4957,17 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/maple_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:14:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:14:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
