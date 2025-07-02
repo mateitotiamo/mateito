@@ -4420,6 +4420,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:08:24 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:08:21 +0000"
@@ -4489,6 +4495,12 @@
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:08:24 +0000"
     },
     "done": true
   },

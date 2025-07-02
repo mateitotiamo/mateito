@@ -4987,6 +4987,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:10:55 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_magic_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:00 +0000"
@@ -4996,6 +5002,12 @@
   "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:10:55 +0000"
     },
     "done": true
   },
@@ -5029,15 +5041,46 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/magicapplejuice": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:58:45 +0000",
+      "has_the_recipe": "2025-07-02 02:58:45 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 02:12:19 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:10:55 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/magicapplejuice": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:58:45 +0000"
     },
     "done": true
   },
@@ -5050,6 +5093,12 @@
   "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:10:55 +0000"
     },
     "done": true
   },

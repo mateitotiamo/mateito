@@ -190,3 +190,14 @@
 [02Jul2025 01:37:08.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [02Jul2025 01:37:08.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
 [02Jul2025 02:04:48.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ moved wrongly!
+[02Jul2025 03:11:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported WooZiMu_ to nazcke]
+[02Jul2025 03:18:07.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[02Jul2025 03:18:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 2
+[02Jul2025 03:20:32.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[02Jul2025 03:20:32.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[02Jul2025 03:20:32.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[02Jul2025 03:20:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4746.500000, 84.000000, 2209.500000]
+[02Jul2025 03:20:43.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[02Jul2025 03:20:43.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[02Jul2025 03:20:43.654] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[02Jul2025 03:21:43.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
