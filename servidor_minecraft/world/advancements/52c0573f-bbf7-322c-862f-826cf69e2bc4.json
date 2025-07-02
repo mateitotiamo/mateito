@@ -4378,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_button": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
@@ -4390,9 +4396,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_slab": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:57:17 +0000"
     },
     "done": true
   },
@@ -4414,9 +4432,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/magic_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-02 01:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
     },
     "done": true
   },
@@ -4426,9 +4480,27 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:57:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/umbran_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
     },
     "done": true
   },
@@ -4468,6 +4540,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
@@ -4483,6 +4567,36 @@
   "mcwbiomesoplenty:recipes/umbran_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
     },
     "done": true
   },

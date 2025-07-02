@@ -4975,9 +4975,27 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/maple_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:01:02 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:01:02 +0000"
     },
     "done": true
   },
@@ -4990,6 +5008,12 @@
   "mcwbiomesoplenty:recipes/mahogany_paths": {
     "criteria": {
       "has_wood": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_maple_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:01:02 +0000"
     },
     "done": true
   },
