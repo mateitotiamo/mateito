@@ -189,3 +189,4 @@
 [02Jul2025 01:37:07.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [02Jul2025 01:37:08.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b2e87569-e9d8-3dfa-9b6f-494f26717468
 [02Jul2025 01:37:08.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
+[02Jul2025 02:04:48.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ moved wrongly!

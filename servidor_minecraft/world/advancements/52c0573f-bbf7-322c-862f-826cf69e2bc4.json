@@ -4396,6 +4396,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
@@ -4480,6 +4486,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:03:05 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/cherry": {
     "criteria": {
       "has_planks": "2025-07-02 01:57:17 +0000"
@@ -4540,9 +4552,21 @@
     },
     "done": true
   },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 02:08:46 +0000"
     },
     "done": true
   },
@@ -4555,6 +4579,18 @@
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:46 +0000"
     },
     "done": true
   },
@@ -4588,6 +4624,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-02 01:55:29 +0000"
@@ -4600,6 +4642,12 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
@@ -4609,6 +4657,12 @@
   "mcwstairs:recipes/deepslate": {
     "criteria": {
       "has_planks": "2025-07-02 01:39:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:46 +0000"
     },
     "done": true
   },
