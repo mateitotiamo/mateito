@@ -3471,12 +3471,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/orange_maple_hedge": {
     "criteria": {
       "has_birch": "2025-06-29 22:31:53 +0000"
@@ -3501,12 +3495,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/hellbark_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/food/frenchfries": {
     "criteria": {
       "has_base_item": "2025-06-29 22:31:53 +0000"
@@ -3519,18 +3507,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
-    "criteria": {
-      "has_logs": "2025-06-29 22:33:46 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/snowblossom_hedge": {
     "criteria": {
       "has_birch": "2025-06-29 22:31:53 +0000"
@@ -3540,12 +3516,6 @@
   "mcwbiomesoplenty:recipes/origin_hedge": {
     "criteria": {
       "has_birch": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_door": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
     },
     "done": true
   },
@@ -3591,21 +3561,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/hellbark_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:46 +0000"
     },
     "done": true
   },
@@ -3660,12 +3618,6 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/hellbark_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
     },
     "done": true
   },
@@ -3801,12 +3753,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/willow_fences": {
     "criteria": {
       "has_acacia": "2025-06-29 22:31:53 +0000"
@@ -3828,12 +3774,6 @@
   "mcwbiomesoplenty:recipes/willow_hedge": {
     "criteria": {
       "has_birch": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/hellbark_fence": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
     },
     "done": true
   },
@@ -3867,12 +3807,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/hellbark_sign": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-06-29 22:31:53 +0000"
@@ -3882,12 +3816,6 @@
   "mcwbiomesoplenty:recipes/empyreal_fences": {
     "criteria": {
       "has_acacia": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/hellbark_paths": {
-    "criteria": {
-      "has_wood": "2025-06-29 22:33:49 +0000"
     },
     "done": true
   },
@@ -3903,18 +3831,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_button": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
-    "criteria": {
-      "has_log": "2025-06-29 22:33:46 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-06-29 22:31:53 +0000"
@@ -3927,12 +3843,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/hellbark_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:46 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_wood": "2025-06-29 22:31:53 +0000"
@@ -3942,18 +3852,6 @@
   "mcwbiomesoplenty:recipes/rope_maple_bridge": {
     "criteria": {
       "has_planks": "2025-06-29 22:31:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_hellbark_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-29 22:33:49 +0000"
     },
     "done": true
   },
@@ -3972,6 +3870,258 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_wood": "2025-06-29 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_paths": {
+    "criteria": {
+      "has_wood": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_hellbark_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_smelting_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle": {
+    "criteria": {
+      "has_base_item": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_smoking_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/cookedsquidtentacle_from_campfire_cooking_squidrtentacle": {
+    "criteria": {
+      "has_squidrtentacle": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/cookedsquidtentacle": {
+    "criteria": {
+      "has_base_item": "2025-07-02 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 00:49:55 +0000"
     },
     "done": true
   },
