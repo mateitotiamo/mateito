@@ -6404,12 +6404,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-03 04:03:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-03 04:03:03 +0000"
@@ -6419,6 +6413,24 @@
   "waystones:recipes/decorations/return_scroll": {
     "criteria": {
       "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-03 04:03:06 +0000"
     },
     "done": true
   },
@@ -6440,15 +6452,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_paper": "2025-07-03 04:03:03 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/blank_scroll": {
-    "criteria": {
-      "has_paper": "2025-07-03 04:03:03 +0000"
+      "has_stone_slab": "2025-07-03 04:53:50 +0000"
     },
     "done": true
   },

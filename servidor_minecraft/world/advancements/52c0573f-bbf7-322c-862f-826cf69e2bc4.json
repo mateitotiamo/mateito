@@ -5252,6 +5252,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
@@ -5270,6 +5276,18 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-03 04:42:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
@@ -5282,9 +5300,27 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
     },
     "done": true
   },
@@ -5318,15 +5354,33 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
     },
     "done": true
   },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
     },
     "done": true
   },
