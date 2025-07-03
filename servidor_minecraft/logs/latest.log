@@ -190,3 +190,15 @@
 [03Jul2025 03:48:49.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
 [03Jul2025 03:48:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
 [03Jul2025 03:48:49.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[03Jul2025 03:49:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Jul2025 03:49:13.945] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[03Jul2025 03:49:13.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jul2025 03:49:13.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jul2025 03:49:13.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jul2025 03:49:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jul2025 03:49:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jul2025 03:49:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jul2025 03:49:14.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jul2025 03:49:14.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jul2025 03:49:14.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jul2025 03:49:14.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
