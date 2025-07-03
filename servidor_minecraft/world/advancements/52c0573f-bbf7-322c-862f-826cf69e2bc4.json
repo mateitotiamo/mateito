@@ -4372,9 +4372,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/pine_log_bridge_middle": {
+  "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
-      "has_planks": "2025-07-02 02:13:11 +0000"
+      "has_wood": "2025-07-02 01:39:45 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/deepslate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:39:45 +0000"
     },
     "done": true
   },
@@ -4384,27 +4390,33 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/warped": {
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
-      "has_wood": "2025-07-02 02:18:13 +0000"
+      "has_log": "2025-07-02 01:40:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
     "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
+      "has_planks": "2025-07-02 01:40:56 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/pine_paths": {
+  "mcwbiomesoplenty:recipes/umbran_stairs": {
     "criteria": {
-      "has_wood": "2025-07-02 02:13:11 +0000"
+      "has_planks": "2025-07-02 01:40:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
+      "has_bone_meal": "2025-07-02 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-02 01:43:16 +0000"
     },
     "done": true
   },
@@ -4420,190 +4432,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 03:08:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:08:21 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cherry_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/umbran_slab": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cherry_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-07-02 01:43:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2025-07-02 01:40:56 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/cobbled_deepslate": {
-    "criteria": {
-      "has_wood": "2025-07-02 01:39:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_slab": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:15:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dry_bamboo_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:55:29 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-07-02 03:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_warped_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-07-02 02:24:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:55:29 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/magic_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/pumpkinbread": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_pine_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:13:11 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:12 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/biscuit": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:37 +0000",
-      "has_the_recipe": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -4613,177 +4444,9 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/quartz": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:03:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-07-02 02:18:12 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/fir_fence": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:57:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/fir_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/umbran_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_cherry_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_button": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cherry_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_door": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/caramelcake": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_fence": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:40:56 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/magic_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_paths": {
-    "criteria": {
-      "has_wood": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:15:54 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -4793,33 +4456,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/warped": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:18:12 +0000"
     },
     "done": true
   },
@@ -4829,82 +4468,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/fir_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_door": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
     },
     "done": true
   },
-  "mcwlights:recipes/glowstone_slab": {
-    "criteria": {
-      "has_wood": "2025-07-02 02:03:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/carrotjuice": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:50 +0000",
-      "has_the_recipe": "2025-07-02 02:50:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_dark_oak_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-07-02 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-02 01:44:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:08:21 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:08:46 +0000"
     },
     "done": true
   },
@@ -4920,63 +4492,33 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/dark_oak": {
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
-      "has_planks": "2025-07-02 02:34:15 +0000"
+      "has_planks": "2025-07-02 01:44:34 +0000"
     },
     "done": true
   },
-  "mcwpaths:recipes/bamboo": {
+  "mcwbiomesoplenty:recipes/magic_bridge_pier": {
     "criteria": {
-      "has_wood": "2025-07-02 02:24:48 +0000"
+      "has_planks": "2025-07-02 01:49:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
+  "mcwbiomesoplenty:recipes/magic_stairs": {
     "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
+      "has_planks": "2025-07-02 01:49:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
+  "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
+      "has_planks": "2025-07-02 01:55:29 +0000"
     },
     "done": true
   },
-  "mcwpaths:recipes/cherry": {
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
-      "has_wood": "2025-07-02 01:58:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_wheat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_fir_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/pine_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:13:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
-    "criteria": {
-      "has_wildflowers": "2025-07-02 02:29:48 +0000"
+      "has_planks": "2025-07-02 01:55:29 +0000"
     },
     "done": true
   },
@@ -4986,21 +4528,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
+  "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
-      "has_planks": "2025-07-02 02:24:48 +0000"
+      "has_planks": "2025-07-02 01:55:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_slab": {
+  "mcwbridges:recipes/cherry_bridge_pier": {
     "criteria": {
-      "has_planks": "2025-07-02 02:18:13 +0000"
+      "has_planks": "2025-07-02 01:57:17 +0000"
     },
     "done": true
   },
-  "usefulfood:recipes/usefulfood.test_group/fishsoup": {
+  "mcwstairs:recipes/cherry": {
     "criteria": {
-      "has_base_item": "2025-07-02 02:51:35 +0000"
+      "has_planks": "2025-07-02 01:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:03:05 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:03:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:21 +0000"
     },
     "done": true
   },
@@ -5010,33 +4654,57 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/pine_rail_bridge": {
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 02:13:11 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+  "mcwbiomesoplenty:recipes/pine_paths": {
     "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
+      "has_wood": "2025-07-02 02:13:11 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
+  "mcwbiomesoplenty:recipes/rope_pine_bridge": {
     "criteria": {
-      "has_planks": "2025-07-02 02:34:15 +0000"
+      "has_planks": "2025-07-02 02:13:11 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+  "mcwbiomesoplenty:recipes/pine_stairs": {
     "criteria": {
-      "has_planks": "2025-07-02 02:16:06 +0000"
+      "has_planks": "2025-07-02 02:13:11 +0000"
     },
     "done": true
   },
-  "usefulfood:recipes/usefulfood.test_group/spaghetti": {
+  "mcwbiomesoplenty:recipes/pine_rail_bridge": {
     "criteria": {
-      "has_base_item": "2025-07-02 02:50:37 +0000"
+      "has_planks": "2025-07-02 02:13:11 +0000"
     },
     "done": true
   },
@@ -5046,9 +4714,189 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_fir_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-02 02:18:12 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-07-02 02:18:12 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:18:13 +0000"
     },
     "done": true
   },
@@ -5058,21 +4906,57 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/bamboo_bridge_pier": {
+  "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
-      "has_planks": "2025-07-02 01:55:29 +0000"
+      "has_logs": "2025-07-02 02:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:24:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-07-02 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
     },
     "done": true
   },
@@ -5088,9 +4972,154 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_door": {
+  "usefulfood:recipes/food/roastedseeds_from_smelting_wheat_seeds": {
     "criteria": {
-      "has_planks": "2025-07-02 01:58:02 +0000"
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_wheat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-07-02 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:34:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/pumpkinbread": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/biscuit": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000",
+      "has_the_recipe": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/chocolatecake": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/caramelcake": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/spaghetti": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:50:37 +0000"
     },
     "done": true
   },
@@ -5101,57 +5130,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/redwood_paths": {
-    "criteria": {
-      "has_wood": "2025-07-02 02:08:21 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_wheat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:39:31 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/usefulfood.test_group/magiccake": {
     "criteria": {
       "has_base_item": "2025-07-02 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/roastedseeds_from_smoking_wheat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-02 02:28:33 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
-    "criteria": {
-      "has_base_item": "2025-07-02 02:50:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:44:34 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/deepslate": {
-    "criteria": {
-      "has_planks": "2025-07-02 01:39:45 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:08:46 +0000"
     },
     "done": true
   },
@@ -5168,15 +5149,64 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/umbran_stairs": {
+  "usefulfood:recipes/food/carrotjuice": {
     "criteria": {
-      "has_planks": "2025-07-02 01:40:56 +0000"
+      "has_base_item": "2025-07-02 02:50:50 +0000",
+      "has_the_recipe": "2025-07-02 02:50:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
     "criteria": {
-      "has_bone_meal": "2025-07-02 01:43:16 +0000"
+      "has_base_item": "2025-07-02 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/fishsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-02 02:51:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:08:24 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:08:24 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/nether": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:33:53 +0000"
     },
     "done": true
   },

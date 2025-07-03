@@ -27,6 +27,7 @@
       "lavender_field": "2025-06-28 07:21:32 +0000",
       "old_growth_woodland": "2025-06-21 23:23:34 +0000",
       "maple_woods": "2025-06-24 03:45:35 +0000",
+      "crystalline_chasm": "2025-07-03 03:29:47 +0000",
       "pumpkin_patch": "2025-06-24 03:45:32 +0000",
       "grassland": "2025-06-28 07:28:45 +0000",
       "snowy_coniferous_forest": "2025-06-28 06:26:40 +0000",
@@ -4975,51 +4976,33 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/jacaranda_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:12:19 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/maple_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:01:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dry_bamboo_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 03:10:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:00 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
     "criteria": {
       "has_planks": "2025-07-02 01:43:42 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
     "criteria": {
-      "has_planks": "2025-07-02 03:10:55 +0000"
+      "has_planks": "2025-07-02 01:43:42 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
+  "mcwbiomesoplenty:recipes/mahogany_paths": {
     "criteria": {
-      "has_planks": "2025-07-02 02:16:00 +0000"
+      "has_wood": "2025-07-02 01:43:42 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
     "criteria": {
-      "has_planks": "2025-07-02 02:12:19 +0000"
+      "has_planks": "2025-07-02 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:01:02 +0000"
     },
     "done": true
   },
@@ -5035,9 +5018,57 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_maple_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_jacaranda_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_paths": {
     "criteria": {
       "has_wood": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_magic_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_paths": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:16:00 +0000"
     },
     "done": true
   },
@@ -5054,24 +5085,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/jacaranda_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:12:19 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bamboo_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 03:10:55 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/magic_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-02 02:16:00 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/food/magicapplejuice": {
     "criteria": {
       "has_base_item": "2025-07-02 02:58:45 +0000"
@@ -5084,15 +5097,21 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/magic_paths": {
+  "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
-      "has_wood": "2025-07-02 02:16:00 +0000"
+      "has_planks": "2025-07-02 03:10:55 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_rail_bridge": {
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
-      "has_planks": "2025-07-02 01:43:42 +0000"
+      "has_planks": "2025-07-02 03:10:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:10:55 +0000"
     },
     "done": true
   },
@@ -5102,21 +5121,111 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_paths": {
+  "mcwstairs:recipes/nether": {
     "criteria": {
-      "has_wood": "2025-07-02 01:43:42 +0000"
+      "has_planks": "2025-07-03 03:30:59 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/rope_maple_bridge": {
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
-      "has_planks": "2025-07-02 02:01:02 +0000"
+      "has_planks": "2025-07-03 03:30:59 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
-      "has_planks": "2025-07-02 01:43:42 +0000"
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-07-03 03:29:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-03 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-03 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-03 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-03 03:29:47 +0000"
     },
     "done": true
   },
