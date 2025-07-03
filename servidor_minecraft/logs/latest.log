@@ -164,3 +164,29 @@
 [03Jul2025 03:29:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [A Terrible Fortress]
 [03Jul2025 03:32:52.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported WooZiMu_ to nazcke]
 [03Jul2025 03:34:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Into Fire]
+[03Jul2025 03:41:06.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=510, y=49, z=505}
+[03Jul2025 03:41:06.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=510, y=49, z=505}
+[03Jul2025 03:41:06.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=510, y=49, z=505}
+[03Jul2025 03:41:06.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=510, y=49, z=505}
+[03Jul2025 03:41:06.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=510, y=49, z=505}
+[03Jul2025 03:48:19.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[03Jul2025 03:48:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[03Jul2025 03:48:19.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[03Jul2025 03:48:19.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[03Jul2025 03:48:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[03Jul2025 03:48:19.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[03Jul2025 03:48:31.688] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[03Jul2025 03:48:38.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:53868] logged in with entity id 21438 at (4819.467687836368, 78.061875, 2219.342848707342)
+[03Jul2025 03:48:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[03Jul2025 03:48:38.419] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[03Jul2025 03:48:38.420] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[03Jul2025 03:48:38.421] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[03Jul2025 03:48:38.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[03Jul2025 03:48:39.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[03Jul2025 03:48:39.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[03Jul2025 03:48:47.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[03Jul2025 03:48:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[03Jul2025 03:48:47.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[03Jul2025 03:48:49.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[03Jul2025 03:48:49.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[03Jul2025 03:48:49.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_

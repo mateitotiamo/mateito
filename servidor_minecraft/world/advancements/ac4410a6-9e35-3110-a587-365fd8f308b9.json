@@ -6367,5 +6367,41 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/friedegg_from_smoking_egg": {
+    "criteria": {
+      "has_egg": "2025-07-03 03:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg_from_smelting_egg": {
+    "criteria": {
+      "has_egg": "2025-07-03 03:44:10 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg_from_campfire_cooking_egg": {
+    "criteria": {
+      "has_egg": "2025-07-03 03:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

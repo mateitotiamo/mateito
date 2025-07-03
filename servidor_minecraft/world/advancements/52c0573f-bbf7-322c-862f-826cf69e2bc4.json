@@ -5210,5 +5210,17 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-07-03 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-07-03 03:36:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
