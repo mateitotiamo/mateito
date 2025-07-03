@@ -6367,15 +6367,27 @@
     },
     "done": true
   },
-  "usefulfood:recipes/food/friedegg_from_smoking_egg": {
-    "criteria": {
-      "has_egg": "2025-07-03 03:44:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-03 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg_from_smoking_egg": {
+    "criteria": {
+      "has_egg": "2025-07-03 03:44:10 +0000"
     },
     "done": true
   },
@@ -6391,15 +6403,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_white_wool": "2025-07-03 03:43:57 +0000"
+      "has_book": "2025-07-03 04:03:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_white_wool": "2025-07-03 03:43:57 +0000"
+      "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-03 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-03 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-03 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-03 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-03 04:03:03 +0000"
     },
     "done": true
   },
