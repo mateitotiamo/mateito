@@ -35,6 +35,7 @@
       "gravel_beach": "2025-06-24 07:14:01 +0000",
       "orchard": "2025-06-24 03:37:59 +0000",
       "field": "2025-06-28 06:55:59 +0000",
+      "undergrowth": "2025-07-05 06:11:59 +0000",
       "overgrown_greens": "2025-06-21 23:40:53 +0000",
       "mediterranean_forest": "2025-06-21 23:16:45 +0000",
       "rainforest": "2025-06-21 23:45:39 +0000",
@@ -490,6 +491,7 @@
     "criteria": {
       "minecraft:blaze": "2025-06-24 08:12:55 +0000",
       "minecraft:skeleton": "2025-06-21 23:34:07 +0000",
+      "minecraft:zombified_piglin": "2025-07-05 06:06:49 +0000",
       "minecraft:witch": "2025-06-24 05:40:30 +0000",
       "minecraft:wither_skeleton": "2025-06-24 07:45:41 +0000",
       "minecraft:husk": "2025-06-24 05:24:28 +0000",
@@ -5234,6 +5236,30 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-07-03 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-03 04:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-03 04:39:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
@@ -5243,18 +5269,6 @@
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-03 04:39:41 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/roastedseeds_from_smoking_beetroot_seeds": {
-    "criteria": {
-      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
     },
     "done": true
   },
@@ -5276,18 +5290,6 @@
     },
     "done": true
   },
-  "usefulfood:recipes/food/roastedseeds_from_smelting_beetroot_seeds": {
-    "criteria": {
-      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-07-03 04:42:34 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
@@ -5300,33 +5302,9 @@
     },
     "done": true
   },
-  "usefulfood:recipes/food/roastedseeds_from_smelting_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_beetroot_seeds": {
-    "criteria": {
-      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/andesite": {
-    "criteria": {
-      "has_wood": "2025-07-03 04:39:41 +0000"
     },
     "done": true
   },
@@ -5348,21 +5326,33 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-03 04:39:41 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-07-03 04:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-03 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smoking_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_smelting_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_beetroot_seeds": {
+    "criteria": {
+      "has_beetroot_seeds": "2025-07-03 04:44:52 +0000"
     },
     "done": true
   },
@@ -5372,15 +5362,63 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_pier": {
+  "usefulfood:recipes/food/roastedseeds_from_smelting_pumpkin_seeds": {
     "criteria": {
-      "has_planks": "2025-07-03 04:39:41 +0000"
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/roastedseeds_from_smelting_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/roastedseeds_from_campfire_cooking_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
     },
     "done": true
   },
   "usefulfood:recipes/food/roastedseeds_from_smoking_pumpkin_seeds": {
     "criteria": {
       "has_pumpkin_seeds": "2025-07-03 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:24:50 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-05 06:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-05 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-05 06:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-05 06:01:58 +0000"
     },
     "done": true
   },
