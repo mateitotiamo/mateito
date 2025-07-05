@@ -230,3 +230,4 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [05Jul2025 06:28:18.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 606 90 276
 [05Jul2025 06:34:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Set own game mode to Spectator Mode]
 [05Jul2025 06:35:38.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Set own game mode to Survival Mode]
+[05Jul2025 06:41:11.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4645, y=76, z=2274} BlockPos{x=4646, y=77, z=2272}
