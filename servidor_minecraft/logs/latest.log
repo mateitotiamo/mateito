@@ -280,3 +280,30 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [05Jul2025 07:45:48.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> :(
 [05Jul2025 07:46:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> www
 [05Jul2025 07:47:45.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=792, y=60, z=352} BlockPos{x=792, y=59, z=352}
+[05Jul2025 07:52:32.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=854, y=76, z=345} BlockPos{x=853, y=76, z=347}
+[05Jul2025 07:52:51.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to nazcke]
+[05Jul2025 07:52:53.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 606 90 276
+[05Jul2025 07:53:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> ban naiko
+[05Jul2025 07:54:03.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Who is Cutting Onions?]
+[05Jul2025 07:58:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[05Jul2025 08:03:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[05Jul2025 08:03:50.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke withered away
+[05Jul2025 08:03:53.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[05Jul2025 08:04:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[05Jul2025 08:05:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[05Jul2025 08:06:32.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[05Jul2025 08:06:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[05Jul2025 08:06:32.150] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[05Jul2025 08:06:52.744] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05Jul2025 08:07:00.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:54465] logged in with entity id 123983 at (4737.751620043869, 62.110764312589055, 1242.8806358981326)
+[05Jul2025 08:07:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[05Jul2025 08:07:00.239] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[05Jul2025 08:07:00.240] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WooZiMu_ (18)
+[05Jul2025 08:07:00.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WooZiMu_
+[05Jul2025 08:07:00.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[05Jul2025 08:07:01.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 52c0573f-bbf7-322c-862f-826cf69e2bc4
+[05Jul2025 08:07:01.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WooZiMu_ (52c0573f-bbf7-322c-862f-826cf69e2bc4) successfully connected to voice chat
+[05Jul2025 08:11:31.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[05Jul2025 08:11:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[05Jul2025 08:11:31.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[05Jul2025 08:15:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Eye Spy]
