@@ -307,3 +307,8 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [05Jul2025 08:11:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
 [05Jul2025 08:11:31.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
 [05Jul2025 08:15:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Eye Spy]
+[05Jul2025 08:21:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[05Jul2025 08:21:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Eye Spy]
+[05Jul2025 08:25:09.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[05Jul2025 08:25:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[05Jul2025 08:25:09.131] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_

@@ -2876,3 +2876,13 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [05Jul2025 08:15:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Eye Spy]
 [05Jul2025 08:17:25.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 08:17:25.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 08:21:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[05Jul2025 08:21:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Eye Spy]
+[05Jul2025 08:22:25.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 08:22:25.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 08:25:09.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[05Jul2025 08:25:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[05Jul2025 08:25:09.131] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of WooZiMu_
+[05Jul2025 08:25:09.131] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WooZiMu_
+[05Jul2025 08:27:25.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 08:27:25.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
