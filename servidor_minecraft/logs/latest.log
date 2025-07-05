@@ -274,3 +274,9 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [05Jul2025 07:27:06.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
 [05Jul2025 07:27:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [05Jul2025 07:27:31.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[05Jul2025 07:38:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[05Jul2025 07:39:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[05Jul2025 07:39:30.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[05Jul2025 07:45:48.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> :(
+[05Jul2025 07:46:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> www
+[05Jul2025 07:47:45.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=792, y=60, z=352} BlockPos{x=792, y=59, z=352}
