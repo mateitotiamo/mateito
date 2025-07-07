@@ -6459,45 +6459,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_lilac": "2025-07-05 06:40:28 +0000"
+      "has_smithing_trim_template": "2025-07-05 05:58:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_emerald_block": "2025-07-05 07:29:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-05 06:33:47 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-05 06:34:01 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_spruce_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-05 06:34:01 +0000"
+      "has_rib_armor_trim_smithing_template": "2025-07-05 05:58:30 +0000"
     },
     "done": true
   },
   "mcwstairs:recipes/nether": {
     "criteria": {
       "has_planks": "2025-07-05 06:00:09 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2025-07-05 06:33:47 +0000"
     },
     "done": true
   },
@@ -6525,33 +6501,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-05 05:58:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-07-05 06:54:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-05 06:00:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-05 07:08:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-05 07:22:24 +0000"
     },
     "done": true
   },
@@ -6573,21 +6525,9 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-07-05 06:34:01 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-05 06:00:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-05 06:34:01 +0000"
     },
     "done": true
   },
@@ -6597,27 +6537,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-05 07:08:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-07-05 06:54:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-05 06:00:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-07-05 08:21:25 +0000"
     },
     "done": true
   },
@@ -6627,9 +6549,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+  "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-07-05 05:58:30 +0000"
+      "has_nether_bricks": "2025-07-05 06:00:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:33:47 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:33:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-05 06:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-05 06:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-05 06:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-05 06:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-05 06:54:03 +0000"
     },
     "done": true
   },
@@ -6639,9 +6615,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_nether_bricks": "2025-07-05 06:00:09 +0000"
+      "has_poppy": "2025-07-05 07:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-05 07:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-05 07:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-05 07:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-05 08:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-07-07 05:38:54 +0000"
     },
     "done": true
   },

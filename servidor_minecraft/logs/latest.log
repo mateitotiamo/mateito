@@ -139,3 +139,23 @@
 [07Jul2025 05:26:45.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
 [07Jul2025 05:26:46.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
 [07Jul2025 05:26:46.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[07Jul2025 05:36:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[07Jul2025 05:38:54.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Minecraft: Trial(s) Edition]
+[07Jul2025 05:39:09.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[07Jul2025 05:39:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[07Jul2025 05:40:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[07Jul2025 05:40:06.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[07Jul2025 05:40:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[07Jul2025 05:40:06.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[07Jul2025 05:40:16.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2025 05:40:16.663] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[07Jul2025 05:40:16.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 05:40:16.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 05:40:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 05:40:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 05:40:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 05:40:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 05:40:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 05:40:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 05:40:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 05:40:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
