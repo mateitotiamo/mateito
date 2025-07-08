@@ -6754,6 +6754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-08 10:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-08 10:11:39 +0000"
@@ -6763,6 +6769,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-08 10:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-08 10:21:47 +0000"
     },
     "done": true
   },
