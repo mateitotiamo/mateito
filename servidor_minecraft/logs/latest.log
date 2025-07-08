@@ -147,3 +147,11 @@
 [08Jul2025 09:28:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
 [08Jul2025 09:28:21.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
 [08Jul2025 09:29:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[08Jul2025 09:42:23.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:49315] logged in with entity id 12352 at (4874.638723931464, 98.0, 2214.9374198346654)
+[08Jul2025 09:42:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[08Jul2025 09:42:24.114] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[08Jul2025 09:42:24.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[08Jul2025 09:42:24.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[08Jul2025 09:42:24.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[08Jul2025 09:42:25.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[08Jul2025 09:42:25.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
