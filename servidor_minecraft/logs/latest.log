@@ -143,3 +143,7 @@
 [08Jul2025 08:49:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [A Seedy Place]
 [08Jul2025 08:59:20.686] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
 [08Jul2025 09:10:01.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/334, l='ServerLevel[world]', x=4607.77, y=32.25, z=2236.49] died, message: 'Villager was slain by Zombie'
+[08Jul2025 09:28:21.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[08Jul2025 09:28:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[08Jul2025 09:28:21.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[08Jul2025 09:29:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
