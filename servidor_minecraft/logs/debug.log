@@ -2966,3 +2966,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 07:41:24.477] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of ShallanDav4r to connected: {disabled=false, disconnected=false, uuid=ac4410a6-9e35-3110-a587-365fd8f308b9, name=ShallanDav4r, group=null}
 [09Jul2025 07:41:24.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
 [09Jul2025 07:41:24.648] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ShallanDav4r: {disabled=true, disconnected=false, uuid=ac4410a6-9e35-3110-a587-365fd8f308b9, name=ShallanDav4r, group=null}
+[09Jul2025 07:46:22.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 07:46:22.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 07:51:22.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 07:51:22.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
