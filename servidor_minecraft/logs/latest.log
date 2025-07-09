@@ -197,3 +197,5 @@
 [09Jul2025 06:32:08.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
 [09Jul2025 06:32:08.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
 [09Jul2025 06:32:08.151] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
+[09Jul2025 06:42:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 06:42:46.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
