@@ -2739,3 +2739,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 04:57:53.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 04:57:53.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jul2025 04:58:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[09Jul2025 05:02:53.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 05:02:53.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 05:07:53.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 05:07:53.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 05:11:20.695] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/223, l='ServerLevel[world]', x=4653.31, y=74.56, z=2286.53] died, message: 'Nitwit burned to death'
