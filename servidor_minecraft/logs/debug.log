@@ -2980,3 +2980,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 08:06:22.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jul2025 08:11:22.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 08:11:22.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 08:16:22.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 08:16:22.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 08:17:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:17:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:20:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:20:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:21:22.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 08:21:22.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 08:23:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:23:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:24:08.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved too quickly! 92.04391022049367,16.438124999403954,-5.67130810170238
