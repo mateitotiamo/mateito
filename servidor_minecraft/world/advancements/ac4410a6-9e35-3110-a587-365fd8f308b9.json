@@ -778,7 +778,8 @@
       "baked_potato": "2025-06-28 06:46:54 +0000",
       "melon_slice": "2025-06-22 00:10:51 +0000",
       "porkchop": "2025-07-05 06:12:24 +0000",
-      "golden_carrot": "2025-07-08 08:53:17 +0000"
+      "golden_carrot": "2025-07-08 08:53:17 +0000",
+      "beetroot": "2025-07-09 04:10:51 +0000"
     },
     "done": false
   },
@@ -6775,6 +6776,25 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-08 10:21:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:21:45 +0000",
+      "has_the_recipe": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:21:45 +0000"
     },
     "done": true
   },

@@ -159,3 +159,5 @@
 [09Jul2025 03:23:41.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player nazcke (b2e87569-e9d8-3dfa-9b6f-494f26717468) successfully connected to voice chat
 [09Jul2025 03:25:37.304] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
 [09Jul2025 03:40:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has completed the challenge [Return to Sender]
+[09Jul2025 04:16:52.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Those Were the Days]
+[09Jul2025 04:18:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [War Pigs]
