@@ -7007,5 +7007,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-09 07:26:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

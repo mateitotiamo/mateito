@@ -199,3 +199,9 @@
 [09Jul2025 06:32:08.151] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
 [09Jul2025 06:42:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
 [09Jul2025 06:42:46.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 07:24:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[09Jul2025 07:24:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 07:30:11.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[09Jul2025 07:30:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[09Jul2025 07:30:11.145] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[09Jul2025 07:31:11.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
