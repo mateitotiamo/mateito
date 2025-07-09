@@ -490,11 +490,14 @@
       "minecraft:witch": "2025-06-22 00:08:24 +0000",
       "minecraft:wither_skeleton": "2025-06-28 05:19:19 +0000",
       "minecraft:husk": "2025-06-21 23:31:41 +0000",
+      "minecraft:ghast": "2025-07-09 03:40:31 +0000",
       "minecraft:hoglin": "2025-07-05 06:11:30 +0000",
       "minecraft:cave_spider": "2025-06-21 23:30:30 +0000",
+      "minecraft:piglin": "2025-07-09 03:48:13 +0000",
       "minecraft:guardian": "2025-06-21 23:54:01 +0000",
       "minecraft:silverfish": "2025-06-21 23:21:13 +0000",
       "minecraft:enderman": "2025-07-05 07:58:50 +0000",
+      "minecraft:magma_cube": "2025-07-09 03:39:43 +0000",
       "minecraft:spider": "2025-06-21 23:33:39 +0000",
       "minecraft:zombie": "2025-06-21 23:31:38 +0000",
       "minecraft:drowned": "2025-06-30 00:58:11 +0000",
@@ -2382,6 +2385,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-09 03:41:15 +0000",
       "minecraft:nether_wastes": "2025-06-28 05:17:01 +0000",
       "minecraft:soul_sand_valley": "2025-06-28 05:18:39 +0000"
     },
@@ -5415,25 +5419,67 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-07-05 07:54:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2025-07-05 06:43:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+  "minecraft:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-07-05 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-07-05 06:43:40 +0000"
     },
@@ -5451,36 +5497,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-07-05 07:28:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-07-05 07:03:48 +0000"
@@ -5490,12 +5506,6 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
     },
     "done": true
   },
@@ -5511,36 +5521,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/quartz": {
-    "criteria": {
-      "has_planks": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
@@ -5550,12 +5530,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_bud": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
     },
     "done": true
   },
@@ -5589,18 +5563,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
@@ -5619,39 +5581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-07-05 07:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-07-05 07:54:03 +0000"
     },
     "done": true
   },
@@ -5679,45 +5611,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 07:03:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-05 07:16:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
-    "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
     },
     "done": true
   },
@@ -5727,15 +5623,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_ender_eye": "2025-07-05 07:28:45 +0000"
+      "has_blackstone": "2025-07-05 07:03:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_brimstone": "2025-07-05 06:43:40 +0000"
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-05 07:16:30 +0000"
     },
     "done": true
   },
@@ -5745,9 +5707,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_blackstone": "2025-07-05 07:03:48 +0000"
+      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-05 07:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-05 07:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-05 07:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-05 07:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-05 07:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 07:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-09 03:41:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:41:15 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel": {
+    "criteria": {
+      "has_base_item": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/friedegg": {
+    "criteria": {
+      "has_base_item": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg": {
+    "criteria": {
+      "has_base_item": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_smoking_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-09 03:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-09 03:40:31 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_smelting_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/caramel": {
+    "criteria": {
+      "has_base_item": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/caramel_from_campfire_cooking_sugarcube": {
+    "criteria": {
+      "has_sugarcube": "2025-07-09 03:24:45 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:41:15 +0000"
     },
     "done": true
   },
