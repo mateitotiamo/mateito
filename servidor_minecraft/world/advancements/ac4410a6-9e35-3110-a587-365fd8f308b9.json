@@ -770,16 +770,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-21 23:25:52 +0000",
-      "apple": "2025-06-30 04:52:26 +0000",
       "bread": "2025-06-21 23:51:02 +0000",
-      "potato": "2025-06-30 01:06:08 +0000",
+      "suspicious_stew": "2025-07-09 04:53:32 +0000",
       "cooked_beef": "2025-06-21 23:42:18 +0000",
-      "cod": "2025-06-21 23:54:00 +0000",
       "baked_potato": "2025-06-28 06:46:54 +0000",
       "melon_slice": "2025-06-22 00:10:51 +0000",
       "porkchop": "2025-07-05 06:12:24 +0000",
       "golden_carrot": "2025-07-08 08:53:17 +0000",
       "beetroot": "2025-07-09 04:10:51 +0000",
+      "apple": "2025-06-30 04:52:26 +0000",
+      "potato": "2025-06-30 01:06:08 +0000",
+      "cod": "2025-06-21 23:54:00 +0000",
       "carrot": "2025-07-09 04:35:17 +0000"
     },
     "done": false
@@ -6798,9 +6799,47 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/jelly": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/carrotsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/salad": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/pumpkinsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-07-09 04:38:06 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/trailmix": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/vanillaicecream": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
     },
     "done": true
   },
@@ -6811,9 +6850,41 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/oatmeal": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/rawmarshmallow": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/jelly": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/salad": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/vanillaicecream": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
     },
     "done": true
   },
@@ -6826,6 +6897,32 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-09 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/pumpkinsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/rawmarshmallow": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/oatmeal": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
     },
     "done": true
   },
@@ -6844,6 +6941,13 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-09 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
     },
     "done": true
   },
