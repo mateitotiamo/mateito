@@ -194,3 +194,6 @@
 [09Jul2025 06:10:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> alo
 [09Jul2025 06:10:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
 [09Jul2025 06:11:52.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[09Jul2025 06:32:08.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[09Jul2025 06:32:08.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[09Jul2025 06:32:08.151] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client nazcke
