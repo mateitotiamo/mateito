@@ -171,3 +171,26 @@
 [09Jul2025 05:23:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> aaa
 [09Jul2025 05:24:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si si es
 [09Jul2025 05:31:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 4745 84 2223
+[09Jul2025 05:32:52.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[09Jul2025 05:32:52.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[09Jul2025 05:32:52.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShallanDav4r
+[09Jul2025 05:38:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> 4830 80 2241
+[09Jul2025 05:38:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4745.500000, 84.000000, 2223.500000]
+[09Jul2025 05:39:01.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:53354] logged in with entity id 96521 at (4531.699999988079, -25.0, 2281.2189067586132)
+[09Jul2025 05:39:01.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[09Jul2025 05:39:02.015] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[09Jul2025 05:39:02.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShallanDav4r (18)
+[09Jul2025 05:39:02.018] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShallanDav4r
+[09Jul2025 05:39:02.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4410a6-9e35-3110-a587-365fd8f308b9
+[09Jul2025 05:39:03.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4410a6-9e35-3110-a587-365fd8f308b9
+[09Jul2025 05:39:03.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShallanDav4r (ac4410a6-9e35-3110-a587-365fd8f308b9) successfully connected to voice chat
+[09Jul2025 05:39:16.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4830.500000, 80.000000, 2241.500000]
+[09Jul2025 05:39:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4745.500000, 84.000000, 2223.500000]
+[09Jul2025 05:39:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4830.500000, 80.000000, 2241.500000]
+[09Jul2025 05:41:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4745.500000, 84.000000, 2223.500000]
+[09Jul2025 05:43:30.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4830.500000, 80.000000, 2241.500000]
+[09Jul2025 05:45:14.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4745.500000, 84.000000, 2223.500000]
+[09Jul2025 05:45:23.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to 4830.500000, 80.000000, 2241.500000]
+[09Jul2025 06:10:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> alo
+[09Jul2025 06:10:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[09Jul2025 06:11:52.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]

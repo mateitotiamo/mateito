@@ -37,6 +37,7 @@
       "tundra": "2025-06-28 06:25:24 +0000",
       "withered_abyss": "2025-06-24 07:45:38 +0000",
       "gravel_beach": "2025-06-30 00:52:56 +0000",
+      "glowing_grotto": "2025-07-09 05:29:53 +0000",
       "orchard": "2025-06-24 05:48:26 +0000",
       "field": "2025-06-30 00:54:03 +0000",
       "undergrowth": "2025-06-29 04:09:08 +0000",
@@ -772,6 +773,7 @@
       "cooked_porkchop": "2025-06-21 23:25:52 +0000",
       "bread": "2025-06-21 23:51:02 +0000",
       "suspicious_stew": "2025-07-09 04:53:32 +0000",
+      "cookie": "2025-07-09 05:47:31 +0000",
       "cooked_beef": "2025-06-21 23:42:18 +0000",
       "baked_potato": "2025-06-28 06:46:54 +0000",
       "melon_slice": "2025-06-22 00:10:51 +0000",
@@ -6781,7 +6783,56 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:21:45 +0000",
+      "has_the_recipe": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-09 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-09 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-09 04:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 04:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 04:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-09 04:38:06 +0000"
     },
@@ -6793,15 +6844,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_coal_block": "2025-07-09 05:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-09 04:38:03 +0000"
+      "has_ender_eye": "2025-07-09 04:38:35 +0000"
     },
     "done": true
   },
@@ -6831,12 +6876,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-09 04:38:06 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/usefulfood.test_group/trailmix": {
     "criteria": {
       "has_base_item": "2025-07-09 04:53:33 +0000"
@@ -6846,13 +6885,6 @@
   "usefulfood:recipes/usefulfood.test_group/vanillaicecream": {
     "criteria": {
       "has_base_item": "2025-07-09 04:53:33 +0000"
-    },
-    "done": true
-  },
-  "usefulfood:recipes/food/carrotjuice": {
-    "criteria": {
-      "has_base_item": "2025-07-09 04:21:45 +0000",
-      "has_the_recipe": "2025-07-09 04:21:45 +0000"
     },
     "done": true
   },
@@ -6881,40 +6913,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-09 04:21:45 +0000"
-    },
-    "done": true
-  },
   "usefulfood:recipes/food/vanillaicecream": {
     "criteria": {
       "has_base_item": "2025-07-09 04:53:33 +0000",
       "has_the_recipe": "2025-07-09 04:53:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-09 04:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-09 04:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-07-09 05:14:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-07-09 05:26:56 +0000"
     },
     "done": true
   },
@@ -6944,34 +6946,46 @@
     },
     "done": true
   },
+  "usefulfood:recipes/usefulfood.test_group/carrotsoup": {
+    "criteria": {
+      "has_base_item": "2025-07-09 04:53:33 +0000",
+      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-09 05:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-09 05:14:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_ender_eye": "2025-07-09 04:38:35 +0000"
+      "has_coal_block": "2025-07-09 05:26:54 +0000"
     },
     "done": true
   },
-  "usefulfood:recipes/usefulfood.test_group/carrotjuice": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_base_item": "2025-07-09 04:21:45 +0000"
+      "has_raw_iron_block": "2025-07-09 05:26:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_blaze_rod": "2025-07-09 04:38:03 +0000"
+      "has_glow_ink_sac": "2025-07-09 05:31:27 +0000"
     },
     "done": true
   },
-  "usefulfood:recipes/usefulfood.test_group/carrotsoup": {
+  "minecraft:recipes/misc/raw_gold": {
     "criteria": {
-      "has_base_item": "2025-07-09 04:53:33 +0000",
-      "has_the_recipe": "2025-07-09 04:53:33 +0000"
+      "has_raw_gold_block": "2025-07-09 05:55:16 +0000"
     },
     "done": true
   },
