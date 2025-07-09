@@ -223,3 +223,17 @@
 [09Jul2025 08:23:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
 [09Jul2025 08:23:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
 [09Jul2025 08:24:08.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved too quickly! 92.04391022049367,16.438124999403954,-5.67130810170238
+[09Jul2025 08:25:52.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[09Jul2025 08:26:27.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to -99999.500000, 81.179468, -99999.500000]
+[09Jul2025 08:26:27.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[09Jul2025 08:27:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:27:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:27:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[09Jul2025 08:28:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:28:56.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r moved too quickly! 104851.30310383436,-65.11333527335022,100839.34492035877
+[09Jul2025 08:29:14.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[09Jul2025 08:29:18.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:30:00.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[09Jul2025 08:30:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[09Jul2025 08:31:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[09Jul2025 08:33:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
