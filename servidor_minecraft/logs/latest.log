@@ -1159,3 +1159,6 @@ Things may not work well.
 [10Jul2025 06:43:09.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
 [10Jul2025 06:43:09.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
 [10Jul2025 06:44:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[10Jul2025 06:46:05.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:60371] logged in with entity id 16671 at (4651.290679963051, 77.9375, 2266.396028742933)
+[10Jul2025 06:46:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[10Jul2025 06:46:06.062] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default

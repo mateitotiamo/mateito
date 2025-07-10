@@ -7163,6 +7163,48 @@
     },
     "done": true
   },
+  "knowledge_book:recipe": {
+    "criteria": {
+      "requirement": "2025-07-10 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "darkspins:root": {
+    "criteria": {
+      "darkspins_root": "2025-07-10 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-10 05:45:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_meal": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 05:48:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_windows": {
+    "criteria": {
+      "has_wood": "2025-07-10 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-07-10 05:51:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-07-10 05:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -8705,12 +8747,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-10 06:12:00 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipe/blue_subaraki_grave": {
     "criteria": {
       "has_recipe": "2025-07-10 05:53:27 +0000"
@@ -9521,12 +9557,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/curtain_rods": {
-    "criteria": {
-      "has_wood": "2025-07-10 05:51:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -10118,12 +10148,6 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-10 06:04:27 +0000"
     },
     "done": true
   },
@@ -10754,12 +10778,6 @@
   "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/fir_windows": {
-    "criteria": {
-      "has_wood": "2025-07-10 05:50:09 +0000"
     },
     "done": true
   },
@@ -11738,12 +11756,6 @@
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-10 06:04:27 +0000"
     },
     "done": true
   },
@@ -12905,12 +12917,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_meal": {
-    "criteria": {
-      "coded_trigger": "2025-07-10 05:48:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -13445,12 +13451,6 @@
     },
     "done": true
   },
-  "knowledge_book:recipe": {
-    "criteria": {
-      "requirement": "2025-07-10 05:45:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/palm_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -13820,12 +13820,6 @@
   "usefulfood:recipes/food/applejamtoast": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
-    },
-    "done": true
-  },
-  "darkspins:root": {
-    "criteria": {
-      "darkspins_root": "2025-07-10 05:45:43 +0000"
     },
     "done": true
   },
@@ -14201,12 +14195,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/metal": {
-    "criteria": {
-      "has_wood": "2025-07-10 05:51:52 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/flesh": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -14288,12 +14276,6 @@
   "mcwbridges:recipes/asian_red_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-10 05:45:44 +0000"
     },
     "done": true
   },
@@ -14690,6 +14672,24 @@
   "tombstone:recipe/dark_marble_wall": {
     "criteria": {
       "has_recipe": "2025-07-10 05:53:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:04:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:04:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:12:00 +0000"
     },
     "done": true
   },
