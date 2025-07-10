@@ -8705,6 +8705,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:12:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/blue_subaraki_grave": {
     "criteria": {
       "has_recipe": "2025-07-10 05:53:27 +0000"
