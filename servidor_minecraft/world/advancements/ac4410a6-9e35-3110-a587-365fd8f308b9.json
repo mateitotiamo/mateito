@@ -10115,6 +10115,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
@@ -11726,6 +11732,12 @@
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_the_recipe": "2025-07-10 05:53:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 06:04:27 +0000"
     },
     "done": true
   },

@@ -1152,3 +1152,6 @@ Things may not work well.
 [10Jul2025 05:45:44.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has completed the challenge [tombstone.advancement.tutorial.title]
 [10Jul2025 05:48:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.bone_meal.title]
 [10Jul2025 05:50:08.417] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[10Jul2025 06:04:27.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.first_knowledge.title]
+[10Jul2025 06:04:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.ambush.title]
+[10Jul2025 06:12:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.choose_knowledge.title]
