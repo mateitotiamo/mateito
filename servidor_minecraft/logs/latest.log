@@ -1155,3 +1155,7 @@ Things may not work well.
 [10Jul2025 06:04:27.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.first_knowledge.title]
 [10Jul2025 06:04:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.ambush.title]
 [10Jul2025 06:12:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.choose_knowledge.title]
+[10Jul2025 06:40:32.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/519, l='ServerLevel[world]', x=4651.86, y=75.52, z=2273.80] died, message: 'Fletcher tried to swim in lava'
+[10Jul2025 06:43:09.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[10Jul2025 06:43:09.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[10Jul2025 06:44:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
