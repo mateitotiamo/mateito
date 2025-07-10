@@ -1146,3 +1146,9 @@ Things may not work well.
 [10Jul2025 05:34:14.436] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
 [10Jul2025 05:34:14.437] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/mateito/servidor_minecraft/config/infernalmobs.cfg
 [10Jul2025 05:35:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[10Jul2025 05:45:43.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:57283] logged in with entity id 201 at (4884.498149072758, 97.0, 2207.0912334672316)
+[10Jul2025 05:45:43.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[10Jul2025 05:45:43.973] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[10Jul2025 05:45:44.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has completed the challenge [tombstone.advancement.tutorial.title]
+[10Jul2025 05:48:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.bone_meal.title]
+[10Jul2025 05:50:08.417] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
