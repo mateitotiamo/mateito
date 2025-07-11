@@ -167,3 +167,4 @@
 [11Jul2025 04:20:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
 [11Jul2025 04:20:16.074] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
 [11Jul2025 04:22:48.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-100283, y=62, z=-100012}
+[11Jul2025 04:32:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: The difficulty has been set to Hard]
