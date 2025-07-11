@@ -162,3 +162,7 @@
 [11Jul2025 03:42:22.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
 [11Jul2025 03:42:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
 [11Jul2025 03:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[11Jul2025 04:20:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
+[11Jul2025 04:20:15.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:58208] logged in with entity id 53093 at (-100277.06641360496, 63.0, -100012.88095645896)
+[11Jul2025 04:20:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[11Jul2025 04:20:16.074] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
