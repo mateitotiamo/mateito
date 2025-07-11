@@ -708,6 +708,7 @@
       "minecraft:pillager": "2025-06-24 07:03:55 +0000",
       "minecraft:blaze": "2025-06-24 08:14:39 +0000",
       "minecraft:skeleton": "2025-06-24 06:22:19 +0000",
+      "minecraft:phantom": "2025-07-11 07:45:13 +0000",
       "minecraft:witch": "2025-06-22 00:08:30 +0000",
       "minecraft:wither_skeleton": "2025-06-24 07:46:26 +0000",
       "minecraft:husk": "2025-06-24 07:13:50 +0000",
@@ -14702,12 +14703,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "has_item_grave_dust": "2025-07-11 05:39:40 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/bone_picker": {
     "criteria": {
       "coded_trigger": "2025-07-11 05:19:38 +0000"
@@ -14720,9 +14715,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_grave_type": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "coded_trigger": "2025-07-11 06:19:10 +0000"
+      "has_item_grave_dust": "2025-07-11 05:39:40 +0000"
     },
     "done": true
   },
@@ -14731,6 +14726,12 @@
       "from_undead": "2025-07-11 05:39:40 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 06:19:10 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
