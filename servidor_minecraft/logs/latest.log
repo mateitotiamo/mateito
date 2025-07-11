@@ -166,3 +166,4 @@
 [11Jul2025 04:20:15.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:58208] logged in with entity id 53093 at (-100277.06641360496, 63.0, -100012.88095645896)
 [11Jul2025 04:20:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
 [11Jul2025 04:20:16.074] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[11Jul2025 04:22:48.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-100283, y=62, z=-100012}
