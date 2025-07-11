@@ -174,3 +174,7 @@
 [11Jul2025 05:39:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.find_grave_dust.title]
 [11Jul2025 05:57:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
 [11Jul2025 06:19:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [tombstone.advancement.choose_grave_type.title]
+[11Jul2025 06:49:23.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [tombstone.advancement.ashes_and_bones.title]
+[11Jul2025 06:56:14.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[11Jul2025 06:56:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[11Jul2025 06:57:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
