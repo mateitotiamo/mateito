@@ -169,3 +169,6 @@
 [11Jul2025 04:22:48.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-100283, y=62, z=-100012}
 [11Jul2025 04:32:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: The difficulty has been set to Hard]
 [11Jul2025 04:58:24.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola amigos del yutub este es un gaymplei
+[11Jul2025 05:19:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.bone_picker.title]
+[11Jul2025 05:27:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.create_familiar_receptacle.title]
+[11Jul2025 05:39:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.find_grave_dust.title]
