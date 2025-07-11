@@ -159,3 +159,6 @@
 [11Jul2025 01:52:52.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1432, l='ServerLevel[world]', x=-100324.61, y=62.56, z=-100022.70] died, message: 'Villager was slain by Husk'
 [11Jul2025 01:58:02.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [You Need a Mint]
 [11Jul2025 02:05:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
+[11Jul2025 03:42:22.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[11Jul2025 03:42:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[11Jul2025 03:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
