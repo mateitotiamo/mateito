@@ -14693,5 +14693,11 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-11 01:58:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

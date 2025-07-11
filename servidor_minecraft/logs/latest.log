@@ -158,3 +158,4 @@
 [11Jul2025 01:43:29.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1431, l='ServerLevel[world]', x=-100317.70, y=62.49, z=-100010.63] died, message: 'Leatherworker was slain by Zombie'
 [11Jul2025 01:52:52.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1432, l='ServerLevel[world]', x=-100324.61, y=62.56, z=-100022.70] died, message: 'Villager was slain by Husk'
 [11Jul2025 01:58:02.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [You Need a Mint]
+[11Jul2025 02:05:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
