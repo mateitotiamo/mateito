@@ -5609,9 +5609,27 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/friedegg_from_smoking_egg": {
+    "criteria": {
+      "has_egg": "2025-08-18 04:28:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-08-18 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/friedegg_from_smelting_egg": {
+    "criteria": {
+      "has_egg": "2025-08-18 04:28:30 +0000"
     },
     "done": true
   },
@@ -5621,9 +5639,27 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/friedegg_from_campfire_cooking_egg": {
+    "criteria": {
+      "has_egg": "2025-08-18 04:28:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2025-08-18 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_meal": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 04:29:47 +0000"
     },
     "done": true
   },
