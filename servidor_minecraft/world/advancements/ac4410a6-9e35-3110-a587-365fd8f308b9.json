@@ -14740,15 +14740,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 08:56:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
       "torchflower": "2025-07-11 08:37:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 08:56:43 +0000"
     },
     "done": true
   },

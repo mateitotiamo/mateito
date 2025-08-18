@@ -1,187 +1,201 @@
-[11Jul2025 01:19:01.593] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[11Jul2025 01:19:01.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
-[11Jul2025 01:19:01.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[11Jul2025 01:19:03.908] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[11Jul2025 01:19:04.032] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[11Jul2025 01:19:04.271] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[11Jul2025 01:19:04.434] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[11Jul2025 01:19:06.216] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Jul2025 01:19:06.243] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[11Jul2025 01:19:06.301] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[11Jul2025 01:19:06.356] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[11Jul2025 01:19:06.424] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.426] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.427] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.428] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.430] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.431] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.432] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.437] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.438] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.439] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.440] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.441] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.442] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.445] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.448] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.449] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.450] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.451] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.453] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.453] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.454] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.455] [main/WARN] [mixin/]: Reference map 'bearminimum.refmap.json' for bearminimum.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.457] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:06.457] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jul2025 01:19:07.249] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
-[11Jul2025 01:19:07.249] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
-[11Jul2025 01:19:14.213] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[11Jul2025 01:19:14.223] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
-[11Jul2025 01:19:14.239] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[11Jul2025 01:19:14.264] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[11Jul2025 01:19:14.266] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[11Jul2025 01:19:14.441] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
-[11Jul2025 01:19:14.444] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
-[11Jul2025 01:19:14.483] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event ...
-[11Jul2025 01:19:14.491] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
-[11Jul2025 01:19:14.491] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
-[11Jul2025 01:19:14.544] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[11Jul2025 01:19:14.573] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
-[11Jul2025 01:19:14.657] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
-[11Jul2025 01:19:14.691] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[11Jul2025 01:19:14.735] [modloading-worker-0/INFO] [Bear Minimum/]: Hello Forge world!
-[11Jul2025 01:19:14.740] [modloading-worker-0/INFO] [Bear Minimum/]: Hello from Common init on Forge! we are currently in a production environment!
-[11Jul2025 01:19:14.740] [modloading-worker-0/INFO] [Bear Minimum/]: The ID for diamonds is minecraft:diamond
-[11Jul2025 01:19:14.740] [modloading-worker-0/INFO] [Bear Minimum/]: Hello to bearminimum
-[11Jul2025 01:19:14.760] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
-[11Jul2025 01:19:14.762] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
-[11Jul2025 01:19:17.073] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[11Jul2025 01:19:17.078] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.InitLegacy/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
-[11Jul2025 01:19:17.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_withering_enchantment] Starting version check at https://api.modrinth.com/updates/xfnHnmrO/forge_updates.json
-[11Jul2025 01:19:17.135] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[11Jul2025 01:19:17.137] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[11Jul2025 01:19:17.137] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[11Jul2025 01:19:17.138] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[11Jul2025 01:19:17.138] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[11Jul2025 01:19:17.139] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[11Jul2025 01:19:17.140] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[11Jul2025 01:19:17.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_withering_enchantment] Found status: AHEAD Current: 1-v1.0.4 Target: null
-[11Jul2025 01:19:17.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_knowledgebook] Starting version check at https://api.modrinth.com/updates/Re96YqoB/forge_updates.json
-[11Jul2025 01:19:17.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_knowledgebook] Found status: AHEAD Current: 1-v1.1.1 Target: null
-[11Jul2025 01:19:17.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[11Jul2025 01:19:17.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
-[11Jul2025 01:19:17.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[11Jul2025 01:19:17.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.4.0 Target: null
-[11Jul2025 01:19:17.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[11Jul2025 01:19:18.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.12
-[11Jul2025 01:19:18.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
-[11Jul2025 01:19:18.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
-[11Jul2025 01:19:18.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[11Jul2025 01:19:18.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[11Jul2025 01:19:18.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
-[11Jul2025 01:19:18.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
-[11Jul2025 01:19:18.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Jul2025 01:19:18.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.23
-[11Jul2025 01:19:18.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json?forge=only
-[11Jul2025 01:19:18.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.5+mod Target: null
-[11Jul2025 01:19:18.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[11Jul2025 01:19:18.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[11Jul2025 01:19:18.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[11Jul2025 01:19:18.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[11Jul2025 01:19:18.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_burnless_enchantment] Starting version check at https://api.modrinth.com/updates/XMrTAtpK/forge_updates.json
-[11Jul2025 01:19:18.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_burnless_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
-[11Jul2025 01:19:18.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_soulboundenchantment] Starting version check at https://api.modrinth.com/updates/rX9CuCdA/forge_updates.json
-[11Jul2025 01:19:18.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_soulboundenchantment] Found status: AHEAD Current: 1-v1.0.3 Target: null
-[11Jul2025 01:19:18.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[11Jul2025 01:19:18.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[11Jul2025 01:19:18.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_enchantment] Starting version check at https://api.modrinth.com/updates/kgvL4ffX/forge_updates.json
-[11Jul2025 01:19:18.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
-[11Jul2025 01:19:18.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
-[11Jul2025 01:19:19.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
-[11Jul2025 01:19:19.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_poisoning_enchantment] Starting version check at https://api.modrinth.com/updates/eJZKQKzM/forge_updates.json
-[11Jul2025 01:19:19.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_poisoning_enchantment] Found status: AHEAD Current: 1-v1.0.4 Target: null
-[11Jul2025 01:19:19.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[11Jul2025 01:19:19.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.4.0 Target: 9.4.3
-[11Jul2025 01:19:19.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_swiftness_enchantment] Starting version check at https://api.modrinth.com/updates/81LiVMcA/forge_updates.json
-[11Jul2025 01:19:19.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_swiftness_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
-[11Jul2025 01:19:19.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[11Jul2025 01:19:19.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[11Jul2025 01:19:19.796] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11Jul2025 01:19:24.482] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 4047 recipes
-[11Jul2025 01:19:24.501] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2718 advancements
-[11Jul2025 01:19:24.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
-[11Jul2025 01:19:24.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Jul2025 01:19:24.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Jul2025 01:19:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Jul2025 01:19:24.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11Jul2025 01:19:24.944] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Jul2025 01:19:24.987] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11Jul2025 01:19:24.988] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11Jul2025 01:19:24.988] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11Jul2025 01:19:24.988] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11Jul2025 01:19:25.312] [Server thread/INFO] [spark/]: Starting background profiler...
-[11Jul2025 01:19:26.404] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[11Jul2025 01:19:26.405] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[11Jul2025 01:19:26.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11Jul2025 01:19:27.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Jul2025 01:19:32.734] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.737] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.737] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.737] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jul2025 01:19:32.905] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[11Jul2025 01:19:34.174] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[11Jul2025 01:19:34.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[11Jul2025 01:19:34.196] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6806 ms
-[11Jul2025 01:19:34.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.194s)! For help, type "help"
-[11Jul2025 01:19:34.211] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Jul2025 01:19:34.214] [Server thread/INFO] [com.Krysztok.tpamod.TpaMod/]: TPA Mod by Krysztok - Wszystkie komendy załadowane!
-[11Jul2025 01:19:34.232] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[11Jul2025 01:19:34.233] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[11Jul2025 01:19:34.236] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[11Jul2025 01:19:34.249] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[11Jul2025 01:19:34.250] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[11Jul2025 01:19:34.251] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[11Jul2025 01:19:34.252] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
-[11Jul2025 01:19:34.253] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/mateito/servidor_minecraft/config/infernalmobs.cfg
-[11Jul2025 01:20:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[11Jul2025 01:27:15.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:49615] logged in with entity id 201 at (4813.3854547048595, 108.0, 2230.588434806544)
-[11Jul2025 01:27:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[11Jul2025 01:27:16.296] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[11Jul2025 01:29:00.946] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
-[11Jul2025 01:43:29.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1431, l='ServerLevel[world]', x=-100317.70, y=62.49, z=-100010.63] died, message: 'Leatherworker was slain by Zombie'
-[11Jul2025 01:52:52.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1432, l='ServerLevel[world]', x=-100324.61, y=62.56, z=-100022.70] died, message: 'Villager was slain by Husk'
-[11Jul2025 01:58:02.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [You Need a Mint]
-[11Jul2025 02:05:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
-[11Jul2025 03:42:22.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[11Jul2025 03:42:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[11Jul2025 03:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[11Jul2025 04:20:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
-[11Jul2025 04:20:15.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:58208] logged in with entity id 53093 at (-100277.06641360496, 63.0, -100012.88095645896)
-[11Jul2025 04:20:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[11Jul2025 04:20:16.074] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[11Jul2025 04:22:48.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-100283, y=62, z=-100012}
-[11Jul2025 04:32:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: The difficulty has been set to Hard]
-[11Jul2025 04:58:24.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola amigos del yutub este es un gaymplei
-[11Jul2025 05:19:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.bone_picker.title]
-[11Jul2025 05:27:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.create_familiar_receptacle.title]
-[11Jul2025 05:39:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.find_grave_dust.title]
-[11Jul2025 05:57:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
-[11Jul2025 06:19:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [tombstone.advancement.choose_grave_type.title]
-[11Jul2025 06:49:23.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [tombstone.advancement.ashes_and_bones.title]
-[11Jul2025 06:56:14.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
-[11Jul2025 06:56:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
-[11Jul2025 06:57:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[11Jul2025 07:40:40.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gays
-[11Jul2025 07:41:02.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:61834] logged in with entity id 113273 at (-100247.8574057542, 68.0, -100476.15018245754)
-[11Jul2025 07:41:02.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
-[11Jul2025 07:41:02.644] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
-[11Jul2025 08:37:30.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [Planting the Past]
-[11Jul2025 08:49:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gay
-[11Jul2025 08:56:43.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [tombstone.advancement.fortuitous_militia.title]
+[18Aug2025 02:53:09.682] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[18Aug2025 02:53:09.687] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
+[18Aug2025 02:53:09.687] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[18Aug2025 02:53:12.028] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[18Aug2025 02:53:12.174] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mateito/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[18Aug2025 02:53:12.388] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mateito/servidor_minecraft/mods} returned 6 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[18Aug2025 02:53:12.543] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[18Aug2025 02:53:14.113] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Aug2025 02:53:14.138] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[18Aug2025 02:53:14.178] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[18Aug2025 02:53:14.214] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[18Aug2025 02:53:14.282] [main/WARN] [mixin/]: Reference map 'clienttweaks.refmap.json' for clienttweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.284] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.286] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.287] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.289] [main/WARN] [mixin/]: Reference map 'sound_physics_remastered.refmap.json' for sound_physics_remastered.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.290] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.291] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.293] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.294] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.295] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.295] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.296] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.297] [main/WARN] [mixin/]: Reference map 'shulkerbox.refmap.json' for shulkerbox.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.300] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.302] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.302] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.303] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.304] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.306] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.306] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.307] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.308] [main/WARN] [mixin/]: Reference map 'bearminimum.refmap.json' for bearminimum.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.309] [main/WARN] [mixin/]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:14.311] [main/WARN] [mixin/]: Reference map 'defaultoptions.refmap.json' for defaultoptions.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Aug2025 02:53:15.042] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[18Aug2025 02:53:15.042] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
+[18Aug2025 02:53:22.209] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[18Aug2025 02:53:22.230] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[18Aug2025 02:53:22.242] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[18Aug2025 02:53:22.246] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[18Aug2025 02:53:22.249] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[18Aug2025 02:53:22.484] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[18Aug2025 02:53:22.484] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[18Aug2025 02:53:22.524] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event ...
+[18Aug2025 02:53:22.541] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 55.0.3, for MC 1.21.5 with MCP 20250325.155543
+[18Aug2025 02:53:22.541] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v55.0.3 Initialized
+[18Aug2025 02:53:22.613] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[18Aug2025 02:53:22.637] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
+[18Aug2025 02:53:22.757] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[18Aug2025 02:53:22.764] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[18Aug2025 02:53:22.800] [modloading-worker-0/INFO] [Bear Minimum/]: Hello Forge world!
+[18Aug2025 02:53:22.801] [modloading-worker-0/INFO] [Bear Minimum/]: Hello from Common init on Forge! we are currently in a production environment!
+[18Aug2025 02:53:22.802] [modloading-worker-0/INFO] [Bear Minimum/]: The ID for diamonds is minecraft:diamond
+[18Aug2025 02:53:22.802] [modloading-worker-0/INFO] [Bear Minimum/]: Hello to bearminimum
+[18Aug2025 02:53:22.863] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[18Aug2025 02:53:22.865] [modloading-worker-0/INFO] [fr.samlegamer.addonslib.AddonsLib/]: AddonsLib Forge !
+[18Aug2025 02:53:25.531] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[18Aug2025 02:53:25.534] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.InitLegacy/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[18Aug2025 02:53:25.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_withering_enchantment] Starting version check at https://api.modrinth.com/updates/xfnHnmrO/forge_updates.json
+[18Aug2025 02:53:25.572] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18Aug2025 02:53:25.573] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[18Aug2025 02:53:25.573] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[18Aug2025 02:53:25.573] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[18Aug2025 02:53:25.574] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[18Aug2025 02:53:25.574] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[18Aug2025 02:53:25.575] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[18Aug2025 02:53:25.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_withering_enchantment] Found status: AHEAD Current: 1-v1.0.4 Target: null
+[18Aug2025 02:53:25.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_knowledgebook] Starting version check at https://api.modrinth.com/updates/Re96YqoB/forge_updates.json
+[18Aug2025 02:53:25.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_knowledgebook] Found status: AHEAD Current: 1-v1.1.1 Target: null
+[18Aug2025 02:53:25.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[18Aug2025 02:53:26.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: OUTDATED Current: 1.8.6+mod Target: 1.8.9+mod
+[18Aug2025 02:53:26.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[18Aug2025 02:53:26.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.4.0 Target: null
+[18Aug2025 02:53:26.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[18Aug2025 02:53:26.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: BETA_OUTDATED Current: 1.21.5-1.4.10 Target: 1.21.5-1.4.15
+[18Aug2025 02:53:26.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.5&ml=forge
+[18Aug2025 02:53:26.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 23.0.0.1 Target: 23.0.0.1
+[18Aug2025 02:53:26.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[18Aug2025 02:53:26.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[18Aug2025 02:53:26.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Starting version check at https://update.maxhenkel.de/forge/shulkerbox
+[18Aug2025 02:53:26.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shulkerbox] Found status: BETA Current: 1.21.5-2.0.5 Target: 1.21.5-2.0.5
+[18Aug2025 02:53:26.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Aug2025 02:53:26.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 55.0.3 Target: 55.0.24
+[18Aug2025 02:53:26.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json?forge=only
+[18Aug2025 02:53:27.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.5+mod Target: null
+[18Aug2025 02:53:27.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[18Aug2025 02:53:27.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[18Aug2025 02:53:27.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[18Aug2025 02:53:27.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[18Aug2025 02:53:27.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_burnless_enchantment] Starting version check at https://api.modrinth.com/updates/XMrTAtpK/forge_updates.json
+[18Aug2025 02:53:27.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_burnless_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
+[18Aug2025 02:53:27.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_soulboundenchantment] Starting version check at https://api.modrinth.com/updates/rX9CuCdA/forge_updates.json
+[18Aug2025 02:53:27.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lullaby_soulboundenchantment] Found status: AHEAD Current: 1-v1.0.3 Target: null
+[18Aug2025 02:53:27.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[18Aug2025 02:53:27.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[18Aug2025 02:53:27.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_enchantment] Starting version check at https://api.modrinth.com/updates/kgvL4ffX/forge_updates.json
+[18Aug2025 02:53:27.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
+[18Aug2025 02:53:27.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.5&ml=forge
+[18Aug2025 02:53:27.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA_OUTDATED Current: 1.0.2 Target: 1.0.3
+[18Aug2025 02:53:27.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_poisoning_enchantment] Starting version check at https://api.modrinth.com/updates/eJZKQKzM/forge_updates.json
+[18Aug2025 02:53:27.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_poisoning_enchantment] Found status: AHEAD Current: 1-v1.0.4 Target: null
+[18Aug2025 02:53:27.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18Aug2025 02:53:27.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.4.0 Target: 9.4.3
+[18Aug2025 02:53:27.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_swiftness_enchantment] Starting version check at https://api.modrinth.com/updates/81LiVMcA/forge_updates.json
+[18Aug2025 02:53:27.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_swiftness_enchantment] Found status: AHEAD Current: 1-v1.0.0 Target: null
+[18Aug2025 02:53:27.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[18Aug2025 02:53:27.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[18Aug2025 02:53:28.399] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Aug2025 02:53:33.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 4047 recipes
+[18Aug2025 02:53:33.061] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2718 advancements
+[18Aug2025 02:53:33.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[18Aug2025 02:53:33.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Aug2025 02:53:33.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Aug2025 02:53:33.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Aug2025 02:53:33.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Aug2025 02:53:33.463] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Aug2025 02:53:33.507] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Aug2025 02:53:33.507] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Aug2025 02:53:33.508] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Aug2025 02:53:33.508] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Aug2025 02:53:33.831] [Server thread/INFO] [spark/]: Starting background profiler...
+[18Aug2025 02:53:34.588] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[18Aug2025 02:53:35.047] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[18Aug2025 02:53:35.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Aug2025 02:53:35.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Aug2025 02:53:42.092] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.096] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.096] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.097] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.098] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.103] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 02:53:42.522] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[18Aug2025 02:53:42.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18Aug2025 02:53:44.015] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[18Aug2025 02:53:44.016] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[18Aug2025 02:53:44.043] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8081 ms
+[18Aug2025 02:53:44.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.525s)! For help, type "help"
+[18Aug2025 02:53:44.110] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Aug2025 02:53:44.113] [Server thread/INFO] [com.Krysztok.tpamod.TpaMod/]: TPA Mod by Krysztok - Wszystkie komendy załadowane!
+[18Aug2025 02:53:44.134] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[18Aug2025 02:53:44.135] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[18Aug2025 02:53:44.137] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[18Aug2025 02:53:44.221] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[18Aug2025 02:53:44.223] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[18Aug2025 02:53:44.225] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[18Aug2025 02:53:44.228] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
+[18Aug2025 02:53:44.228] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/mateito/servidor_minecraft/config/infernalmobs.cfg
+[18Aug2025 02:54:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[18Aug2025 02:55:57.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:56195] logged in with entity id 201 at (4827.476012050335, 84.0, 2256.8405400233337)
+[18Aug2025 02:55:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[18Aug2025 02:55:58.096] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[18Aug2025 02:55:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has completed the challenge [tombstone.advancement.tutorial.title]
+[18Aug2025 02:56:21.474] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: Serverside BlockPos hacked: 2
+[18Aug2025 02:58:30.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:63365] logged in with entity id 1895 at (-100277.19393562373, 63.0, -100016.0044171977)
+[18Aug2025 02:58:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[18Aug2025 02:58:30.840] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[18Aug2025 02:59:24.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[18Aug2025 02:59:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[18Aug2025 03:00:04.755] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:00:05.268] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:tombstone_channel] rejected their client side version number
+[18Aug2025 03:00:05.270] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Terminating connection with client, mismatched channel list
+[18Aug2025 03:00:05.303] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5846c7b9[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Connection closed - mismatched mod channel list
+[18Aug2025 03:00:39.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nazcke[/100.111.149.13:56511] logged in with entity id 5319 at (4745.37108892506, 89.0, 2213.7541285565876)
+[18Aug2025 03:00:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke joined the game
+[18Aug2025 03:00:40.120] [Server thread/INFO] [ping-wheel/]: Channel update: nazcke -> default
+[18Aug2025 03:01:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Creative Mode]
+[18Aug2025 03:03:16.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[18Aug2025 03:03:51.793] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:tombstone_channel, walljump:network, glitchcore:main, sereneseasons:main, waystones:network] rejected vanilla connections
+[18Aug2025 03:03:51.794] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.75.170.106:60031] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[18Aug2025 03:05:03.805] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:05:04.290] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:tombstone_channel] rejected their client side version number
+[18Aug2025 03:05:04.291] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Terminating connection with client, mismatched channel list
+[18Aug2025 03:05:04.301] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a2c1cbc[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Connection closed - mismatched mod channel list
+[18Aug2025 03:05:14.484] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:05:14.860] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:tombstone_channel] rejected their client side version number
+[18Aug2025 03:05:14.861] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Terminating connection with client, mismatched channel list
+[18Aug2025 03:05:14.901] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@35c06ab4[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Connection closed - mismatched mod channel list
+[18Aug2025 03:09:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Gave 5000 experience points to nazcke]
+[18Aug2025 03:16:05.629] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:16:09.000] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@70262544[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 03:16:13.252] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:16:16.448] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@31960e39[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 03:16:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> no al toto
+[18Aug2025 03:16:46.532] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 03:16:49.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[18Aug2025 03:16:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[18Aug2025 03:16:49.751] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@201a22aa[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 03:17:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [tombstone.advancement.bone_meal.title]
+[18Aug2025 03:18:34.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:49517] logged in with entity id 16169 at (4776.603176732372, 80.25, 2209.1718706946103)
+[18Aug2025 03:18:34.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[18Aug2025 03:18:35.010] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[18Aug2025 03:19:53.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[18Aug2025 03:19:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
