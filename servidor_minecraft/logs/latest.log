@@ -292,3 +292,15 @@
 [18Aug2025 05:03:39.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
 [18Aug2025 05:03:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
 [18Aug2025 05:04:39.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[18Aug2025 05:06:10.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Aug2025 05:06:10.288] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[18Aug2025 05:06:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Aug2025 05:06:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Aug2025 05:06:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Aug2025 05:06:10.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Aug2025 05:06:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Aug2025 05:06:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Aug2025 05:06:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Aug2025 05:06:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Aug2025 05:06:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Aug2025 05:06:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
