@@ -213,3 +213,46 @@
 [18Aug2025 03:36:14.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: No skin changes]
 [18Aug2025 03:37:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [18Aug2025 03:39:45.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[18Aug2025 03:56:25.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[18Aug2025 03:58:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[18Aug2025 03:58:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[18Aug2025 03:58:59.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Spectator Mode]
+[18Aug2025 03:59:10.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Creative Mode]
+[18Aug2025 03:59:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[18Aug2025 03:59:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Survival Mode]
+[18Aug2025 03:59:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Spectator Mode]
+[18Aug2025 03:59:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Spectator Mode]
+[18Aug2025 03:59:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Set own game mode to Survival Mode]
+[18Aug2025 04:00:06.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Set own game mode to Survival Mode]
+[18Aug2025 04:06:11.076] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 04:06:14.552] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@76c23a5f[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 04:07:16.788] [ForkJoinPool.commonPool-worker-17/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 04:07:20.152] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d42d3c9[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 04:08:36.070] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 04:08:39.200] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ca2d2c3[id=52c0573f-bbf7-322c-862f-826cf69e2bc4,name=WooZiMu_,properties={}] lost connection: Disconnected
+[18Aug2025 04:09:23.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[18Aug2025 04:09:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[18Aug2025 04:11:05.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5404, l='ServerLevel[world]', x=4658.82, y=74.00, z=2274.30] died, message: 'Fletcher was slain by Zombie'
+[18Aug2025 04:11:29.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5370, l='ServerLevel[world]', x=4659.44, y=74.50, z=2284.82] died, message: 'Fletcher was slain by Zombie'
+[18Aug2025 04:11:40.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5376, l='ServerLevel[world]', x=4651.62, y=74.00, z=2277.00] died, message: 'Farmer was slain by Zombie Villager'
+[18Aug2025 04:11:56.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/5375, l='ServerLevel[world]', x=4657.06, y=75.02, z=2273.49] died, message: 'Toolsmith was slain by Zombie Villager'
+[18Aug2025 04:12:01.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5400, l='ServerLevel[world]', x=4659.62, y=75.00, z=2281.54] died, message: 'Fletcher was slain by Zombie Villager'
+[18Aug2025 04:12:09.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5378, l='ServerLevel[world]', x=4659.49, y=75.00, z=2283.91] died, message: 'Fletcher was slain by Zombie Villager'
+[18Aug2025 04:12:21.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5369, l='ServerLevel[world]', x=4659.70, y=74.00, z=2286.38] died, message: 'Fletcher was slain by Zombie Villager'
+[18Aug2025 04:12:41.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5402, l='ServerLevel[world]', x=4659.61, y=75.00, z=2274.11] died, message: 'Weaponsmith was slain by Zombie Villager'
+[18Aug2025 04:12:46.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5401, l='ServerLevel[world]', x=4659.41, y=74.00, z=2282.30] died, message: 'Fletcher was slain by Zombie'
+[18Aug2025 04:12:58.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5379, l='ServerLevel[world]', x=4659.65, y=74.00, z=2285.61] died, message: 'Weaponsmith was slain by Zombie Villager'
+[18Aug2025 04:13:05.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5373, l='ServerLevel[world]', x=4655.30, y=74.00, z=2286.49] died, message: 'Fletcher was slain by Zombie'
+[18Aug2025 04:13:06.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/5403, l='ServerLevel[world]', x=4651.54, y=74.00, z=2274.19] died, message: 'Toolsmith was slain by Zombie Villager'
+[18Aug2025 04:14:23.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:57058] logged in with entity id 33371 at (4862.863419901603, 98.0, 2205.486425677118)
+[18Aug2025 04:14:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[18Aug2025 04:14:23.950] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[18Aug2025 04:14:42.798] [ForkJoinPool.commonPool-worker-20/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[18Aug2025 04:14:50.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WooZiMu_[/100.75.170.106:59611] logged in with entity id 33526 at (4743.753627313348, 87.5, 2227.562747470899)
+[18Aug2025 04:14:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ joined the game
+[18Aug2025 04:14:51.006] [Server thread/INFO] [ping-wheel/]: Channel update: WooZiMu_ -> default
+[18Aug2025 04:14:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has completed the challenge [tombstone.advancement.tutorial.title]
+[18Aug2025 04:15:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[18Aug2025 04:18:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[18Aug2025 04:19:17.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[18Aug2025 04:19:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
