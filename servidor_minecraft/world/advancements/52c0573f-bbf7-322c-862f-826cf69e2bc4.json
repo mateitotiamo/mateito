@@ -496,6 +496,7 @@
       "minecraft:wither_skeleton": "2025-06-24 07:45:41 +0000",
       "minecraft:husk": "2025-06-24 05:24:28 +0000",
       "minecraft:ghast": "2025-06-24 08:04:14 +0000",
+      "minecraft:ender_dragon": "2025-08-18 04:55:01 +0000",
       "minecraft:piglin": "2025-07-02 01:17:48 +0000",
       "minecraft:guardian": "2025-06-21 23:51:46 +0000",
       "minecraft:silverfish": "2025-06-21 23:21:53 +0000",
@@ -5615,6 +5616,18 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-18 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-18 04:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-08-18 04:49:41 +0000"
@@ -5636,6 +5649,12 @@
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-08-18 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-18 04:57:43 +0000"
     },
     "done": true
   },
@@ -5693,6 +5712,12 @@
     },
     "done": true
   },
+  "usefulfood:recipes/food/sweet_berries_ice_cream": {
+    "criteria": {
+      "has_base_item": "2025-08-18 04:57:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_meal": {
     "criteria": {
       "coded_trigger": "2025-08-18 04:29:47 +0000"
@@ -5714,6 +5739,12 @@
   "darkspins:root": {
     "criteria": {
       "darkspins_root": "2025-08-18 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "usefulfood:recipes/food/sweet_berries_juice": {
+    "criteria": {
+      "has_base_item": "2025-08-18 04:57:43 +0000"
     },
     "done": true
   },

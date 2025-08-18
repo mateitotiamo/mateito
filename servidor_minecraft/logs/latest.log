@@ -284,3 +284,11 @@
 [18Aug2025 04:49:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [The End?]
 [18Aug2025 04:49:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [The End?]
 [18Aug2025 04:55:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Free the End]
+[18Aug2025 04:56:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has reached the goal [The Next Generation]
+[18Aug2025 04:59:48.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nazcke lost connection: Disconnected
+[18Aug2025 04:59:48.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke left the game
+[18Aug2025 05:00:46.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WooZiMu_ lost connection: Disconnected
+[18Aug2025 05:00:46.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ left the game
+[18Aug2025 05:03:39.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
+[18Aug2025 05:03:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[18Aug2025 05:04:39.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
