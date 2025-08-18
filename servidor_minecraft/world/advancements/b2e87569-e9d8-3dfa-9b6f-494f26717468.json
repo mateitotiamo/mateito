@@ -5972,6 +5972,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-18 03:28:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_meal": {
     "criteria": {
       "coded_trigger": "2025-08-18 03:17:55 +0000"

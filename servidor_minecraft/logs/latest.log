@@ -199,3 +199,13 @@
 [18Aug2025 03:18:35.010] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
 [18Aug2025 03:19:53.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShallanDav4r lost connection: Disconnected
 [18Aug2025 03:19:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r left the game
+[18Aug2025 03:23:21.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShallanDav4r[/100.120.23.82:50230] logged in with entity id 18220 at (4776.603176732372, 80.25, 2209.1718706946103)
+[18Aug2025 03:23:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r joined the game
+[18Aug2025 03:23:22.548] [Server thread/INFO] [ping-wheel/]: Channel update: ShallanDav4r -> default
+[18Aug2025 03:24:40.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[18Aug2025 03:26:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> stop
+[18Aug2025 03:27:00.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nazcke> stop mundo
+[18Aug2025 03:28:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [What a Deal!]
+[18Aug2025 03:31:39.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [tombstone.advancement.first_knowledge.title]
+[18Aug2025 03:31:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [tombstone.advancement.stolen_magic.title]
+[18Aug2025 03:32:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [tombstone.advancement.choose_knowledge.title]
