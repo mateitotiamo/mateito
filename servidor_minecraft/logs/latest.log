@@ -265,3 +265,22 @@
 [18Aug2025 04:32:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> aaaaa
 [18Aug2025 04:33:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
 [18Aug2025 04:33:40.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to ShallanDav4r]
+[18Aug2025 04:36:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [What a Deal!]
+[18Aug2025 04:42:46.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to nazcke]
+[18Aug2025 04:42:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WooZiMu_: Teleported WooZiMu_ to nazcke]
+[18Aug2025 04:44:36.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShallanDav4r> judio
+[18Aug2025 04:46:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WooZiMu_> conq ue flechas
+[18Aug2025 04:46:56.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[18Aug2025 04:46:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has reached the goal [You Need a Mint]
+[18Aug2025 04:48:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to ShallanDav4r]
+[18Aug2025 04:48:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has reached the goal [tombstone.advancement.bone_crusher.title]
+[18Aug2025 04:49:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nazcke: Teleported nazcke to WooZiMu_]
+[18Aug2025 04:49:22.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [Eye Spy]
+[18Aug2025 04:49:27.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShallanDav4r: Teleported ShallanDav4r to WooZiMu_]
+[18Aug2025 04:49:34.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [The End?]
+[18Aug2025 04:49:35.620] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Aug2025 04:49:35.621] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Aug2025 04:49:36.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[18Aug2025 04:49:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nazcke has made the advancement [The End?]
+[18Aug2025 04:49:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShallanDav4r has made the advancement [The End?]
+[18Aug2025 04:55:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WooZiMu_ has made the advancement [Free the End]
