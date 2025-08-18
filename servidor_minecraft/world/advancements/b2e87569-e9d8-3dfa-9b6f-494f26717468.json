@@ -35,6 +35,7 @@
       "snowy_fir_clearing": "2025-06-28 06:35:34 +0000",
       "tundra": "2025-06-28 06:23:09 +0000",
       "withered_abyss": "2025-06-28 05:15:52 +0000",
+      "gravel_beach": "2025-08-18 03:37:16 +0000",
       "orchard": "2025-06-24 03:36:57 +0000",
       "field": "2025-06-28 07:28:14 +0000",
       "undergrowth": "2025-07-05 06:11:50 +0000",
@@ -5966,6 +5967,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-18 03:40:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:31:39 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-08-18 03:40:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-08-18 03:17:42 +0000"
@@ -5975,6 +6000,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-18 03:28:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:31:39 +0000"
     },
     "done": true
   },
